@@ -2,425 +2,380 @@
 {"dg-publish":true,"permalink":"/opo-melilla/bloque-1/tema-4-minisdef/","dgPassFrontmatter":true}
 ---
 
-# Real Decreto 205/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. 🛡️
+# Real Decreto 205/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. 🏛️
 
 ## Preámbulo
-El Real Decreto 829/2023 reestructuró los departamentos ministeriales para impulsar objetivos prioritarios, desarrollar el programa del Gobierno y lograr la máxima eficacia y eficiencia de la Administración General del Estado. El artículo 4 establece que el Ministerio de Defensa ejerce las competencias y atribuciones que le confiere el ordenamiento jurídico en materia de política de defensa.
 
-El Real Decreto 1009/2023 aprueba la nueva organización interna de los ministerios y desarrolla la estructura del Ministerio de Defensa, similar a la del Real Decreto 372/2020. El Centro Nacional de Inteligencia (CNI) sigue adscrito al Ministerio de Defensa, y la Unidad Militar de Emergencias (UME) depende directamente de la persona titular del Ministerio de Defensa.
-
-Este Real Decreto define las responsabilidades de los órganos superiores y directivos del Ministerio de Defensa, sus funciones y dependencias. También menciona la organización militar de las Fuerzas Armadas, que se rige por su propia normativa según la Ley Orgánica 5/2005.
-
-La Dirección de Comunicación Institucional de la Defensa pasa a ser la Oficina de Comunicación Institucional y Prensa del Ministerio de Defensa, dependiente de la persona titular del Departamento a través de su Gabinete.
-
-La Secretaría de Estado de Defensa dirige políticas de armamento, material, investigación, innovación, economía, infraestructura, medio ambiente, sistemas, tecnologías, seguridad de la información y transformación digital. También dirige funcionalmente el Sistema de Información y Gestión de la Infraestructura en el Ministerio de Defensa (SINFRADEF).
-
-La Subsecretaría de Defensa dirige la política de personal, reclutamiento, enseñanza y sanidad, con especial atención a la igualdad, las personas con discapacidad y el personal militar de tropa y marinería con compromiso temporal y a los Reservistas de Especial Disponibilidad. Se establecen actuaciones para el desarrollo profesional de estos colectivos, incluyendo su promoción en las Fuerzas Armadas o su reincorporación al ámbito laboral civil.
-
-Se incorpora una Inspección General de Servicios dentro de la Vicesecretaría General Técnica, según el Real Decreto 799/2005.
-
-La Secretaría General de Política de Defensa dirige la política de defensa, la promoción de la cultura de defensa y la diplomacia de defensa, además de la contribución del Ministerio a la conducción de crisis y emergencias.
-
-Este Real Decreto cumple con los principios de buena regulación, siendo necesario, proporcional y eficiente, sin generar nuevas cargas administrativas.
+- El Real Decreto 829/2023 reestructuró los departamentos ministeriales.
+    
+- El Ministerio de Defensa ejerce las competencias sobre política de defensa.
+    
+- El Real Decreto 1009/2023 estableció la estructura orgánica básica del Ministerio de Defensa, similar al Real Decreto 372/2020.
+    
+- Se mantiene la adscripción del Centro Nacional de Inteligencia al Ministerio de Defensa y la dependencia de la Unidad Militar de Emergencias de la persona titular del Ministerio de Defensa.
+    
+- Este Real Decreto establece las responsabilidades de los órganos superiores y directivos del Ministerio de Defensa.
+    
+- La organización militar de las Fuerzas Armadas se rige por su propia normativa.
+    
+- La Dirección de Comunicación Institucional de la Defensa pasa a ser la Oficina de Comunicación Institucional y Prensa del Ministerio de Defensa.
+    
+- La Secretaría de Estado de Defensa gestiona las políticas de armamento, I+D+i, economía, infraestructura y sistemas de información.
+    
+- La Subsecretaría de Defensa gestiona la política de personal, reclutamiento, enseñanza y sanidad, con especial atención a la igualdad y al personal temporal.
+    
+- Se incorpora una Inspección General de Servicios en la Vicesecretaría General Técnica.
+    
+- La Secretaría General de Política de Defensa gestiona la política de defensa, la cultura de defensa y la diplomacia de defensa.
+    
+- Este real decreto se adecua a los principios de buena regulación de la Ley 39/2015.
+    
 
 ## Artículos
 
-### Artículo 1. Organización general del Departamento. 🏛️
-* El Ministerio de Defensa es responsable de la preparación, desarrollo y ejecución de la política de defensa y la gestión de la administración militar.
-* Las competencias se ejercerán en coordinación con otros Departamentos ministeriales.
-* El Ministerio de Defensa se estructura en:
-    * a) Las Fuerzas Armadas.
-    * b) La Secretaría de Estado de Defensa.
-    * c) La Subsecretaría de Defensa.
-    * d) La Secretaría General de Política de Defensa.
-* El CNI está adscrito al Ministerio de Defensa, con dependencia directa de la persona titular del Departamento.
-* La Guardia Civil depende de la persona titular del Ministerio de Defensa según la normativa aplicable.
-* Son órganos asesores y consultivos de la persona titular del Departamento:
-    * a) El Consejo Superior del Ejército de Tierra.
-    * b) El Consejo Superior de la Armada.
-    * c) El Consejo Superior del Ejército del Aire y del Espacio.
-    * d) La Junta Superior del Cuerpo Jurídico Militar.
-    * e) La Junta Superior del Cuerpo Militar de Intervención.
-    * f) La Junta Superior del Cuerpo Militar de Sanidad.
-    * g) La Junta Superior del Cuerpo de Músicas Militares.
-* Existe un Gabinete, con rango de dirección general, de asesoramiento a la persona titular del Ministerio de Defensa y un Gabinete Técnico, con rango de director general, de enlace con las Fuerzas Armadas.
-* Del Gabinete de la persona titular del Ministerio de Defensa depende la Oficina de Comunicación Institucional y Prensa, con rango de subdirección general.
+### Artículo 1. Organización general del Departamento. 🏢
 
-💡 ***Tip/Consejo: Este artículo establece la estructura básica del Ministerio de Defensa, desde las Fuerzas Armadas hasta los órganos asesores. Es crucial entender cómo se jerarquizan las diferentes entidades.***
-🔑 ***Aspecto Clave: El Ministerio de Defensa se estructura en Fuerzas Armadas, Secretarías de Estado y General, y órganos asesores.***
+- 💡 **Tip/Consejo: Este artículo define la estructura básica del Ministerio de Defensa, estableciendo las relaciones entre sus diferentes componentes y los órganos asesores. Es fundamental para entender cómo se organiza el ministerio en su conjunto.**
+    
+- 🔑 **Aspecto Clave: El Ministerio de Defensa se estructura en las Fuerzas Armadas, la Secretaría de Estado de Defensa, la Subsecretaría de Defensa y la Secretaría General de Política de Defensa, con el Centro Nacional de Inteligencia adscrito a la persona titular del Departamento.**
+    
+
+1. El Ministerio de Defensa es el Departamento de la Administración General del Estado al que le corresponde la preparación, el desarrollo y la ejecución de la política de defensa determinada por el Gobierno y la gestión de la administración militar.
+    
+2. Las competencias atribuidas en este real decreto se entenderán en coordinación y sin perjuicio de aquellas que corresponden a otros Departamentos ministeriales.
+    
+3. El Ministerio de Defensa, bajo la dirección de la persona titular del Departamento, se estructura en:
+    
+    - a) Las Fuerzas Armadas.
+        
+    - b) La Secretaría de Estado de Defensa.
+        
+    - c) La Subsecretaría de Defensa.
+        
+    - d) La Secretaría General de Política de Defensa.
+        
+4. Está adscrito al Ministerio de Defensa, con dependencia directa de la persona titular del Departamento, el Centro Nacional de Inteligencia.
+    
+5. La Guardia Civil depende de la persona titular del Ministerio de Defensa en los términos previstos en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad; en la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional; en la Ley Orgánica 12/2007, de 22 de octubre, del régimen disciplinario de la Guardia Civil, y en la Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil.
+    
+6. Son órganos asesores y consultivos de la persona titular del Departamento:
+    
+    - a) El Consejo Superior del Ejército de Tierra.
+        
+    - b) El Consejo Superior de la Armada.
+        
+    - c) El Consejo Superior del Ejército del Aire y del Espacio.
+        
+    - d) La Junta Superior del Cuerpo Jurídico Militar.
+        
+    - e) La Junta Superior del Cuerpo Militar de Intervención.
+        
+    - f) La Junta Superior del Cuerpo Militar de Sanidad.
+        
+    - g) La Junta Superior del Cuerpo de Músicas Militares.
+        
+7. En consonancia con el artículo 10 de la Ley 50/1997, de 27 de noviembre, del Gobierno, existe un Gabinete, con rango de dirección general, de asesoramiento a la persona titular del Ministerio de Defensa, que actúa como órgano de apoyo político, técnico, administrativo y en tareas de confianza en el cumplimiento de las labores de carácter parlamentario, en sus relaciones con las instituciones y en la organización administrativa.  
+    Por otra parte, también existe un Gabinete Técnico, al que corresponde la asistencia técnica en materias relativas al enlace con las Fuerzas Armadas, cuya persona titular será un oficial general, con rango de director general, según consta en el artículo 3.1.d) del Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+    
+8. Del Gabinete de la persona titular del Ministerio de Defensa depende, con rango de subdirección general, la Oficina de Comunicación Institucional y Prensa del Ministerio de Defensa, que actuará como portavoz oficial del Departamento, a la que le corresponde mantener las relaciones informativas y de publicidad institucional, coordinar las oficinas de comunicación de los cuarteles generales, mandos y unidades de las Fuerzas Armadas, y ejercer las competencias en materia de comunicación digital del Ministerio de Defensa, con especial atención a la gestión y actualización del contenido de la página electrónica del Departamento. Igualmente, asumirá la dirección funcional y editorial de la Revista Española de Defensa y de todas las publicaciones periódicas de carácter no específicamente técnico-administrativo pertenecientes al Ministerio de Defensa.
+    
 
 ### Artículo 2. Fuerzas Armadas. ⚔️
-* La organización militar se rige por su normativa específica.
-* El Jefe de Estado Mayor de la Defensa (JEMAD), con rango de secretario de estado, representa al Departamento en los casos que se le confieran y ante organizaciones internacionales de seguridad y defensa.
-* El JEMAD cuenta con un Gabinete y un Gabinete Técnico, ambos con rango de subdirección general.
-* Del JEMAD dependen las representaciones militares en organismos internacionales.
-* Los Jefes de Estado Mayor de los Ejércitos tienen rango de subsecretario.
-* La UME depende orgánicamente de la persona titular del Ministerio de Defensa y tiene como misión la intervención en casos de grave riesgo, catástrofe o calamidad. El JEMAD ejerce competencias sobre la UME en operaciones militares de seguridad y defensa.
 
-💡 ***Tip/Consejo: Este artículo define el rol del JEMAD y la dependencia de la UME, destacando la diferencia entre la gestión operativa de la UME y su dependencia orgánica.***
-🔑 ***Aspecto Clave: El JEMAD ostenta representación militar y la UME interviene en emergencias bajo la dependencia del Ministerio.***
+- 💡 **Tip/Consejo: Este artículo define la organización de las Fuerzas Armadas, el papel del JEMAD y la misión de la UME. Es importante para entender la estructura militar y las responsabilidades operativas.**
+    
+- 🔑 **Aspecto Clave: La organización militar se rige por su normativa específica, el JEMAD representa al Departamento en temas de defensa, y la UME interviene en emergencias.**
+    
 
-### Artículo 3. Secretaría de Estado de Defensa. ⚙️
-* La Secretaría de Estado de Defensa dirige las políticas de armamento, material, investigación, innovación, economía, infraestructura, medio ambiente, sistemas, tecnologías y seguridad de la información, y la transformación digital del Departamento.
-* Contribuye a la elaboración y ejecución de la política de defensa y al planeamiento de la Defensa.
-* De la Secretaría de Estado de Defensa dependen:
-    * a) La Dirección General de Estrategia e Innovación de la Industria de Defensa.
-    * b) La Dirección General de Armamento y Material.
-    * c) La Dirección General de Asuntos Económicos.
-    * d) La Dirección General de Infraestructura.
-    * e) El Centro de Sistemas y Tecnologías de la Información y las Comunicaciones.
-* La persona titular de la Secretaría de Estado tiene un Gabinete y un Gabinete Técnico con rango de subdirección general.
-* La persona titular de la Secretaría de Estado de Defensa puede representar al Departamento en materias de su competencia.
-* Están adscritos a la Secretaría de Estado de Defensa el Instituto Nacional de Técnica Aeroespacial (INTA), el Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa (INVIED) y la Agencia Espacial Española.
-* Depende de la Secretaría de Estado de Defensa la Junta de Enajenación de Bienes Muebles y Productos de Defensa.
+1. La organización militar se rige por su normativa específica, con arreglo a lo dispuesto en la Ley Orgánica 5/2005, de 17 de noviembre.
+    
+2. El Jefe de Estado Mayor de la Defensa (JEMAD), con rango de secretario de estado, ostentará la representación del Departamento, por delegación de la persona titular del Departamento, en los casos en que ésta se la confiera, y la representación militar nacional ante las organizaciones internacionales de seguridad y defensa.
+    
+3. El Jefe de Estado Mayor de la Defensa cuenta, como órganos de apoyo, asesoramiento y asistencia inmediata, con un Gabinete, con rango de subdirección general y con la estructura que establece el artículo 23.3 del Real Decreto 1009/2023, de 5 de diciembre, y con un Gabinete Técnico, cuya persona titular será un oficial general u oficial, también con rango de subdirector general.
+    
+4. Dependen del Jefe de Estado Mayor de la Defensa las representaciones militares en los organismos internacionales.
+    
+5. Los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire y del Espacio tienen rango de subsecretario.
+    
+6. La Unidad Militar de Emergencias (UME), que depende orgánicamente de la persona titular del Ministerio de Defensa, está constituida de forma permanente y tiene como misión la intervención en cualquier lugar del territorio nacional y en el exterior, para contribuir a la seguridad y bienestar de los ciudadanos en los supuestos de grave riesgo, catástrofe, calamidad u otras necesidades públicas, con arreglo a lo dispuesto en el Real Decreto 1097/2011, de 22 de julio, por el que se aprueba el Protocolo de Intervención de la Unidad Militar de Emergencias. La persona titular del Departamento dictará las normas que regulen la organización y el funcionamiento de esta unidad en el ámbito del Departamento. Sin perjuicio de lo anterior, como parte integrante de las Fuerzas Armadas, el Jefe del Estado Mayor de la Defensa ejercerá sobre la UME las competencias que, con arreglo a lo establecido en los artículos 12.3.b) y 15.2 de la Ley Orgánica 5/2005, de 17 de noviembre, le atribuye en los supuestos de conducción de operaciones militares que contribuyan a la seguridad y defensa de España y de sus aliados.
+    
 
-💡 ***Tip/Consejo: La Secretaría de Estado de Defensa es clave para la gestión de recursos y tecnología. Observa las áreas de responsabilidad de sus órganos dependientes.***
-🔑 ***Aspecto Clave: La Secretaría de Estado gestiona recursos y tecnología, con INTA, INVIED y Agencia Espacial adscritos.***
+### Artículo 3. Secretaría de Estado de Defensa. 🛡️
+
+- 💡 **Tip/Consejo: Este artículo define las responsabilidades de la Secretaría de Estado de Defensa, que es fundamental en la gestión de las políticas de armamento y material, así como la investigación e infraestructura. Es la clave de la ejecución de muchas políticas del Ministerio.**
+    
+- 🔑 **Aspecto Clave: La Secretaría de Estado de Defensa dirige las políticas de armamento, I+D+i, economía, infraestructura y sistemas de información, así como la transformación digital del Departamento.**
+    
+
+1. La Secretaría de Estado de Defensa es el órgano superior del Departamento al que le corresponden, además de las competencias que le encomienda el artículo 62 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la dirección, impulso y gestión de las políticas de armamento y material, la investigación, desarrollo e innovación industrial, económica, de infraestructura, medioambiental y de los sistemas, tecnologías y seguridad de la información en el ámbito de la Defensa, así como el impulso del proceso de transformación digital del Departamento.
+    
+2. Asimismo, contribuirá a la elaboración y ejecución de la política de defensa y ejercerá las competencias que le correspondan en el planeamiento de la Defensa.
+    
+3. De la Secretaría de Estado de Defensa dependen los siguientes órganos directivos, con rango de Dirección General:
+    
+    - a) La Dirección General de Estrategia e Innovación de la Industria de Defensa.
+        
+    - b) La Dirección General de Armamento y Material.
+        
+    - c) La Dirección General de Asuntos Económicos.
+        
+    - d) La Dirección General de Infraestructura.
+        
+    - e) El Centro de Sistemas y Tecnologías de la Información y las Comunicaciones.
+        
+4. La persona titular de la Secretaría de Estado cuenta, como órganos de apoyo, asesoramiento y asistencia inmediata, con un Gabinete, con nivel orgánico de subdirección general y con la estructura que establece el artículo 23.3 del Real Decreto 1009/2023, de 5 de diciembre, y con un Gabinete Técnico, cuya persona titular será un oficial general u oficial, también con rango de subdirector general.
+    
+5. La persona titular de la Secretaría de Estado de Defensa ostentará, en materias propias de su competencia, por delegación de la persona titular del Ministerio de Defensa, la representación del Departamento en los casos en que ésta se la encomiende.
+    
+6. Están adscritos a la Secretaría de Estado de Defensa el organismo autónomo Instituto Nacional de Técnica Aeroespacial «Esteban Terradas» y el organismo autónomo Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa, así como la Agencia Estatal Agencia Espacial Española, en los términos establecidos en el artículo 1.3. del Estatuto de la Agencia Estatal Agencia Espacial Española, aprobado por el Real Decreto 158/2023, de 7 de marzo.
+    
+7. Depende de la Secretaría de Estado de Defensa la Junta de Enajenación de Bienes Muebles y Productos de Defensa.
+    
 
 ### Artículo 4. Dirección General de Estrategia e Innovación de la Industria de Defensa. 🏭
-* La Dirección General de Estrategia e Innovación de la Industria de Defensa planifica la política industrial de defensa, la cooperación industrial y la representación en foros internacionales.
-* También apoya la internacionalización de la industria de defensa y el control del comercio exterior de armamento.
-* Sus funciones incluyen:
-    * a) Planificar y controlar las políticas de armamento, material e investigación.
-    * b) Proponer y dirigir los planes de investigación y desarrollo de sistemas de armas.
-    * c) Impulsar el apoyo institucional a la internacionalización de la industria.
-    * d) Negociar y gestionar la cooperación industrial.
-    * e) Proponer la política industrial de la Defensa.
-    * f) Controlar los activos materiales derivados de la política industrial.
-    * g) Impulsar la cooperación internacional en los ámbitos bilateral y multilateral.
-    * h) Controlar el comercio exterior de material de defensa.
-    * i) Apoyar la exportación de productos y tecnologías de defensa.
-    * j) Controlar las transferencias de tecnología a terceros países.
-    * k) Gestionar las inversiones extranjeras en España relacionadas con la Defensa.
-* De esta Dirección General dependen:
-    * a) La Subdirección General de Planificación, Tecnología e Innovación.
-    * b) La Subdirección General de Estrategia Industrial de la Defensa.
-    * c) La Subdirección General de Gestión e Internacionalización de la Industria de Defensa.
 
-💡 ***Tip/Consejo: Esta Dirección General es el centro de la política industrial de defensa. Presta atención a sus funciones de control y apoyo a la industria.***
-🔑 ***Aspecto Clave: Esta Dirección planifica la política industrial de defensa y controla el comercio exterior de armamento.***
+- 💡 **Tip/Consejo: Este artículo describe las funciones de la Dirección General de Estrategia e Innovación de la Industria de Defensa, que se encarga de la planificación y desarrollo de la política industrial de defensa, así como de la cooperación internacional y el control del comercio exterior. Es importante para entender la relación entre el Ministerio y la industria de defensa.**
+    
+- 🔑 **Aspecto Clave: La Dirección General de Estrategia e Innovación de la Industria de Defensa planifica y desarrolla la política industrial de defensa, la cooperación internacional y el control del comercio exterior de armamento.**
+    
 
-### Artículo 4 bis. Dirección General de Armamento y Material. 🧰
-* La Dirección General de Armamento y Material planifica la política de armamento y material y supervisa su ejecución.
-* Dependen funcionalmente de esta dirección los órganos competentes de las Fuerzas Armadas.
-* Sus funciones incluyen:
-    * a) Gestionar programas de obtención, modernización y sostenimiento de sistemas de armas.
-    * b) Impulsar la adquisición de sistemas y equipos para las Fuerzas Armadas.
-    * c) Ejercer competencias en inspección industrial y seguridad industrial relacionada con la Defensa.
-    * d) Ejercer competencias en normalización, catalogación y homologación de sistemas de armas.
-    * e) Gestionar la contratación de los programas de investigación, desarrollo, modernización y sostenimiento común no centralizada.
-* De esta Dirección General dependen:
-    * a) La Subdirección General de Programas.
-    * b) La Subdirección General de Inspección y Regulación.
-    * c) La Subdirección General de Adquisiciones de Armamento y Material.
+8. La Dirección General de Estrategia e Innovación de la Industria de Defensa es el órgano directivo al que le corresponde la planificación y desarrollo de la política industrial de la Defensa así como la cooperación industrial en esta materia, la cooperación internacional y representación en foros internacionales de industria de Defensa, el apoyo institucional a la internacionalización de la industria de Defensa española y a la exportación, el control del comercio exterior de armamento y material, de las transferencias de tecnología a terceros países y de los activos tanto materiales como inmateriales derivados de la política industrial y de innovación del Departamento. A estos efectos, dependen funcionalmente de esta dirección general los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos autónomos del Departamento.
+    
+9. Corresponden a esta dirección general, en el ámbito de sus competencias, las siguientes funciones:
+    
+    - a) Planificar y programar las políticas de armamento y material y de investigación, desarrollo e innovación del Departamento, y controlar su ejecución.
+        
+    - b) Proponer y dirigir los planes y programas de investigación y desarrollo de sistemas de armas y equipos de interés para la defensa nacional, en coordinación con los organismos nacionales e internacionales competentes en este ámbito y controlar los activos inmateriales derivados de aquellos, que se hayan obtenido, total o parcialmente, con fondos públicos del Ministerio de Defensa, mediante la creación y mantenimiento de los oportunos registros de activos.
+        
+    - c) Impulsar el apoyo institucional a la internacionalización de la industria española de defensa, coordinar la promoción internacional de la enajenación de bienes muebles y productos de defensa y, en coordinación con la Dirección General de Política de Defensa, dirigir las actuaciones de los agregados y consejeros de Defensa.
+        
+    - d) Ejercer las competencias que se le atribuyan para negociar y gestionar la cooperación industrial.
+        
+    - e) Proponer la política industrial de la Defensa, coordinando su actuación con otros organismos.
+        
+    - f) Controlar los activos materiales derivados de esa política que se hayan obtenido, total o parcialmente, con fondos públicos del Ministerio de Defensa, mediante la creación y mantenimiento de los oportunos registros de activos.
+        
+    - g) Impulsar, en coordinación con la Dirección General de Política de Defensa, la cooperación internacional en los ámbitos bilateral y multilateral, así como ejercer la representación nacional en los foros industriales y de armamento de dichas organizaciones.
+        
+    - h) Ejercer las competencias atribuidas en relación con el control del comercio exterior de material de defensa y de productos y tecnologías de doble uso.
+        
+    - i) Apoyar la exportación de productos y tecnologías de Defensa y de doble uso.
+        
+    - j) Controlar las transferencias de tecnología nacional a terceros países, así como la obtenida de programas, acuerdos o convenios internacionales.
+        
+    - k) Ejercer la gestión de las inversiones extranjeras en España relacionadas con la Defensa.
+        
+10. De esta dirección general dependen los siguientes órganos directivos:
+    
+    - a) La Subdirección General de Planificación, Tecnología e Innovación, que desarrolla las funciones señaladas en el apartado 2, letras a) y b).
+        
+    - b) La Subdirección General de Estrategia Industrial de la Defensa, que desarrolla las funciones señaladas en el apartado 2, letras c), d), e) y f).
+        
+    - c) La Subdirección General de Gestión e Internacionalización de la Industria de Defensa, que desarrolla las funciones señaladas en el apartado 2, letras g), h), i), j) y k).
+        
 
-💡 ***Tip/Consejo: Esta Dirección General se encarga de la gestión y control de armamento y material, lo que incluye la calidad y la seguridad.***
-🔑 ***Aspecto Clave: Esta Dirección gestiona la adquisición, modernización y control de armamento y material.***
+### Artículo 4 bis. Dirección General de Armamento y Material. 🪖
+
+- 💡 **Tip/Consejo: Este artículo detalla las responsabilidades de la Dirección General de Armamento y Material, que es fundamental en la gestión y adquisición de sistemas de armas y equipos. Es crucial para entender cómo se equipan las Fuerzas Armadas.**
+    
+- 🔑 **Aspecto Clave: La Dirección General de Armamento y Material planifica y desarrolla la política de armamento, gestionando la adquisición, modernización y sostenimiento de sistemas de armas.**
+    
+
+11. La Dirección General de Armamento y Material es el órgano directivo al que le corresponde la planificación y desarrollo de la política de armamento y material del Departamento, así como la supervisión y dirección de su ejecución. A estos efectos, dependen funcionalmente de esta dirección general los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos autónomos del Departamento.
+    
+12. Corresponden a esta dirección general, en el ámbito de sus competencias, las siguientes funciones:
+    
+    - a) Gestionar, en colaboración con las Fuerzas Armadas, los programas de obtención, de modernización y de sostenimiento común de los sistemas de armas y equipos de interés para la defensa nacional, incluyendo los programas de cooperación internacional y los de venta derivados del apoyo a la internacionalización de la industria española de defensa, así como armonizar y racionalizar su sostenimiento.
+        
+    - b) Impulsar la gestión y tramitación de los expedientes de adquisición de los sistemas y equipos necesarios para las Fuerzas Armadas.
+        
+    - c) Ejercer las competencias que le confieren las leyes y reglamentos en las siguientes materias: inspección de la actividad industrial y la seguridad industrial relacionada con la Defensa; aseguramiento de la calidad del armamento y material; así como fabricación, comercialización y transporte de armas y explosivos.
+        
+    - d) Ejercer las competencias que le confieren las leyes y reglamentos en las siguientes materias: normalización, catalogación y homologación de los sistemas de armas, equipos y productos de interés para las Fuerzas Armadas; certificación de exención por razones de Defensa en materia de registro, evaluación, autorización y restricción de sustancias químicas; aeronavegabilidad; y el resto del ordenamiento jurídico.
+        
+    - e) Realizar la administración y gestión económica y contractual de los programas de investigación y desarrollo, de obtención, de modernización y de sostenimiento común no incluidos en la contratación centralizada, de sistemas de armas y equipos de defensa, incluyendo los programas de cooperación internacional, así como la gestión, negociación y administración de los contratos que pudieran derivarse del apoyo a la internacionalización de la industria española de defensa y la exportación asociada de material de defensa.
+        
+13. De esta dirección general dependen los siguientes órganos directivos:
+    
+    - a) La Subdirección General de Programas, que desarrolla las funciones señaladas en el apartado 2, letras a) y b).
+        
+    - b) La Subdirección General de Inspección y Regulación, que desarrolla las funciones señaladas en el apartado 2, letras c) y d).
+        
+    - c) La Subdirección General de Adquisiciones de Armamento y Material, que desarrolla las funciones señaladas en el apartado 2, letra e).
+        
 
 ### Artículo 5. Dirección General de Asuntos Económicos. 💰
-* La Dirección General de Asuntos Económicos planifica la política económica y financiera del Departamento.
-* Dependen funcionalmente de esta dirección todos los órganos competentes en materia económica del Departamento.
-* Sus funciones incluyen:
-    * a) Dirigir y controlar la contabilidad y la ejecución del gasto.
-    * b) Elaborar planes de acción para corregir debilidades económicas.
-    * c) Desarrollar la planificación y programación económica y presupuestaria.
-    * d) Ejercer la dirección financiera de los programas presupuestarios.
-    * e) Administrar los recursos económicos y efectuar los pagos y justificaciones.
-    * f) Representar al Departamento en comités económicos de organismos internacionales.
-    * g) Administrar los recursos financieros para operaciones de paz y ayuda humanitaria.
-    * h) Planificar y controlar la contratación del Departamento.
-    * i) Implementar el análisis de costes y precios.
-    * j) Ejercer la dirección funcional de los sistemas informáticos de administración económica.
-    * k) Gestionar y pagar pensiones al personal saharaui de policía y unidades especiales.
-* De la Dirección General de Asuntos Económicos dependen:
-    * a) La Subdirección General de Contabilidad.
-    * b) La Oficina Presupuestaria.
-    * c) La Subdirección General de Gestión Económica.
-    * d) La Subdirección General de Contratación.
-* También dependen de esta Dirección General la Junta General de Enajenaciones y Liquidadora de Material y la Secretaría de la Junta de Contratación.
 
-💡 ***Tip/Consejo: Esta Dirección General es responsable de la gestión financiera del Ministerio. Entiende cómo se organizan sus funciones y cómo se coordinan con otros órganos.***
-🔑 ***Aspecto Clave: Esta Dirección planifica la política económica y financiera y controla los gastos del Ministerio.***
+- 💡 **Tip/Consejo: Este artículo describe las funciones de la Dirección General de Asuntos Económicos, que se encarga de la planificación y control de los aspectos económicos y financieros del Ministerio de Defensa. Es fundamental para entender cómo se gestiona el presupuesto del Ministerio.**
+    
+- 🔑 **Aspecto Clave: La Dirección General de Asuntos Económicos planifica y desarrolla la política económica y financiera del Departamento, controlando el presupuesto y la contratación.**
+    
+
+14. La Dirección General de Asuntos Económicos es el órgano directivo al que le corresponde la planificación y desarrollo de la política económica y financiera del Departamento, así como la supervisión y dirección de su ejecución. A estos efectos, dependen funcionalmente de esta dirección general todos los órganos competentes en las citadas materias del Departamento y de sus organismos autónomos.
+    
+15. Corresponden a esta dirección general, en el ámbito de sus competencias, las siguientes funciones:
+    
+    - a) Dirigir, coordinar y controlar la contabilidad del Departamento, así como el control de los créditos y de la ejecución del gasto.
+        
+    - b) Elaborar y proponer los planes de acción ministeriales para la corrección de las debilidades identificadas en la actividad económica del Departamento, impulsar su implementación y realizar su seguimiento.
+        
+    - c) Desarrollar la planificación y la programación económica y presupuestaria del Departamento, así como dirigir y controlar su ejecución, ejerciendo la dirección financiera de los programas presupuestarios.
+        
+    - d) Ejercer la dirección financiera de los programas presupuestarios y la programación económica.
+        
+    - e) Administrar los recursos económicos que se le asignen y los no atribuidos expresamente a otros órganos del Departamento, los destinados a las contribuciones financieras a las organizaciones internacionales en los que participe el Ministerio de Defensa y los asignados para el funcionamiento de sus organismos en el exterior; así como efectuar los pagos y justificación de los recursos destinados a las adquisiciones en el extranjero.
+        
+    - f) Ejercer la representación nacional en los comités y órganos de decisión de carácter económico de los organismos internacionales de seguridad y defensa en los que participe el Departamento, en coordinación con el Estado Mayor de la Defensa, la Dirección General de Política de Defensa y los Cuarteles Generales de los Ejércitos y la Armada, según los casos.
+        
+    - g) Administrar, en coordinación con el Estado Mayor de la Defensa, los recursos financieros destinados a financiar la participación de las Fuerzas Armadas en operaciones de paz y ayuda humanitaria.
+        
+    - h) Planificar y controlar la contratación en el ámbito del Departamento.
+        
+    - i) Implementar el análisis de costes y precios de las empresas suministradoras o que participen en programas de defensa, así como el de los costes del ciclo de vida de las inversiones asociadas a los programas de obtención del Departamento.
+        
+    - j) Ejercer la dirección funcional de los sistemas informáticos integrales de dirección y administración económica del Departamento.
+        
+    - k) Realizar la gestión y pago de las pensiones causadas por el personal saharaui componente de la policía territorial del Sahara y de las unidades especiales del África occidental.
+        
+16. De la Dirección General de Asuntos Económicos dependen, con rango de subdirección general, los siguientes órganos directivos, que se coordinarán con los órganos competentes del Departamento y sus organismos autónomos:
+    
+    - a) La Subdirección General de Contabilidad, que desarrolla las funciones señaladas en el apartado 2, letras a) y b).
+        
+    - b) La Oficina Presupuestaria, que desarrolla las funciones señaladas en el apartado 2, letras c) y d).
+        
+    - c) La Subdirección General de Gestión Económica, que desarrolla las funciones señaladas en el apartado 2, letras e), f), g), j) y k).
+        
+    - d) La Subdirección General de Contratación, que desarrolla las funciones señaladas en el apartado 2, letras h) e i).
+        
+17. Asimismo, dependen de la Dirección General de Asuntos Económicos la Junta General de Enajenaciones y Liquidadora de Material y la Secretaría de la Junta de Contratación del Ministerio de Defensa.
+    
 
 ### Artículo 6. Dirección General de Infraestructura. 🏗️
-* La Dirección General de Infraestructura planifica las políticas de infraestructura, medioambiental y energética del Departamento.
-* Dependen funcionalmente de esta dirección los órganos competentes en estas materias de las Fuerzas Armadas.
-* Sus funciones incluyen:
-    * a) Dirigir la ordenación territorial de la infraestructura.
-    * b) Proponer e implementar las políticas de infraestructura.
-    * c) Realizar el seguimiento de programas internacionales de infraestructura.
-    * d) Proponer y desarrollar la política medioambiental.
-    * e) Proponer y desarrollar la política energética.
-    * f) Realizar el seguimiento de programas nacionales e internacionales de medio ambiente y eficiencia energética.
-    * g) Ejercer la dirección funcional del sistema de información y gestión de la infraestructura (SINFRADEF).
-    * h) Dirigir la gestión de bienes inmuebles del Ministerio.
-    * i) Ejercer competencias sobre servidumbres aeronáuticas y zonas de interés para la defensa.
-    * j) Redactar y dirigir proyectos de infraestructura del órgano central.
-    * k) Supervisar todos los proyectos de infraestructura del Departamento.
-    * l) Elaborar la tipificación en materia de infraestructura.
-* De la Dirección General de Infraestructura dependen:
-    * a) La Subdirección General de Planificación y Medio Ambiente.
-    * b) La Subdirección General de Patrimonio.
-    * c) La Subdirección General de Proyectos y Obras.
 
-💡 ***Tip/Consejo: Esta Dirección General se encarga de la gestión de la infraestructura del Ministerio. Presta atención a sus competencias en temas de medio ambiente y energía.***
-🔑 ***Aspecto Clave: Esta Dirección gestiona la infraestructura, el medio ambiente y la energía del Ministerio.***
+- 💡 **Tip/Consejo: Este artículo define las funciones de la Dirección General de Infraestructura, que se encarga de la planificación y desarrollo de las políticas de infraestructura, medioambiental y energética del Departamento. Es clave para entender cómo se gestionan los bienes inmuebles y las instalaciones del Ministerio.**
+    
+- 🔑 **Aspecto Clave: La Dirección General de Infraestructura planifica y desarrolla las políticas de infraestructura, medioambiente y energía, gestionando los bienes inmuebles del Departamento.**
+    
 
-### Artículo 7. El Centro de Sistemas y Tecnologías de la Información y las Comunicaciones. 📡
-* El Centro de Sistemas y Tecnologías de la Información y las Comunicaciones (CESTIC) es responsable de la planificación, desarrollo y gestión de las políticas relativas a sistemas y tecnologías de la información y las comunicaciones (CIS/TIC), la transformación digital, la gestión de datos e información y la seguridad de la información.
-* También es responsable de la Infraestructura Integral de Información para la Defensa (I3D) y de las actuaciones de ciberseguridad.
-* Su Director asume las funciones de Oficial Jefe de la Información (CIO) del Ministerio de Defensa.
-* Sus funciones incluyen:
-    * a) Definir y planificar las políticas y estrategias de los CIS/TIC.
-    * b) Impulsar y mantener la I3D.
-    * c) Dirigir el diseño, la obtención y configuración de los CIS/TIC.
-    * d) Supervisar la operación y mantenimiento de los CIS/TIC y la I3D.
-    * e) Impulsar la publicación de un catálogo de servicios CIS/TIC.
-    * f) Integrar las redes y sistemas de información y comunicaciones del Departamento.
-    * g) Ejercer la responsabilidad del sistema de la I3D según el Esquema Nacional de Seguridad.
-    * h) Definir y planificar la política de seguridad de la información.
-    * i) Dirigir el diseño de los sistemas y servicios de seguridad de la información.
-    * j) Ejercer las actividades necesarias en materia de ciberseguridad, incluyendo la dirección del COSI3D.
-    * k) Ejercer la responsabilidad de seguridad sobre los sistemas de información de la I3D.
-    * l) Definir y planificar las políticas y estrategias sobre transformación digital.
-    * m) Impulsar la transformación digital del Departamento.
-    * n) Coordinar la gestión de la información y el conocimiento en el Departamento.
-    * ñ) Desarrollar e impulsar programas para el despliegue de servicios digitales.
-    * o) Impulsar un modelo de desarrollo seguro de software.
-    * p) Definir la estrategia tecnológica del Ministerio en relación con los CIS/TIC.
-    * q) Analizar las tecnologías emergentes en el ámbito de los CIS/TIC.
-    * r) Impulsar y coordinar la participación de la industria nacional en proyectos de CIS/TIC.
-    * s) Dirigir la transición hacia la gestión automatizada por procesos.
-    * t) Definir las estrategias y marcos de referencia en materia de gestión, gobierno, calidad, análisis y explotación de datos.
-    * u) Participar en el Planeamiento de la Defensa para asegurar la coherencia de las capacidades de CIS/TIC.
-    * v) Proporcionar las capacidades CIS/TIC para el desarrollo de programas estratégicos.
-    * w) Representar al Departamento en lo relativo a CIS/TIC ante otros organismos y a nivel internacional.
-* De este centro dependen:
-    * a) La Subdirección General de Planes y Servicios de Información y Telecomunicaciones.
-    * b) La Subdirección General de Transformación Digital.
-* Las funciones de seguridad de la información (letras h), i), j), y k)) serán desarrolladas por el órgano que se determine dentro de la estructura del CESTIC.
+18. La Dirección General de Infraestructura es el órgano directivo al que le corresponde la planificación y desarrollo de las políticas de infraestructura, medioambiental y energética del Departamento, así como la supervisión y dirección de su ejecución. A estos efectos, dependen funcionalmente de esta dirección general los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos autónomos del Departamento.
+    
+19. Corresponden a esta dirección general, en el ámbito de sus competencias, las siguientes funciones:
+    
+    - a) Dirigir la ordenación territorial de la infraestructura del Departamento.
+        
+    - b) Proponer, definir e implementar las políticas de infraestructura mediante planes y programas, efectuando el seguimiento de su ejecución.
+        
+    - c) Realizar el seguimiento de los programas y proyectos internacionales en materia de infraestructura, en coordinación con la Dirección General de Política de Defensa, la Dirección General de Asuntos Económicos y el Estado Mayor Conjunto en lo que afecta a la participación nacional en los Programas de Inversiones en Seguridad de la OTAN (NSIP).
+        
+    - d) Proponer, definir y desarrollar la política medioambiental del Departamento y dirigir y supervisar su ejecución.
+        
+    - e) Proponer, definir y desarrollar la política energética del Departamento y dirigir y supervisar su ejecución.
+        
+    - f) Participar y realizar el seguimiento de programas y proyectos nacionales e internacionales en materia de medio ambiente y eficiencia energética, en coordinación, cuando corresponda, con la Dirección General de Política de Defensa.
+        
+    - g) Ejercer la dirección funcional del sistema de información y gestión de la infraestructura en el Ministerio de Defensa (SINFRADEF).
+        
+    - h) Dirigir la gestión de los bienes y derechos inmobiliarios afectos al Ministerio de Defensa y llevar su inventario, gestionando sus adquisiciones, expropiaciones y arrendamientos.
+        
+    - i) Ejercer las competencias en relación con las servidumbres aeronáuticas y con las zonas de interés para la defensa nacional, de seguridad de las instalaciones y de acceso restringido a la propiedad por parte de extranjeros.
+        
+    - j) Redactar y dirigir la ejecución de los proyectos de infraestructura del órgano central y apoyar en el mismo sentido a los Cuarteles Generales de los Ejércitos y la Armada.
+        
+    - k) Supervisar todos los proyectos de infraestructura del Departamento.
+        
+    - l) Elaborar la tipificación en materia de infraestructura.
+        
+20. De la Dirección General de Infraestructura dependen los siguientes órganos directivos:
+    
+    - a) La Subdirección General de Planificación y Medio Ambiente, que desarrolla las funciones señaladas en el apartado 2, letras a), b), c), d), e), f) y g).
+        
+    - b) La Subdirección General de Patrimonio, que desarrolla las funciones señaladas en el apartado 2, letras h) e i).
+        
+    - c) La Subdirección General de Proyectos y Obras, que desarrolla las funciones señaladas en el apartado 2, letras j), k) y l).
+        
 
-💡 ***Tip/Consejo: El CESTIC es fundamental para la seguridad y modernización tecnológica del Ministerio. Presta atención a sus múltiples funciones.***
-🔑 ***Aspecto Clave: El CESTIC es clave para la gestión de la seguridad, la tecnología y la información del Ministerio.***
+### Artículo 7. El Centro de Sistemas y Tecnologías de la Información y las Comunicaciones. 💻
 
-### Artículo 8. Subsecretaría de Defensa. 👤
-* La Subsecretaría de Defensa dirige la política de personal, reclutamiento, enseñanza, desarrollo profesional, sanitaria y patrimonio cultural.
-* Sus funciones incluyen:
-    * a) Elaborar propuestas en materia de personal, reclutamiento y enseñanza.
-    * b) Dirigir la gestión del personal militar y los cuerpos comunes de las Fuerzas Armadas.
-    * c) Dirigir la política retributiva.
-    * d) Impulsar el desarrollo legislativo y reglamentario.
-    * e) Dirigir la política de reclutamiento.
-    * f) Dirigir la política social.
-    * g) Mantener relaciones con la jurisdicción militar.
-    * h) Gestionar el «Boletín Oficial del Ministerio de Defensa».
-    * i) Ejercer competencias sobre la estructura periférica del Departamento.
-    * j) Impulsar la política de igualdad.
-    * k) Ejercer competencias sobre prevención de riesgos laborales.
-    * l) Impulsar la difusión del patrimonio cultural de la Defensa.
-    * m) Supervisar la cría caballar de las Fuerzas Armadas.
-    * n) Impulsar la administración digital y la gestión del conocimiento.
-    * ñ) Impulsar la política cultural del Departamento.
-    * o) Dirigir el Sistema Archivístico de la Defensa.
-    * p) Ejercer funciones sobre transparencia y gobierno abierto.
-    * q) Coordinar la política de protección de datos.
-    * r) Supervisar la actividad en materia de evaluación de políticas públicas.
-    * s) Ejercer la presidencia del Consejo Superior del Deporte Militar.
-    * t) Proponer la planificación prospectiva y estratégica de los recursos humanos.
-* La persona titular de la Subsecretaría ostenta la representación del Departamento en los casos que se le encomienden.
-* La persona titular de la Subsecretaría dispone de un Gabinete Técnico.
-* Dependen de la Subsecretaría de Defensa:
-    * a) La Secretaría General Técnica.
-    * b) La Dirección General de Personal.
-    * c) La Dirección General de Reclutamiento y Enseñanza Militar.
-* También dependen de la Subsecretaría:
-    * a) La Subdirección General de Régimen Interior.
-    * b) La Subdirección General de Servicios Económicos y Pagadurías.
-* Asimismo, dependen de la Subsecretaría:
-    * a) La Asesoría Jurídica General de la Defensa.
-    * b) La Intervención General de la Defensa.
-    * c) La Inspección General de Sanidad de la Defensa.
-* Están adscritos a la Subsecretaría:
-    * a) El Instituto Social de las Fuerzas Armadas (ISFAS).
-    * b) El Consejo de Personal de las Fuerzas Armadas.
-    * c) El Observatorio militar para la igualdad entre mujeres y hombres en las Fuerzas Armadas.
-    * d) El Consejo Superior del Deporte Militar.
-    * e) Administrativamente, el Arzobispado General Castrense.
-* Las delegaciones de defensa en las comunidades autónomas y ciudades de Ceuta y Melilla dependen orgánicamente de la Subsecretaría.
-* La inspección se ejerce por medio de las Subdirecciones Generales de Personal Militar, de Enseñanza Militar, de Reclutamiento y Desarrollo Profesional de Personal Militar y Reservistas de Especial Disponibilidad y de la Inspección General de Sanidad de la Defensa.
+- 💡 **Tip/Consejo: Este artículo describe las funciones del Centro de Sistemas y Tecnologías de la Información y las Comunicaciones (CESTIC), que es esencial para la gestión de la transformación digital, la ciberseguridad y los sistemas de información. Es crucial para la modernización del Ministerio.**
+    
+- 🔑 **Aspecto Clave: El CESTIC planifica, desarrolla y gestiona las políticas de sistemas de información y comunicaciones, transformación digital y seguridad de la información del Ministerio de Defensa.**
+    
 
-💡 ***Tip/Consejo: La Subsecretaría es central para la gestión de personal, la administración y la asistencia jurídica y sanitaria del Ministerio. Es fundamental entender su alcance y órganos dependientes.***
-🔑 ***Aspecto Clave: La Subsecretaría gestiona personal, reclutamiento, enseñanza, sanidad, y patrimonio cultural.***
+21. El Centro de Sistemas y Tecnologías de la Información y las Comunicaciones (CESTIC) es el órgano directivo al que le corresponde la planificación, desarrollo, programación y gestión de las políticas relativas a los sistemas y tecnologías de la información y las comunicaciones (CIS/TIC), la transformación digital, la gestión de datos, información y conocimiento y la seguridad de la información, así como la supervisión y dirección de su ejecución. Asimismo, le corresponde la provisión segura de los servicios de la Infraestructura Integral de Información para la Defensa (13D) y de las actuaciones de ciberseguridad para la protección de esta infraestructura y de la información que procesa y gestiona. También es responsable de la definición de la estrategia tecnológica sobre los CIS/TIC, la transformación digital y la seguridad de la información y en estas materias, en colaboración con la Dirección General de Estrategia e Innovación de la Industria de Defensa, del impulso de un modelo de innovación y del apoyo a la industria nacional de defensa para su participación en proyectos a nivel nacional e internacional.  
+    A los efectos anteriores, dependen funcionalmente de este centro los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos autónomos del Ministerio de Defensa. Su Director asume las funciones de Oficial Jefe de la Información (CIO) del Ministerio de Defensa.
+    
+22. Corresponden a este centro, en el ámbito de sus competencias, las siguientes funciones:
+    
+    - a) Definir y planificar las políticas y estrategias de los CIS/TIC, su desarrollo y actualización, coordinar su ejecución y velar por su cumplimiento en el ámbito del Departamento.
+        
+    - b) Impulsar, desplegar y mantener actualizada la I3D como infraestructura tecnológica de carácter estratégico sobre la que se desplegarán los servicios CIS/TIC para dar respuesta a los cometidos del Ministerio de Defensa, en general y de las Fuerzas Armadas en particular, asegurando las capacidades CIS/TIC necesarias para el cumplimiento de sus misiones operativas y de adiestramiento.
+        
+    - c) Dirigir el diseño, la obtención y la configuración de los CIS/TIC para garantizar la normalización, homologación y estandarización de dichos sistemas y su plena interoperabilidad, en el marco de la I3D y de los acuerdos nacionales e internacionales en los que España sea Parte, que afecten a dichos sistemas.
+        
+    - d) Supervisar, gestionar y controlar la operación y el mantenimiento de los CIS/TIC para la provisión directa y segura de los servicios de la I3D, a través del Centro de Gestión de Servicios de la I3D, asegurando su continuidad y asumiendo los cometidos de la Autoridad Operacional de todos sus sistemas.
+        
+    - e) Impulsar la publicación y gestión de un catálogo de servicios CIS/TIC en colaboración con las Fuerzas Armadas y el resto de ámbitos del Ministerio de Defensa, asegurando su mantenimiento actualizado de acuerdo a la demanda de servicios.
+        
+    - f) Dirigir y supervisar la plena integración de las redes y sistemas de información y comunicaciones dentro del Departamento, así como las otras redes nacionales e internacionales, priorizando los servicios críticos para la Defensa y las Fuerzas Armadas.
+        
+    - g) Ejercer la responsabilidad del sistema, sobre los medios y servicios de la I3D, a los efectos establecidos en el artículo 13 del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.
+        
+    - h) Definir y planificar la política de seguridad de la información, su desarrollo y actualización, coordinar su ejecución y velar por su cumplimiento en el ámbito del Departamento.
+        
+    - i) Dirigir el diseño, la obtención y la configuración de los sistemas y servicios de seguridad de la información para asegurar el acceso, la confidencialidad, la integridad, la trazabilidad, la autenticidad, la disponibilidad y la conservación de los datos, la información y los servicios utilizados por medios electrónicos en el marco de la I3D.
+        
+    - j) Ejercer las actividades necesarias en materia de ciberseguridad para proteger la I3D y los activos de información que en ella se procesan, transmiten y almacenan, incluyendo la dirección y operación del Centro de Operaciones de Seguridad de la I3D (COSI3D) y la realización de análisis de riesgos y auditorías periódicas de seguridad.
+        
+    - k) Ejercer la responsabilidad de la seguridad sobre los sistemas de información de la I3D, a los efectos de lo establecido en el artículo 13 del Real Decreto 311/2022, de 3 de mayo.
+        
+    - l) Definir y planificar las políticas y estrategias sobre transformación digital del Departamento, su desarrollo y actualización, coordinar su ejecución y velar por su cumplimiento en el ámbito del Ministerio de Defensa.
+        
+    - m) Impulsar la transformación digital del Departamento, siguiendo la planificación y programación establecida para su desarrollo en el Plan de Acción para la Transformación Digital del Departamento, monitorizando y coordinando las actuaciones contempladas en ese Plan.
+        
+    - n) Coordinar la gestión de la información y del conocimiento en el Departamento, en el marco de su transformación digital y el de la Administración General del Estado y de las organizaciones internacionales de las que España forma Parte.
+        
+    - ñ) Desarrollar e impulsar programas, proyectos y actuaciones para el despliegue de servicios digitales, capacidades e infraestructuras que contribuyan a acelerar el proceso de transformación digital del Ministerio de Defensa.
+        
+    - o) Impulsar la implantación y gestión de un modelo de desarrollo seguro de software basado en el empleo de nuevos paradigmas en esta materia.
+        
+    - p) Definir la estrategia tecnológica del Ministerio de Defensa en relación con los CIS/TIC, la transformación digital y la seguridad de la información.
+        
+    - q) Analizar, en coordinación con la Dirección General de Estrategia e Innovación de la Industria de Defensa y el Estado Mayor de la Defensa, las tecnologías emergentes y disruptivas en el ámbito de los CIS/TIC, la transformación digital y seguridad de la información, para evaluar su posible integración y empleo en la evolución de los servicios e infraestructuras del Ministerio de Defensa, impulsando y desarrollando un modelo de innovación en estas materias, que integre la relación con actores externos al Departamento.
+        
+    - r) Impulsar y, cuando proceda, coordinar la participación de la industria nacional, en colaboración con la Dirección General de Estrategia e Innovación de la Industria de Defensa, en los proyectos e iniciativas sobre CIS/TIC, transformación digital y seguridad de la información, que pudieran surgir tanto en ámbito nacional como en el marco de programas de las organizaciones internacionales de seguridad y defensa a las que España pertenece, incluyendo los programas europeos de carácter permanente.
+        
+    - s) Dirigir la transición hacia el modelo de gestión automatizada por procesos en el Ministerio de Defensa, según el Plan de Acción para la Transformación Digital del Departamento.
+        
+    - t) Definir, comunicar y evaluar el cumplimiento de las estrategias y marcos de referencia en materia de gestión, gobierno, calidad, analítica y explotación de datos del Ministerio de Defensa, desarrollando e identificando metodologías y buenas prácticas en estas materias.
+        
+    - u) Participar en el proceso de Planeamiento de la Defensa para asegurar la coherencia y alineamiento de las capacidades en el ámbito de los sistemas y tecnologías de la información y las comunicaciones, de la transformación digital y de la seguridad de la información, con las necesidades de las Fuerzas Armadas.
+        
+    - v) Proporcionar las capacidades CIS/TIC y de seguridad de la información imprescindibles para el desarrollo de grandes programas estratégicos, transversales y de alto impacto para todo el Ministerio de Defensa y las Fuerzas Armadas de armamento y material e infraestructuras, aportando la visión tecnológica a programas estratégicos, muchos de los cuales tienen proyección internacional.
+        
+    - w) Ostentar la representación e interlocución, en lo relativo a CIS/TIC, seguridad de la información, transformación digital, gestión de la información y el conocimiento e innovación en estas materias del Departamento, ante otros organismos de la Administración General del Estado y en el ámbito internacional. Esta función se desarrolla en coordinación con el Estado Mayor de la Defensa, la Dirección General de Política de Defensa y la Dirección General de Estrategia e Innovación de la Industria de Defensa.
+        
+23. De este centro dependen los siguientes órganos directivos:
+    
+    - a) La Subdirección General de Planes y Servicios de Información y Telecomunicaciones, que desarrolla las funciones señaladas en el apartado 2, letras a), b), c), d), e), f), g) y las funciones u), v) y w) en su ámbito de responsabilidad específico.
+        
+    - b) La Subdirección General de Transformación Digital, que desarrolla las funciones señaladas en el apartado 2, letras l), m), n), ñ), o), p), q), r), s), t) y las funciones c), u), v) y w) en su ámbito de responsabilidad específico.
+        
+24. Las funciones señaladas en el apartado 2, letras h), i), j), y k), serán desarrolladas por el órgano que se determine dentro de la estructura del CESTIC.
+    
 
-### Artículo 9. Secretaría General Técnica. 📜
-* La Secretaría General Técnica ejerce las funciones que le atribuyen las leyes en materia de elaboración normativa, informes, gestión del Boletín Oficial y otros.
-* Sus funciones incluyen:
-    * a) Impulsar la elaboración normativa e informar las disposiciones generales.
-    * b) Elaborar estudios e informes para el Consejo de Ministros.
-    * c) Proponer normas sobre reformas de organización y calidad de los servicios públicos.
-    * d) Planificar actuaciones relativas a estadística, investigación operativa y estudios sociológicos.
-    * e) Insertar en el «Boletín Oficial del Ministerio de Defensa» las disposiciones generales.
-    * f) Gestionar e inspeccionar las delegaciones de defensa y residencias militares dependientes de la Subsecretaría.
-    * g) Tramitar conflictos de atribuciones.
-    * h) Tramitar recursos administrativos, reclamaciones y solicitudes de derecho de petición.
-    * i) Realizar las actuaciones derivadas de recursos contencioso-administrativos.
-    * j) Dirigir los servicios de información administrativa y atención al ciudadano.
-    * k) Gestionar el programa editorial y todas las publicaciones del Departamento.
-    * l) Planificar y coordinar las bibliotecas, archivos y museos del Departamento.
-    * m) Dirigir y gestionar las imprentas del Departamento.
-    * n) Gestionar la Biblioteca Centro de Documentación de Defensa y el Archivo Central del Ministerio de Defensa.
-    * ñ) Dirigir, coordinar, gestionar e inspeccionar el servicio de cría caballar.
-    * o) Impulsar la administración digital, la gestión del conocimiento y la gestión por procesos.
-    * p) Desarrollar la actividad atribuida a las inspecciones generales de servicios.
-* Dependen de la Secretaría General Técnica:
-    * a) La Vicesecretaría General Técnica e Inspección General de Servicios.
-    * b) La Subdirección General de Recursos e Información Administrativa.
-    * c) La Subdirección General de Publicaciones y Patrimonio Cultural.
-    * d) La Subdirección General de Administración Periférica.
+### Artículo 8. Subsecretaría de Defensa. 🗂️
 
-💡 ***Tip/Consejo: La Secretaría General Técnica es crucial para la gestión administrativa, legal y documental del Ministerio. Entiende sus funciones y dependencias.***
-🔑 ***Aspecto Clave: La Secretaría General Técnica gestiona la normativa, publicaciones, archivos y el patrimonio cultural del Ministerio.***
+- 💡 **Tip/Consejo: Este artículo describe las funciones de la Subsecretaría de Defensa, que se encarga de la dirección, planificación y gestión de la política de personal, reclutamiento, enseñanza, sanidad y patrimonio cultural. Es esencial para entender la gestión del personal del Ministerio.**
+    
+- 🔑 **Aspecto Clave: La Subsecretaría de Defensa dirige la política de personal, reclutamiento, enseñanza, sanidad y patrimonio cultural del Ministerio de Defensa.**
+    
 
-### Artículo 10. Dirección General de Personal. 🧑‍💼
-* La Dirección General de Personal planifica la política de personal y supervisa su ejecución.
-* Dependen funcionalmente de esta dirección los órganos competentes en estas materias de las Fuerzas Armadas.
-* Sus funciones incluyen:
-    * a) Elaborar normas y criterios generales de gestión del personal militar y ejercer la función inspectora.
-    * b) Gestionar el personal militar de los cuerpos comunes y el personal del Servicio de Asistencia Religiosa.
-    * c) Gestionar el personal civil, convocar ofertas de empleo público y tramitar procesos selectivos.
-    * d) Realizar la programación y gestión de la formación y la acción social del personal civil.
-    * e) Organizar la negociación colectiva y las relaciones laborales.
-    * f) Planificar los efectivos y el reclutamiento del personal militar y reservistas voluntarios.
-    * g) Planificar los efectivos del personal civil.
-    * h) Elaborar las disposiciones en materia retributiva.
-    * i) Proponer los efectivos y costes de personal para la elaboración del presupuesto.
-    * j) Controlar el Sistema de Información de Personal del Ministerio.
-    * k) Reconocer y conceder prestaciones e indemnizaciones que no pertenezcan al régimen de clases pasivas del personal militar.
-    * l) Reconocer las pensiones del personal saharaui de policía y unidades especiales.
-    * m) Dirigir la acción social del personal militar.
-    * n) Prestar apoyo a heridos y familiares de fallecidos y heridos en acto de servicio.
-    * ñ) Prestar apoyo a las personas con discapacidad en las Fuerzas Armadas.
-    * o) Coordinar la política de igualdad y ejercer las funciones de las Unidades de Igualdad.
-    * p) Preparar las propuestas de planificación prospectiva y estratégica de los recursos humanos.
-* De la Dirección General de Personal dependen:
-    * a) La Subdirección General de Personal Militar.
-    * b) La Subdirección General de Personal Civil.
-    * c) La Subdirección General de Planificación y Costes de Recursos Humanos.
-* También dependen de la Dirección General de Personal:
-    * a) La División de Igualdad y Apoyo Social al Personal.
-    * b) La Unidad Administrativa de las Reales y Militares Órdenes de San Fernando y San Hermenegildo.
-
-💡 ***Tip/Consejo: Esta Dirección General es central para la gestión del personal militar y civil, con un enfoque en la igualdad y el apoyo social.***
-🔑 ***Aspecto Clave: Esta Dirección gestiona el personal militar y civil, incluyendo la igualdad y el apoyo social.***
-
-### Artículo 11. Dirección General de Reclutamiento y Enseñanza Militar. 📚
-* La Dirección General de Reclutamiento y Enseñanza Militar planifica la política de enseñanza del personal militar y reservistas, su captación, selección y desarrollo profesional.
-* Dependen funcionalmente de esta dirección el Centro Superior de Estudios de la Defensa Nacional (CESEDEN) y los órganos competentes de las Fuerzas Armadas.
-* Sus funciones incluyen:
-    * a) Planificar y coordinar la enseñanza militar de formación y perfeccionamiento y los cursos de altos estudios de la defensa nacional.
-    * b) Supervisar el funcionamiento de los centros universitarios de la defensa e impulsar relaciones con otras entidades.
-    * c) Elaborar directrices generales de los planes de estudios y de los planes de formación de los reservistas.
-    * d) Proponer y coordinar la estructura docente de las Fuerzas Armadas.
-    * e) Planificar el Sistema Integrado de Enseñanza Virtual y el sistema de calidad de la enseñanza militar.
-    * f) Gestionar las enseñanzas de los cuerpos comunes, las enseñanzas comunes y los centros docentes dependientes de la dirección general.
-    * g) Elaborar programas de cooperación internacional en materia de enseñanza.
-    * h) Planificar y coordinar los procesos de captación y selección del personal militar y de los reservistas.
-    * i) Dirigir la gestión de los reservistas voluntarios.
-    * j) Dirigir las actuaciones de la Estrategia Integral de Desarrollo Profesional para personal militar.
-    * k) Implementar el Plan de Acción Individual para el Desarrollo Profesional para militares y reservistas.
-    * l) Promover los programas de formación de apoyo para el personal militar.
-    * m) Potenciar la evaluación y acreditación de titulaciones y competencias.
-    * n) Gestionar las oportunidades profesionales para el personal militar y reservistas en desempleo.
-    * ñ) Elaborar y coordinar los programas de comunicación relativos a reclutamiento y desarrollo profesional.
-    * o) Garantizar la dirección y continuidad del Departamento en educación física y deporte.
-* De la Dirección General de Reclutamiento y Enseñanza Militar dependen:
-    * a) La Subdirección General de Enseñanza Militar.
-    * b) La Subdirección General de Reclutamiento y Desarrollo Profesional de Personal Militar y Reservistas de Especial Disponibilidad.
-* También depende de esta dirección la Comisión Permanente y Secretaría General del Consejo Superior del Deporte Militar.
-* La Academia Central de la Defensa dependerá de la Subdirección General de Enseñanza Militar.
-
-💡 ***Tip/Consejo: Esta Dirección es clave para la formación, reclutamiento y desarrollo profesional del personal militar y reservistas. Es importante su conexión con el CESEDEN.***
-🔑 ***Aspecto Clave: Esta Dirección gestiona la enseñanza, reclutamiento y desarrollo profesional del personal militar.***
-
-### Artículo 12. Asesoría Jurídica General de la Defensa. ⚖️
-* La Asesoría Jurídica General de la Defensa emite informes jurídicos y evacua consultas de los órganos superiores y directivos del Ministerio.
-* La función de asesoramiento jurídico es única en el ámbito del Departamento.
-* La Asesoría Jurídica General dirige las relaciones del Departamento con los órganos de la jurisdicción militar y la Abogacía General del Estado.
-* Las funciones son desarrolladas por personal del Cuerpo Jurídico Militar.
-* El Asesor Jurídico General tiene precedencia sobre los demás cargos del Cuerpo Jurídico Militar y ejerce la inspección general del Cuerpo.
-
-💡 ***Tip/Consejo: La Asesoría Jurídica General es esencial para garantizar la legalidad en las actuaciones del Ministerio.***
-🔑 ***Aspecto Clave: La Asesoría Jurídica General proporciona asesoramiento legal y coordina las relaciones con la jurisdicción militar.***
-
-### Artículo 13. Intervención General de la Defensa. 🧾
-* La Intervención General de la Defensa ejerce el control interno de la gestión económico-financiera del Ministerio y sus organismos dependientes.
-* Ejerce la función interventora, el control financiero permanente y la auditoría pública.
-* También ejerce la notaría militar y el asesoramiento en materia de su competencia.
-* Las funciones son ejercidas por personal del Cuerpo Militar de Intervención bajo la dirección del Interventor General de la Defensa.
-* El Interventor General de la Defensa tiene precedencia sobre los demás cargos del Cuerpo Militar de Intervención y ejerce la inspección general del Cuerpo.
-
-💡 ***Tip/Consejo: La Intervención General garantiza el control y la transparencia en la gestión financiera del Ministerio.***
-🔑 ***Aspecto Clave: La Intervención General ejerce el control interno de la gestión económica y financiera del Ministerio.***
-
-### Artículo 14. Inspección General de Sanidad de la Defensa. ⚕️
-* La Inspección General de Sanidad de la Defensa planifica la política sanitaria y asesora a los órganos superiores del Departamento en sanidad militar y civil.
-* Dependen funcionalmente de esta inspección las direcciones de sanidad de los Ejércitos y la Armada y los órganos sanitarios del Ministerio.
-* Sus funciones incluyen:
-    * a) Preparar y proporcionar los apoyos sanitarios y logísticos operativos.
-    * b) Dirigir la red sanitaria militar.
-    * c) Dirigir la ordenación farmacéutica, sanidad pericial, prevención sanitaria y salud pública.
-    * d) Coordinar el apoyo médico, farmacéutico, veterinario, odontológico, psicológico y de enfermería.
-    * e) Gestionar los procedimientos de nombramiento del personal estatutario temporal.
-* El Inspector General de Sanidad de la Defensa tiene precedencia sobre los demás cargos del Cuerpo Militar de Sanidad y ejerce la inspección general del Cuerpo.
-
-💡 ***Tip/Consejo: La Inspección General de Sanidad es fundamental para la salud y el bienestar del personal militar y civil del Ministerio.***
-🔑 ***Aspecto Clave: La Inspección General planifica la política sanitaria y dirige la red sanitaria militar.***
-
-### Artículo 15. Secretaría General de Política de Defensa. 🌍
-* La Secretaría General de Política de Defensa desarrolla la política de defensa, la promoción de la cultura de defensa y las relaciones con otros Departamentos ministeriales y con organizaciones internacionales.
-* También desarrolla la diplomacia de defensa y contribuye a la conducción de crisis y emergencias.
-* Sus funciones incluyen:
-    * a) Efectuar el seguimiento y evaluación de la situación internacional en seguridad y defensa.
-    * b) Proponer las directrices de política de defensa.
-    * c) Dirigir el Plan de Diplomacia de Defensa.
-    * d) Conducir las relaciones bilaterales con los Estados en materia de política de defensa.
-    * e) Dirigir la participación del Ministerio en las organizaciones internacionales de seguridad y defensa.
-    * f) Dirigir la elaboración de los tratados, acuerdos y convenios internacionales que afecten a la Defensa.
-    * g) Coordinar la contribución del Departamento a la acción del Estado en situaciones de crisis.
-    * h) Planificar la contribución española al planeamiento civil de emergencia.
-    * i) Disponer la actuación en materia de control de armamento, no proliferación y desarme.
-    * j) Proponer y coordinar la política cultural de seguridad y defensa.
-    * k) Impulsar las relaciones institucionales.
-    * l) Impulsar las políticas multilaterales en defensa en los espacios comunes y en la lucha contra el cambio climático.
-* La persona titular de la Secretaría General de Política de Defensa ostenta la representación del Departamento en casos que se le encomienden.
-* Corresponde a la persona titular de la Secretaría General de Política de Defensa:
-    * a) Presidir la Comisión Interministerial de Defensa.
-    * b) Actuar de Secretario del Consejo de Defensa Nacional.
-    * c) Presidir la Comisión de Coordinación de la Actividad Internacional del Ministerio de Defensa.
-* La persona titular de la Secretaría General de Política de Defensa dispone de un Gabinete Técnico.
-* De la Secretaría General de Política de Defensa depende la Dirección General de Política de Defensa.
-* También depende de la persona titular de la Secretaría General de Política de Defensa la División de Coordinación y Estudios de Seguridad y Defensa.
-* Están adscritas a la Secretaría General de Política de Defensa:
-    * a) La Comisión Interministerial de Defensa.
-    * b) La Sección española del Comité Permanente Hispano-Norteamericano.
-    * c) La Comisión de Coordinación de la Actividad Internacional del Ministerio de Defensa.
-* Dependen de la Secretaría General de Política de Defensa las agregadurías de defensa en misiones diplomáticas y los consejeros de defensa en representaciones ante organizaciones internacionales.
-
-💡 ***Tip/Consejo: La Secretaría General de Política de Defensa es clave para la estrategia de defensa, las relaciones internacionales y la cultura de defensa.***
-🔑 ***Aspecto Clave: La Secretaría General dirige la política de defensa, relaciones internacionales y diplomacia de defensa.***
-
-### Artículo 16. Dirección General de Política de Defensa. 🛡️
-* La Dirección General de Política de Defensa planifica la política de defensa y los órganos competentes en esta materia de las Fuerzas Armadas dependen funcionalmente de esta dirección.
-* Sus funciones incluyen:
-    * a) Seguir y valorar el desarrollo de la situación internacional en política de seguridad y defensa.
-    * b) Elaborar las directrices de política de defensa.
-    * c) Controlar el desarrollo del Plan de Diplomacia de Defensa.
-    * d) Conducir y desarrollar las acciones dimanantes de las relaciones bilaterales con los estados.
-    * e) Elaborar las líneas generales para la participación en organizaciones internacionales.
-    * f) Preparar y apoyar la elaboración de tratados, acuerdos y convenios internacionales.
-    * g) Elaborar las líneas generales para la participación de otros departamentos ministeriales en la defensa nacional.
-    * h) Preparar y gestionar la contribución del Ministerio de Defensa en situaciones de crisis.
-    * i) Coordinar la contribución al planeamiento civil de emergencia en las organizaciones internacionales.
-    * j) Desarrollar la actuación en control de armamento, no proliferación y desarme.
-    * k) Coordinar la participación del Departamento en los organismos internacionales de seguridad y defensa.
-    * l) Coordinar el desarrollo de las políticas multilaterales en defensa en los espacios comunes y en
+25. La Subsecretaría de Defensa es el órgano directivo del Departamento al que le corresponde la dirección, planificación, impulso y gestión de la política de personal, de reclutamiento, de enseñanza, de desarrollo profesional, sanitaria y de patrimonio cultural.
+    
+26. En particular, le corresponden las siguientes funciones:
+    
+    - a) Elaborar y proponer disposiciones en materia de personal, reclutamiento, enseñanza militar, desarrollo profesional del personal militar y de los reservistas de especial disponibilidad, sanitaria y de patrimonio cultural.
+        
+    - b) Dirigir y coordinar la gestión general del personal militar y la gestión específica de los cuerpos comunes de las Fuerzas Armadas y del personal militar que no se halle encuadrado en alguno de los Ejércitos o la Armada.
+        
+    - c) Dirigir
