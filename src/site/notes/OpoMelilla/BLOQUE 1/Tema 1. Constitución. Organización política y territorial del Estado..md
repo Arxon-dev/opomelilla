@@ -278,19 +278,21 @@ graph LR
 💡 ***Tip/Consejo:*** _Este artículo regula las **sesiones conjuntas** de las Cámaras, estableciendo que se reúnen para ejercer competencias no legislativas asignadas en el Título II y que ciertas decisiones se adoptan por mayoría en cada cámara, con un procedimiento para resolver desacuerdos entre Congreso y Senado._
 🔑 ***Aspecto Clave:*** Las **Cámaras se reúnen en sesión conjunta para competencias no legislativas, decisiones por mayoría en cada cámara y procedimiento en caso de desacuerdo.**
 
+
+
 ```mermaid
 graph LR
     A[Sesiones Conjuntas] --> B[Competencias No Legislativas]
     B --> B1[Art. 74.1: Ejercer competencias del Título II]
     
     A --> C[Decisiones]
-     C --> C1[Art. 74.2: Mayoría de cada Cámara (Arts. 94.1, 145.2 y 158.2)]
-     C --> C2[Art. 74.2: Procedimiento iniciado por Congreso (Art. 94.1)]
-     C --> C3[Art. 74.2: Procedimiento iniciado por Senado (Arts. 145.2 y 158.2)]
+    C --> C1[Art. 74.2: Mayoría de cada Cámara]
+    C --> C2[Art. 74.2: Inicia Congreso - Art. 94.1]
+    C --> C3[Art. 74.2: Inicia Senado - Arts. 145.2 y 158.2]
     
     A --> D[Desacuerdo]
     D --> D1[Art. 74.2: Comisión Mixta]
-    D --> D2[Art. 74.2: Decisión final por el Congreso por mayoría absoluta]
+    D --> D2[Art. 74.2: Decisión Congreso por mayoría absoluta]
 ```
 
 **Artículo 75.**
@@ -366,6 +368,8 @@ graph LR
 
 💡 ***Tip/Consejo:*** _Este artículo regula la **Diputación Permanente** de cada Cámara, un órgano que continúa funcionando cuando las Cámaras no están en periodo de sesiones o han sido disueltas, garantizando la continuidad de la labor parlamentaria y la vigilancia de los poderes de la Cámara._
 🔑 ***Aspecto Clave:*** La **Diputación Permanente actúa en periodos no ordinarios, asumiendo funciones de las Cámaras disueltas y vigilando sus poderes**.
+
+
 ```mermaid
 graph LR
     A[Diputaciones Permanentes] --> B[Composición]
@@ -375,7 +379,7 @@ graph LR
     A --> C[Funciones]
     C --> C1[Art. 78.2: Presididas por Presidente de la Cámara]
     C --> C2[Art. 78.2: Funciones del Art. 73]
-    C --> C3[Art. 78.2: Asumir facultades en disolución (Art. 86 y 116)]
+    C --> C3[Art. 78.2: Asumir facultades - Arts. 86 y 116]
     C --> C4[Art. 78.2: Velar por poderes de las Cámaras]
     
     A --> D[Continuidad]
@@ -384,6 +388,7 @@ graph LR
     A --> E[Información]
     E --> E1[Art. 78.4: Dan cuenta de asuntos tratados y decisiones]
 ```
+
 **Artículo 79.**
 
 1.  Para **adoptar acuerdos**, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.
@@ -464,7 +469,7 @@ graph LR
   
     A --> C[Forma de Delegación]
     C --> C1[Art. 82.2: Ley ordinaria]
-     C --> C2[Art. 82.2: Ley de bases (textos articulados)]
+     C --> C2[Art. 82.2: Ley de bases textos articulados]
     
     A --> D[Requisitos]
     D --> D1[Art. 82.3: Expresa y para materia concreta]
@@ -1597,7 +1602,7 @@ graph LR
      C --> C2[Art. 144.b: Autorizar Estatutos para territorios no integrados en la organización provincial]
  
     A --> D[Sustitución de Iniciativa]
-     D --> D1[Art. 144.c: Sustituir iniciativa de corporaciones locales (Art. 143.2)]
+     D --> D1[Art. 144.c: Sustituir iniciativa de corporaciones locales Art. 143.2]
 ```
 
 **Artículo 145.**
@@ -1916,7 +1921,7 @@ graph LR
 
     A --> C[Control del Gobierno]
         C --> C1[Art. 153.b: Por el Gobierno previo dictamen del Consejo de Estado]
-        C --> C2[Art. 153.b: Ejercicio de funciones delegadas (Art. 150.2)]
+        C --> C2[Art. 153.b: Ejercicio de funciones delegadas Art. 150.2]
 
   A --> D[Control Jurisdiccional]
       D --> D1[Art. 153.c: Por la jurisdicción contencioso-administrativa]
