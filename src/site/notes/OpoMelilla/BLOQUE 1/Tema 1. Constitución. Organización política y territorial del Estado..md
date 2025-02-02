@@ -23,21 +23,20 @@
 🔑 **Aspecto Clave:** Las **Cortes Generales representan al pueblo español, ejercen la potestad legislativa, aprueban presupuestos, controlan al Gobierno y son inviolables**.
 
 ```mermaid
-%%{init: {'flowchart': {'nodeSpacing': 50, 'rankSpacing': 50, 'htmlLabels': true}}}%%
 graph TD
-    A(Cortes Generales) --> B(Representación del Pueblo)
-    B --> B1(Art. 66.1: Representan al pueblo español)
+    A[Cortes Generales] --> B[Representación del Pueblo]
+    B --> B1[Art. 66.1: Representan al pueblo español]
     
-    A --> C(Estructura Bicameral)
-    C --> C1(Art. 66.1: Congreso de los Diputados y Senado)
+    A --> C[Estructura Bicameral]
+    C --> C1[Art. 66.1: Congreso de los Diputados y Senado]
     
-    A --> D(Funciones Principales)
-    D --> D1(Art. 66.2: Potestad legislativa del Estado)
-    D --> D2(Art. 66.2: Aprueban los Presupuestos)
-    D --> D3(Art. 66.2: Control del Gobierno)
+    A --> D[Funciones Principales]
+    D --> D1[Art. 66.2: Potestad legislativa del Estado]
+    D --> D2[Art. 66.2: Aprueban los Presupuestos]
+    D --> D3[Art. 66.2: Control del Gobierno]
     
-    A --> E(Características)
-    E --> E1(Art. 66.3: Son inviolables)
+    A --> E[Características]
+    E --> E1[Art. 66.3: Son inviolables]
 ```
 
 **Artículo 67.**
