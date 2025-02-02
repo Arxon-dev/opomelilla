@@ -39,6 +39,21 @@ graph TD
     E --> E1[Art. 66.3: Son inviolables]
 ```
 
+```mermaid
+graph TD
+A --> C[Estructura Bicameral]
+C --> C1[Art. 66.1: Congreso de los Diputados y Senado]
+
+A --> D[Funciones Principales]
+D --> D1[Art. 66.2: Potestad legislativa del Estado]
+D --> D2[Art. 66.2: Aprueban los Presupuestos]
+D --> D3[Art. 66.2: Control del Gobierno]
+
+A --> E[Características]
+E --> E1[Art. 66.3: Son inviolables]
+```
+
+
 **Artículo 67.**
 
 4. Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso.
