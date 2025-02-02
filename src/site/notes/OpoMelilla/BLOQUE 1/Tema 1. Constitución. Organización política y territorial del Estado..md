@@ -21,10 +21,9 @@
 
 💡 **Tip/Consejo:** Este artículo establece la **naturaleza** y **funciones** de las Cortes Generales como representantes del pueblo español y principales órganos del Estado. Es crucial para entender cómo se ejerce la soberanía popular y se organiza el poder legislativo. Su inviolabilidad es un pilar de su independencia. Es importante recordar que las Cortes Generales son bicamerales (Congreso y Senado) y que estas cámaras tienen diferentes funciones y orígenes.  
 🔑 **Aspecto Clave:** Las **Cortes Generales representan al pueblo español, ejercen la potestad legislativa, aprueban presupuestos, controlan al Gobierno y son inviolables**.
-
     
-```mermaid 
-	graph LR
+```mermaid
+graph LR
     A[Cortes Generales] --> B[Representación del Pueblo]
     B --> B1[Art. 66.1: Representan al pueblo español]
     
