@@ -884,4 +884,1258 @@ graph LR
 ```
 **Artículo 103.**
 
-35.  La **Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía,
+1.  La **Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.**
+2.  Los **órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.**
+3.  La **ley regulará el estatuto de los funcionarios públicos**, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.
+
+💡 ***Tip/Consejo:*** _Este artículo establece los **principios de actuación de la Administración Pública**, destacando la objetividad, el servicio al interés general, la sujeción a la ley y los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. Se señala la reserva de ley para regular la creación, funcionamiento y el estatuto de los funcionarios públicos._
+🔑 ***Aspecto Clave:*** La **Administración Pública sirve al interés general con objetividad, sujeta a la ley y con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, y el estatuto de los funcionarios se regula por ley.**
+```mermaid
+graph LR
+    A[Principios de la Administración Pública] --> B[Servicio al Interés General]
+      B --> B1[Art. 103.1: Objetividad]
+   
+   A --> C[Sujeción a la Ley]
+      C --> C1[Art. 103.1: Sometimiento pleno a la ley y al Derecho]
+
+   A --> D[Principios de Actuación]
+    D --> D1[Art. 103.1: Eficacia]
+     D --> D2[Art. 103.1: Jerarquía]
+     D --> D3[Art. 103.1: Descentralización]
+      D --> D4[Art. 103.1: Desconcentración]
+      D --> D5[Art. 103.1: Coordinación]
+
+    A --> E[Organización]
+       E --> E1[Art. 103.2: Órganos creados, regidos y coordinados por ley]
+    
+     A --> F[Estatuto de Funcionarios]
+       F --> F1[Art. 103.3: Regulado por ley]
+        F --> F2[Art. 103.3: Principios de mérito y capacidad en el acceso]
+         F --> F3[Art. 103.3: Peculiaridades del derecho de sindicación]
+          F --> F4[Art. 103.3: Sistema de incompatibilidades]
+           F --> F5[Art. 103.3: Garantías de imparcialidad]
+```
+
+**Artículo 104.**
+
+4.  Las **Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.**
+5.  Una **ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.**
+
+💡 ***Tip/Consejo:*** _Este artículo define la **misión de las Fuerzas y Cuerpos de Seguridad**, que es proteger el libre ejercicio de derechos y libertades y garantizar la seguridad ciudadana, bajo la dependencia del Gobierno. Se reserva a la ley orgánica la regulación de sus funciones, principios y estatutos._
+🔑 ***Aspecto Clave:*** Las **Fuerzas y Cuerpos de Seguridad protegen derechos y libertades, garantizan la seguridad ciudadana, dependen del Gobierno y su regulación es por ley orgánica.**
+```mermaid
+graph LR
+ A[Fuerzas y Cuerpos de Seguridad] --> B[Misión]
+    B --> B1[Art. 104.1: Proteger el libre ejercicio de los derechos y libertades]
+    B --> B2[Art. 104.1: Garantizar la seguridad ciudadana]
+  
+    A --> C[Dependencia]
+    C --> C1[Art. 104.1: Bajo la dependencia del Gobierno]
+
+    A --> D[Regulación]
+        D --> D1[Art. 104.2: Determinada por ley orgánica]
+         D --> D2[Art. 104.2: Funciones]
+         D --> D3[Art. 104.2: Principios básicos de actuación]
+         D --> D4[Art. 104.2: Estatutos]
+```
+**Artículo 105.**
+
+La **ley regulará:**
+*   a) La **audiencia de los ciudadanos**, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.
+*   b) El **acceso de los ciudadanos a los archivos y registros administrativos**, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.
+*   c) El **procedimiento a través del cual deben producirse los actos administrativos**, garantizando, cuando proceda, la audiencia del interesado.
+
+💡 ***Tip/Consejo:*** _Este artículo establece la **reserva de ley para regular la participación ciudadana en la elaboración de disposiciones administrativas, el acceso a archivos y registros y el procedimiento de los actos administrativos**, garantizando la audiencia del interesado cuando proceda._
+🔑 ***Aspecto Clave:*** La **ley regula la audiencia de ciudadanos en disposiciones administrativas, su acceso a archivos y registros y el procedimiento de actos administrativos, garantizando la audiencia del interesado cuando proceda.**
+```mermaid
+graph LR
+    A[Regulación Legal] --> B[Participación Ciudadana]
+    B --> B1[Art. 105.a: Audiencia de ciudadanos en disposiciones administrativas]
+    B --> B2[Art. 105.a: Directamente o mediante organizaciones]
+    
+    A --> C[Acceso a Archivos y Registros]
+       C --> C1[Art. 105.b: Acceso de ciudadanos a archivos y registros]
+        C --> C2[Art. 105.b: Excepciones por seguridad, defensa, investigación de delitos o intimidad]
+
+    A --> D[Procedimiento Administrativo]
+        D --> D1[Art. 105.c: Procedimiento de actos administrativos]
+        D --> D2[Art. 105.c: Garantizando la audiencia del interesado cuando proceda]
+```
+**Artículo 106.**
+
+6.  Los **Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.**
+7.  Los **particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos**, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.
+
+💡 ***Tip/Consejo:*** _Este artículo establece el **control judicial de la Administración**, que incluye la potestad reglamentaria y la legalidad de la actuación administrativa, así como el derecho de los particulares a ser indemnizados por lesiones en sus bienes o derechos causadas por el funcionamiento de los servicios públicos._
+🔑 ***Aspecto Clave:*** Los **Tribunales controlan la legalidad de la Administración y los particulares tienen derecho a indemnización por lesiones causadas por los servicios públicos, salvo fuerza mayor.**
+```mermaid
+graph LR
+    A[Control Judicial de la Administración] --> B[Control de la Potestad Reglamentaria]
+        B --> B1[Art. 106.1: Control por los Tribunales]
+        B --> B2[Art. 106.1: Control de la legalidad de la actuación administrativa]
+        B --> B3[Art. 106.1: Control del sometimiento a los fines que la justifican]
+    
+    A --> C[Derecho a Indemnización]
+    C --> C1[Art. 106.2: Particulares tienen derecho a ser indemnizados por lesiones en bienes y derechos]
+     C --> C2[Art. 106.2: Salvo en casos de fuerza mayor]
+    C --> C3[Art. 106.2: Siempre que la lesión sea por el funcionamiento de los servicios públicos]
+```
+
+**Artículo 107.**
+
+El **Consejo de Estado es el supremo órgano consultivo del Gobierno**. Una **ley orgánica regulará su composición y competencia.**
+
+💡 ***Tip/Consejo:*** _Este artículo define al **Consejo de Estado** como el supremo órgano consultivo del Gobierno, estableciendo que su composición y competencia se regularán por ley orgánica._
+🔑 ***Aspecto Clave:*** El **Consejo de Estado es el órgano consultivo del Gobierno y su regulación es por ley orgánica.**
+```mermaid
+graph LR
+  A[Consejo de Estado] --> B[Naturaleza]
+  B --> B1[Art. 107: Supremo órgano consultivo del Gobierno]
+    
+  A --> C[Regulación]
+    C --> C1[Art. 107: Ley orgánica regulará composición y competencia]
+```
+
+## TÍTULO V
+### De las relaciones entre el Gobierno y las Cortes Generales
+
+**Artículo 108.**
+
+El **Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece el **principio de responsabilidad política solidaria del Gobierno** ante el Congreso de los Diputados, que implica que todo el Gobierno responde conjuntamente por su gestión política ante la Cámara._
+🔑 ***Aspecto Clave:*** El **Gobierno responde solidariamente ante el Congreso por su gestión política.**
+```mermaid
+graph LR
+    A[Responsabilidad del Gobierno] --> B[Responsabilidad Política]
+        B --> B1[Art. 108: Gobierno responde solidariamente ante el Congreso]
+    
+```
+
+**Artículo 109.**
+
+Las **Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de aquéllas, la información y ayuda que precisen del Gobierno y de sus Departamentos y de cualesquiera autoridades del Estado y de las Comunidades Autónomas.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece el **derecho de las Cámaras y sus Comisiones a obtener información y ayuda** del Gobierno, sus departamentos y otras autoridades, a través de sus Presidentes._
+🔑 ***Aspecto Clave:*** Las **Cámaras pueden recabar información y ayuda del Gobierno y otras autoridades a través de sus Presidentes.**
+```mermaid
+graph LR
+   A[Derecho de Información de las Cámaras] --> B[Solicitud]
+    B --> B1[Art. 109: Cámaras y Comisiones pueden recabar información y ayuda]
+     B --> B2[Art. 109: A través de sus Presidentes]
+
+     A --> C[Fuentes]
+    C --> C1[Art. 109: Del Gobierno y sus Departamentos]
+      C --> C2[Art. 109: De cualquier autoridad del Estado o de las CCAA]
+```
+**Artículo 110.**
+
+8.  Las **Cámaras y sus Comisiones pueden reclamar la presencia de los miembros del Gobierno.**
+9.  Los **miembros del Gobierno tienen acceso a las sesiones de las Cámaras y a sus Comisiones y la facultad de hacerse oír en ellas**, y podrán solicitar que informen ante las mismas funcionarios de sus Departamentos.
+
+💡 ***Tip/Consejo:*** _Este artículo establece el **derecho de las Cámaras y sus Comisiones a reclamar la presencia de miembros del Gobierno**, así como el derecho de estos a participar en las sesiones y solicitar la presencia de sus funcionarios para informar._
+🔑 ***Aspecto Clave:*** Las **Cámaras pueden reclamar la presencia del Gobierno, que tiene derecho a participar en las sesiones y a solicitar que sus funcionarios informen.**
+```mermaid
+graph LR
+   A[El Gobierno en las Cámaras] --> B[Reclamar Presencia]
+    B --> B1[Art. 110.1: Cámaras y Comisiones pueden reclamar presencia de los miembros del Gobierno]
+   
+    A --> C[Derechos del Gobierno]
+     C --> C1[Art. 110.2: Acceso a las sesiones]
+      C --> C2[Art. 110.2: Facultad de hacerse oír]
+      C --> C3[Art. 110.2: Solicitar que informen funcionarios de sus Departamentos]
+```
+**Artículo 111.**
+
+10.  El **Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras.** Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal.
+11.  Toda **interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece que el **Gobierno y sus miembros están sujetos a interpelaciones y preguntas** en las Cámaras, con un tiempo mínimo semanal para estos debates. Las interpelaciones pueden culminar en una moción._
+🔑 ***Aspecto Clave:*** El **Gobierno y sus miembros están sujetos a interpelaciones y preguntas en las Cámaras, con tiempo mínimo semanal y posibilidad de moción.**
+```mermaid
+graph LR
+   A[Interpelaciones y Preguntas] --> B[Sometimiento del Gobierno]
+    B --> B1[Art. 111.1: Gobierno y miembros sometidos a interpelaciones y preguntas]
+
+   A --> C[Tiempo para Debate]
+   C --> C1[Art. 111.1: Reglamentos establecen tiempo mínimo semanal]
+ 
+   A --> D[Consecuencia de la Interpelación]
+    D --> D1[Art. 111.2: Posibilidad de moción]
+```
+
+**Artículo 112.**
+
+El **Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general**. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
+
+💡 ***Tip/Consejo:*** _Este artículo permite al **Presidente del Gobierno plantear la cuestión de confianza** ante el Congreso, un mecanismo para medir el apoyo parlamentario a su programa o política general, requiriendo la mayoría simple para su aprobación._
+🔑 ***Aspecto Clave:*** El **Presidente puede plantear la cuestión de confianza sobre su programa, requiriendo la mayoría simple del Congreso.**
+```mermaid
+graph LR
+    A[Cuestión de Confianza] --> B[Iniciativa]
+    B --> B1[Art. 112: Presidente del Gobierno previa deliberación del Consejo de Ministros]
+    B --> B2[Art. 112: Sobre su programa o declaración de política general]
+
+    A --> C[Aprobación]
+      C --> C1[Art. 112: Mayoría simple del Congreso]
+```
+
+**Artículo 113.**
+
+12.  El **Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.**
+13.  La **moción de censura deberá ser propuesta al menos por la décima parte de los Diputados**, y habrá de incluir un candidato a la Presidencia del Gobierno.
+14.  La **moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación**. En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.
+15.  Si la **moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán presentar otra durante el mismo período de sesiones.**
+
+💡 ***Tip/Consejo:*** _Este artículo regula la **moción de censura**, un mecanismo por el que el Congreso puede exigir la responsabilidad política del Gobierno, requiriendo la mayoría absoluta para su aprobación, la propuesta de una décima parte de los Diputados, la inclusión de un candidato alternativo a Presidente y plazos específicos para su tramitación y votación._
+🔑 ***Aspecto Clave:*** El **Congreso puede exigir responsabilidad del Gobierno mediante la moción de censura (mayoría absoluta), propuesta por la décima parte de Diputados, con candidato alternativo y plazos específicos, y no se puede presentar otra en el mismo período si es rechazada.**
+```mermaid
+graph LR
+    A[Moción de Censura] --> B[Exigencia de Responsabilidad]
+    B --> B1[Art. 113.1: Por mayoría absoluta del Congreso]
+   
+    A --> C[Requisitos de la Propuesta]
+     C --> C1[Art. 113.2: Propuesta por al menos la décima parte de los Diputados]
+    C --> C2[Art. 113.2: Incluir candidato a la Presidencia del Gobierno]
+    
+   A --> D[Tramitación]
+      D --> D1[Art. 113.3: No votada hasta 5 días tras su presentación]
+      D --> D2[Art. 113.3: Posibilidad de mociones alternativas en los dos primeros días]
+
+    A --> E[Efectos del Rechazo]
+     E --> E1[Art. 113.4: Sus signatarios no pueden presentar otra en el mismo período de sesiones]
+```
+
+**Artículo 114.**
+
+16.  Si el **Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey, procediéndose a continuación a la designación de Presidente del Gobierno, según lo dispuesto en el artículo 99.**
+17.  Si el **Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara a los efectos previstos en el artículo 99**. El Rey le nombrará Presidente del Gobierno.
+
+💡 ***Tip/Consejo:*** _Este artículo establece las **consecuencias de la pérdida de confianza** del Gobierno en el Congreso, que incluyen la dimisión del Gobierno y el inicio del proceso de designación de un nuevo Presidente, ya sea por rechazo de la cuestión de confianza o aprobación de la moción de censura._
+🔑 ***Aspecto Clave:*** El **Gobierno dimite si pierde la confianza o se aprueba una moción de censura, y se designa un nuevo Presidente según el artículo 99.**
+```mermaid
+graph LR
+   A[Dimisión del Gobierno] --> B[Pérdida de Confianza]
+     B --> B1[Art. 114.1: Dimisión al Rey si el Congreso niega la confianza]
+    B --> B2[Art. 114.1: Procedimiento según el artículo 99]
+  
+    A --> C[Moción de Censura]
+     C --> C1[Art. 114.2: Dimisión al Rey si se aprueba la moción de censura]
+    C --> C2[Art. 114.2: Candidato en la moción investido de la confianza del Congreso]
+    C --> C3[Art. 114.2: Nombramiento del nuevo Presidente por el Rey]
+```
+**Artículo 115.**
+
+18.  El **Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey**. El decreto de disolución fijará la fecha de las elecciones.
+19.  La **propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura.**
+20.  **No procederá nueva disolución antes de que transcurra un año desde la anterior**, salvo lo dispuesto en el artículo 99, apartado 5.
+
+💡 ***Tip/Consejo:*** _Este artículo permite al **Presidente del Gobierno disolver las Cámaras**, bajo su exclusiva responsabilidad y tras deliberación del Consejo de Ministros, con un decreto del Rey. No se permite la disolución si hay una moción de censura en trámite, ni repetir la disolución en menos de un año, salvo excepciones._
+🔑 ***Aspecto Clave:*** El **Presidente puede disolver las Cámaras, bajo su responsabilidad, con decreto del Rey, no si hay moción de censura y no puede repetirse hasta pasado un año, salvo excepción.**
+```mermaid
+graph LR
+   A[Disolución de las Cámaras] --> B[Iniciativa]
+     B --> B1[Art. 115.1: Presidente del Gobierno previa deliberación del Consejo de Ministros]
+     B --> B2[Art. 115.1: Bajo su exclusiva responsabilidad]
+
+   A --> C[Decreto de Disolución]
+    C --> C1[Art. 115.1: Decretada por el Rey]
+    C --> C2[Art. 115.1: Fijación de la fecha de las elecciones]
+ 
+   A --> D[Prohibiciones]
+       D --> D1[Art. 115.2: No si hay moción de censura en trámite]
+        D --> D2[Art. 115.3: No antes de un año de la anterior, salvo el art. 99.5]
+```
+
+**Artículo 116.**
+
+21.  Una **ley orgánica regulará los estados de alarma, de excepción y de sitio**, y las competencias y limitaciones correspondientes.
+22.  El **estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados**, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo. El decreto determinará el ámbito territorial a que se extienden los efectos de la declaración.
+23.  El **estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados**. La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos.
+24.  El **estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno**. El Congreso determinará su ámbito territorial, duración y condiciones.
+25.  **No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados comprendidos en el presente artículo**, quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones. Su funcionamiento, así como el de los demás poderes constitucionales del Estado, no podrán interrumpirse durante la vigencia de estos estados. Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su Diputación Permanente.
+26.  La **declaración de los estados de alarma, de excepción y de sitio no modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.**
+
+💡 ***Tip/Consejo:*** _Este artículo regula los **estados de alarma, excepción y sitio**, estableciendo que se regulan por ley orgánica, que el de alarma lo declara el Gobierno con control del Congreso, el de excepción requiere autorización previa del Congreso y el de sitio lo declara el Congreso, estableciendo también la imposibilidad de disolución de las Cámaras durante estos estados y la no alteración de la responsabilidad del Gobierno._
+🔑 ***Aspecto Clave:*** Los **estados de alarma, excepción y sitio son regulados por ley orgánica, el de alarma lo declara el Gobierno con control del Congreso, el de excepción requiere autorización del Congreso, el de sitio lo declara el Congreso, y no se puede disolver las Cámaras durante estos estados, manteniendo la responsabilidad del Gobierno.**
+```mermaid
+graph LR
+   A[Estados de Alarma, Excepción y Sitio] --> B[Regulación]
+    B --> B1[Art. 116.1: Ley orgánica regulará los estados]
+   
+   A --> C[Estado de Alarma]
+     C --> C1[Art. 116.2: Declarado por el Gobierno mediante decreto]
+     C --> C2[Art. 116.2: Máximo 15 días]
+     C --> C3[Art. 116.2: Cuenta al Congreso]
+    C --> C4[Art. 116.2: Prórroga con autorización del Congreso]
+    
+   A --> D[Estado de Excepción]
+     D --> D1[Art. 116.3: Declarado por el Gobierno mediante decreto con autorización del Congreso]
+     D --> D2[Art. 116.3: Máximo 30 días, prorrogables por igual plazo con mismos requisitos]
+    
+   A --> E[Estado de Sitio]
+    E --> E1[Art. 116.4: Declarado por mayoría absoluta del Congreso a propuesta del Gobierno]
+    E --> E2[Art. 116.4: Congreso determina ámbito territorial, duración y condiciones]
+  
+   A --> F[Imposibilidad de Disolución]
+      F --> F1[Art. 116.5: No se puede disolver el Congreso durante estos estados]
+        F --> F2[Art. 116.5: Cámaras convocadas automáticamente si no están en periodo de sesiones]
+         F --> F3[Art. 116.5: Diputación Permanente asume funciones del Congreso si este está disuelto]
+
+   A --> G[Responsabilidad del Gobierno]
+       G --> G1[Art. 116.6: No se modifica el principio de responsabilidad del Gobierno y sus agentes]
+```
+
+## TÍTULO VI
+### Del poder judicial
+
+**Artículo 117.**
+
+1.  La **justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.**
+2.  Los **Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados sino por alguna de las causas y con las garantías previstas en la ley.**
+3.  El **ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales** determinados por las leyes, según las normas de competencia y procedimiento que las mismas establezcan.
+4.  Los **Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.**
+5.  El **principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales.** La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
+6.  **Se prohíben los Tribunales de excepción.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece los **principios fundamentales del poder judicial**, como su origen en el pueblo, la administración de justicia en nombre del Rey, la independencia, inamovilidad, responsabilidad y sujeción a la ley de los jueces y magistrados. Define la potestad jurisdiccional, las funciones de los Juzgados y Tribunales, el principio de unidad jurisdiccional y la prohibición de tribunales de excepción._
+🔑 ***Aspecto Clave:*** La **justicia emana del pueblo, la administran jueces y magistrados independientes, inamovibles, responsables y sujetos a la ley, con unidad jurisdiccional y prohibición de tribunales de excepción.**
+```mermaid
+graph LR
+  A[Poder Judicial] --> B[Origen y Administración]
+    B --> B1[Art. 117.1: Justicia emana del pueblo]
+    B --> B2[Art. 117.1: Se administra en nombre del Rey]
+  
+  A --> C[Jueces y Magistrados]
+    C --> C1[Art. 117.1: Integrantes del poder judicial]
+    C --> C2[Art. 117.1: Independientes]
+    C --> C3[Art. 117.1: Inamovibles]
+    C --> C4[Art. 117.1: Responsables]
+     C --> C5[Art. 117.1: Sometidos únicamente al imperio de la ley]
+ 
+  A --> D[Garantías de Jueces y Magistrados]
+      D --> D1[Art. 117.2: No pueden ser separados, suspendidos, trasladados ni jubilados sino por ley]
+      D --> D2[Art. 117.2: Con las garantías previstas en la ley]
+    
+   A --> E[Potestad Jurisdiccional]
+      E --> E1[Art. 117.3: Exclusiva de Juzgados y Tribunales]
+     E --> E2[Art. 117.3: Juegan y hacen ejecutar lo juzgado]
+      E --> E3[Art. 117.3: Según normas de competencia y procedimiento]
+    
+    A --> F[Funciones de Juzgados y Tribunales]
+        F --> F1[Art. 117.4: Señaladas en el apartado anterior]
+       F --> F2[Art. 117.4: Las que expresamente les atribuya la ley]
+    
+   A --> G[Unidad Jurisdiccional]
+      G --> G1[Art. 117.5: Base de la organización y funcionamiento de los Tribunales]
+      G --> G2[Art. 117.5: Ley regulará jurisdicción militar]
+
+   A --> H[Prohibición de Tribunales de Excepción]
+       H --> H1[Art. 117.6: Se prohíben]
+```
+**Artículo 118.**
+
+Es **obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales**, así como prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto.
+
+💡 ***Tip/Consejo:*** _Este artículo establece el **deber de cumplir las sentencias y resoluciones firmes** de los Jueces y Tribunales, así como la obligación de colaborar con la justicia en el curso de los procesos y ejecución de las resoluciones._
+🔑 ***Aspecto Clave:*** Es **obligado cumplir sentencias y resoluciones firmes, así como colaborar con la justicia en los procesos.**
+```mermaid
+graph LR
+  A[Cumplimiento de Resoluciones Judiciales] --> B[Obligación]
+    B --> B1[Art. 118: Cumplir sentencias y resoluciones firmes]
+    B --> B2[Art. 118: Colaboración con la justicia en los procesos y ejecución]
+```
+
+**Artículo 119.**
+
+La **justicia será gratuita cuando así lo disponga la ley, y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece el principio de **justicia gratuita**, que se concede en los casos que determine la ley, y en todo caso, para aquellos que demuestren carecer de recursos económicos para litigar._
+🔑 ***Aspecto Clave:*** La **justicia es gratuita en los casos que determine la ley y, siempre, cuando se carezca de recursos para litigar.**
+```mermaid
+graph LR
+    A[Justicia Gratuita] --> B[Determinación Legal]
+        B --> B1[Art. 119: Justicia gratuita según lo disponga la ley]
+   
+  A --> C[Insuficiencia de Recursos]
+     C --> C1[Art. 119: Siempre para quienes carezcan de recursos para litigar]
+```
+**Artículo 120.**
+
+1.  Las **actuaciones judiciales serán públicas**, con las excepciones que prevean las leyes de procedimiento.
+2.  El **procedimiento será predominantemente oral**, sobre todo en materia criminal.
+3.  Las **sentencias serán siempre motivadas y se pronunciarán en audiencia pública.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece el principio de **publicidad de las actuaciones judiciales**, con excepciones previstas en las leyes. Se establece la preferencia por el procedimiento oral, especialmente en materia criminal, y la obligatoriedad de motivación y publicación en audiencia pública de las sentencias._
+🔑 ***Aspecto Clave:*** Las **actuaciones judiciales son públicas, el procedimiento es predominantemente oral, sobre todo en materia criminal, y las sentencias son motivadas y se pronuncian en audiencia pública.**
+```mermaid
+graph LR
+   A[Actuaciones Judiciales] --> B[Publicidad]
+    B --> B1[Art. 120.1: Actuaciones judiciales públicas]
+     B --> B2[Art. 120.1: Excepciones en las leyes de procedimiento]
+
+   A --> C[Procedimiento Oral]
+     C --> C1[Art. 120.2: Procedimiento predominantemente oral, sobre todo en materia criminal]
+
+   A --> D[Motivación de Sentencias]
+      D --> D1[Art. 120.3: Sentencias motivadas y pronunciadas en audiencia pública]
+```
+**Artículo 121.**
+
+Los **daños causados por error judicial, así como los que sean consecuencia del funcionamiento anormal de la Administración de Justicia, darán derecho a una indemnización a cargo del Estado, conforme a la Ley.**
+
+💡 ***Tip/Consejo:*** _Este artículo reconoce el **derecho a indemnización a cargo del Estado por los daños causados por error judicial** o por el funcionamiento anormal de la Administración de Justicia, conforme a la ley._
+🔑 ***Aspecto Clave:*** El **Estado indemniza por daños causados por error judicial o por funcionamiento anormal de la Administración de Justicia.**
+```mermaid
+graph LR
+   A[Indemnización por Errores Judiciales] --> B[Derecho a Indemnización]
+    B --> B1[Art. 121: Por daños causados por error judicial o funcionamiento anormal de la administración de justicia]
+    
+   A --> C[Responsabilidad Estatal]
+        C --> C1[Art. 121: A cargo del Estado, conforme a la Ley]
+```
+
+**Artículo 122.**
+
+4.  La **ley orgánica del poder judicial determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de carrera, que formarán un Cuerpo único, y del personal al servicio de la Administración de Justicia.**
+5.  El **Consejo General del poder judicial es el órgano de gobierno del mismo**. La ley orgánica establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.
+6.  El **Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años**. De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
+
+💡 ***Tip/Consejo:*** _Este artículo regula la **estructura y gobierno del poder judicial**, estableciendo que la ley orgánica del poder judicial regulará la constitución y funcionamiento de Juzgados y Tribunales, así como el estatuto de jueces y magistrados, y que el Consejo General del Poder Judicial es su órgano de gobierno, especificando su composición y funciones._
+🔑 ***Aspecto Clave:*** El **poder judicial se regula por ley orgánica, el Consejo General del Poder Judicial es su órgano de gobierno y su composición se especifica en este artículo.**
+```mermaid
+graph LR
+   A[Organización del Poder Judicial] --> B[Regulación Legal]
+     B --> B1[Art. 122.1: Ley orgánica del poder judicial regula Juzgados y Tribunales]
+    B --> B2[Art. 122.1: Estatuto de Jueces y Magistrados y del personal al servicio de la administración de justicia]
+
+   A --> C[Consejo General del Poder Judicial]
+      C --> C1[Art. 122.2: Órgano de gobierno]
+     C --> C2[Art. 122.2: Ley orgánica regula su estatuto, incompatibilidades y funciones]
+    
+     A --> D[Composición del CGPJ]
+      D --> D1[Art. 122.3: Presidido por el Presidente del Tribunal Supremo]
+      D --> D2[Art. 122.3: 20 miembros nombrados por el Rey por 5 años]
+      D --> D3[Art. 122.3: 12 entre Jueces y Magistrados]
+      D --> D4[Art. 122.3: 4 a propuesta del Congreso por mayoría de 3/5]
+      D --> D5[Art. 122.3: 4 a propuesta del Senado por mayoría de 3/5]
+      D --> D6[Art. 122.3: Abogados y juristas de reconocida competencia y más de 15 años de ejercicio]
+```
+**Artículo 123.**
+
+7.  El **Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.**
+8.  El **Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.**
+
+💡 ***Tip/Consejo:*** _Este artículo define al **Tribunal Supremo** como el órgano jurisdiccional superior en todos los órdenes, con jurisdicción en toda España, a excepción de las garantías constitucionales, y que su Presidente es nombrado por el Rey a propuesta del CGPJ._
+🔑 ***Aspecto Clave:*** El **Tribunal Supremo es el órgano superior en todos los órdenes, con jurisdicción nacional, excepto en garantías constitucionales, y su Presidente es nombrado por el Rey a propuesta del CGPJ.**
+```mermaid
+graph LR
+    A[Tribunal Supremo] --> B[Naturaleza]
+     B --> B1[Art. 123.1: Órgano jurisdiccional superior en todos los órdenes]
+     B --> B2[Art. 123.1: Jurisdicción en toda España]
+     B --> B3[Art. 123.1: Salvo garantías constitucionales]
+    
+    A --> C[Nombramiento del Presidente]
+     C --> C1[Art. 123.2: Nombrado por el Rey a propuesta del CGPJ]
+      C --> C2[Art. 123.2: En la forma que determine la ley]
+```
+**Artículo 124.**
+
+9.  El **Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley**, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social.
+10.  El **Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad.**
+11.  La **ley regulará el estatuto orgánico del Ministerio Fiscal.**
+12.  El **Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del poder judicial.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece las **funciones del Ministerio Fiscal**, que incluyen la promoción de la acción de la justicia en defensa de la legalidad, derechos y el interés público, velar por la independencia de los tribunales y procurar el interés social, ejerciendo sus funciones con unidad de actuación, dependencia jerárquica, legalidad e imparcialidad. El Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el CGPJ._
+🔑 ***Aspecto Clave:*** El **Ministerio Fiscal promueve la acción de la justicia, defiende la legalidad, los derechos y el interés público, y su estatuto se regula por ley, con un Fiscal General nombrado por el Rey a propuesta del Gobierno.**
+```mermaid
+graph LR
+   A[Ministerio Fiscal] --> B[Misión]
+    B --> B1[Art. 124.1: Promover la acción de la justicia]
+    B --> B2[Art. 124.1: Defensa de la legalidad, derechos y el interés público]
+    B --> B3[Art. 124.1: Velar por la independencia de los Tribunales]
+    B --> B4[Art. 124.1: Procurar la satisfacción del interés social]
+
+   A --> C[Ejercicio de Funciones]
+    C --> C1[Art. 124.2: Principios de unidad de actuación y dependencia jerárquica]
+     C --> C2[Art. 124.2: Sujeción a los de legalidad e imparcialidad]
+
+   A --> D[Estatuto Orgánico]
+     D --> D1[Art. 124.3: Ley regulará el estatuto orgánico del Ministerio Fiscal]
+
+   A --> E[Fiscal General del Estado]
+     E --> E1[Art. 124.4: Nombrado por el Rey a propuesta del Gobierno, oído el CGPJ]
+```
+
+**Artículo 125.**
+
+Los **ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado**, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en los Tribunales consuetudinarios y tradicionales.
+
+💡 ***Tip/Consejo:*** _Este artículo reconoce el **derecho de los ciudadanos a ejercer la acción popular** y participar en la administración de justicia mediante el Jurado y en los tribunales consuetudinarios o tradicionales en la forma y procesos que determine la ley._
+🔑 ***Aspecto Clave:*** Los **ciudadanos pueden ejercer la acción popular y participar en la justicia mediante el Jurado y en los tribunales consuetudinarios según la ley.**
+```mermaid
+graph LR
+   A[Participación Ciudadana en la Justicia] --> B[Acción Popular]
+    B --> B1[Art. 125: Los ciudadanos pueden ejercer la acción popular]
+    
+   A --> C[Institución del Jurado]
+       C --> C1[Art. 125: Participación mediante el Jurado en procesos penales]
+        C --> C2[Art. 125: En la forma y procesos que determine la ley]
+
+   A --> D[Tribunales Consuetudinarios y Tradicionales]
+      D --> D1[Art. 125: Participación en tribunales consuetudinarios y tradicionales]
+```
+**Artículo 126.**
+
+La **policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece que la **policía judicial depende de los Jueces, Tribunales y Ministerio Fiscal** en sus funciones de investigación del delito y detención del delincuente, según lo que disponga la ley._
+🔑 ***Aspecto Clave:*** La **policía judicial depende de Jueces, Tribunales y Ministerio Fiscal en la investigación del delito y detención del delincuente, según la ley.**
+```mermaid
+graph LR
+    A[Policía Judicial] --> B[Dependencia]
+    B --> B1[Art. 126: Depende de los Jueces, Tribunales y Ministerio Fiscal]
+  
+   A --> C[Funciones]
+     C --> C1[Art. 126: Averiguación del delito]
+      C --> C2[Art. 126: Descubrimiento y aseguramiento del delincuente]
+     C --> C3[Art. 126: En los términos que la ley establezca]
+```
+
+**Artículo 127.**
+
+13.  Los **Jueces y Magistrados, así como los Fiscales, mientras se hallen en activo, no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos**. La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales.
+14.  La **ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que deberá asegurar la total independencia de los mismos.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece las **incompatibilidades de Jueces, Magistrados y Fiscales**, impidiéndoles desempeñar otros cargos públicos, pertenecer a partidos o sindicatos mientras estén en activo, reservando a la ley la regulación de asociaciones profesionales y el régimen de incompatibilidades para asegurar la independencia del poder judicial._
+🔑 ***Aspecto Clave:*** Los **Jueces, Magistrados y Fiscales en activo no pueden tener otros cargos públicos, pertenecer a partidos o sindicatos, y su régimen de incompatibilidades se establece por ley para asegurar su independencia.**
+```mermaid
+graph LR
+   A[Incompatibilidades del Poder Judicial] --> B[Prohibiciones]
+    B --> B1[Art. 127.1: Jueces, Magistrados y Fiscales no pueden desempeñar otros cargos públicos]
+    B --> B2[Art. 127.1: No pertenecer a partidos políticos o sindicatos mientras se hallen en activo]
+   
+    A --> C[Asociaciones Profesionales]
+    C --> C1[Art. 127.1: La ley establecerá sistema y modalidades de asociación profesional de Jueces, Magistrados y Fiscales]
+ 
+    A --> D[Régimen de Incompatibilidades]
+     D --> D1[Art. 127.2: La ley establecerá el régimen de incompatibilidades para asegurar la independencia]
+```
+## TÍTULO VIII
+### De la Organización Territorial del Estado
+
+#### CAPÍTULO PRIMERO
+##### Principios generales
+
+**Artículo 137.**
+
+El **Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan**. Todas estas entidades gozan de **autonomía para la gestión de sus respectivos intereses.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece la **organización territorial del Estado** en municipios, provincias y Comunidades Autónomas, todas con autonomía para gestionar sus intereses._
+🔑 ***Aspecto Clave:*** El **Estado se organiza en municipios, provincias y CCAA, con autonomía para gestionar sus intereses.**
+```mermaid
+graph LR
+ A[Organización Territorial del Estado] --> B[Entidades]
+ B --> B1[Art. 137: Municipios]
+  B --> B2[Art. 137: Provincias]
+   B --> B3[Art. 137: Comunidades Autónomas]
+
+   A --> C[Autonomía]
+     C --> C1[Art. 137: Autonomía para la gestión de sus intereses]
+```
+
+**Artículo 138.**
+
+15.  El **Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2 de la Constitución, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español**, y atendiendo en particular a las circunstancias del hecho insular.
+16.  Las **diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece el **principio de solidaridad territorial**, obligando al Estado a garantizar un equilibrio económico justo entre las diferentes partes de España, especialmente en las zonas insulares y prohibiendo privilegios económicos o sociales derivados de los Estatutos de Autonomía._
+🔑 ***Aspecto Clave:*** El **Estado garantiza la solidaridad territorial, el equilibrio económico justo y prohíbe privilegios económicos o sociales entre CCAA.**
+```mermaid
+graph LR
+    A[Solidaridad e Igualdad Territorial] --> B[Solidaridad]
+       B --> B1[Art. 138.1: El Estado garantiza la realización efectiva del principio de solidaridad]
+        B --> B2[Art. 138.1: Equilibrio económico adecuado y justo]
+        B --> B3[Art. 138.1: Atendiendo a circunstancias del hecho insular]
+    
+   A --> C[Igualdad]
+     C --> C1[Art. 138.2: Diferencias entre Estatutos no pueden implicar privilegios económicos o sociales]
+```
+
+**Artículo 139.**
+
+17.  **Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.**
+18.  **Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece la **igualdad de todos los españoles en derechos y obligaciones en todo el territorio** y prohíbe medidas que obstaculicen la libre circulación de personas y bienes._
+🔑 ***Aspecto Clave:*** **Todos los españoles tienen los mismos derechos y obligaciones en todo el territorio y se prohíben trabas a la libre circulación de personas y bienes.**
+```mermaid
+graph LR
+   A[Igualdad en Territorio] --> B[Igualdad de Derechos y Obligaciones]
+   B --> B1[Art. 139.1: Todos los españoles tienen los mismos derechos y obligaciones]
+    B --> B2[Art. 139.1: En cualquier parte del territorio del Estado]
+
+  A --> C[Libre Circulación]
+     C --> C1[Art. 139.2: Prohibición de obstaculizar la libre circulación de personas y bienes]
+```
+
+#### CAPÍTULO SEGUNDO
+##### De la Administración Local
+
+**Artículo 140.**
+
+La **Constitución garantiza la autonomía de los municipios**. Estos gozarán de **personalidad jurídica plena**. Su gobierno y administración corresponde a sus respectivos **Ayuntamientos**, integrados por los Alcaldes y los Concejales. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley. Los Alcaldes serán elegidos por los Concejales o por los vecinos. La ley regulará las condiciones en las que proceda el régimen del concejo abierto.
+
+💡 ***Tip/Consejo:*** _Este artículo garantiza la **autonomía municipal**, la personalidad jurídica plena de los municipios y que su gobierno y administración corresponda a los Ayuntamientos, elegidos democráticamente. Los Alcaldes pueden ser elegidos por los concejales o por los vecinos, y la ley regulará el régimen del concejo abierto._
+🔑 ***Aspecto Clave:*** La **Constitución garantiza la autonomía de los municipios, sus ayuntamientos son elegidos democráticamente y los alcaldes por los concejales o vecinos, con regulación legal del concejo abierto.**
+```mermaid
+graph LR
+ A[Autonomía Municipal] --> B[Garantía Constitucional]
+    B --> B1[Art. 140: Garantiza la autonomía de los municipios]
+     B --> B2[Art. 140: Personalidad jurídica plena]
+   
+  A --> C[Ayuntamientos]
+    C --> C1[Art. 140: Gobierno y administración por Ayuntamientos]
+    C --> C2[Art. 140: Integrados por Alcaldes y Concejales]
+
+ A --> D[Elección de Concejales]
+  D --> D1[Art. 140: Sufragio universal, igual, libre, directo y secreto]
+ 
+  A --> E[Elección de Alcaldes]
+     E --> E1[Art. 140: Por Concejales o vecinos]
+
+   A --> F[Concejo Abierto]
+       F --> F1[Art. 140: Regulado por ley las condiciones para este régimen]
+```
+**Artículo 141.**
+
+19.  La **provincia es una entidad local con personalidad jurídica propia**, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.
+20.  El **Gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.**
+21.  **Se podrán crear agrupaciones de municipios diferentes de la provincia.**
+22.  En los archipiélagos, las **islas tendrán además su administración propia en forma de Cabildos o Consejos.**
+
+💡 ***Tip/Consejo:*** _Este artículo define la **provincia** como entidad local con personalidad jurídica, agrupaciones de municipios y división territorial para el Estado, cuya alteración requiere ley orgánica, con gobierno y administración en Diputaciones, pudiéndose crear agrupaciones de municipios distintas a las provincias y, en los archipiélagos, estableciendo la administración propia de las islas mediante Cabildos o Consejos._
+🔑 ***Aspecto Clave:*** La **provincia es entidad local, agrupación de municipios, con Diputaciones como gobierno, se permite agrupaciones de municipios diferentes y las islas tienen administración propia (Cabildos o Consejos).**
+```mermaid
+graph LR
+    A[La Provincia] --> B[Definición]
+     B --> B1[Art. 141.1: Entidad local con personalidad jurídica propia]
+      B --> B2[Art. 141.1: Agrupación de municipios y división territorial]
+
+  A --> C[Alteración de Límites Provinciales]
+     C --> C1[Art. 141.1: Aprobada por las Cortes Generales mediante ley orgánica]
+
+   A --> D[Gobierno y Administración]
+      D --> D1[Art. 141.2: Encomendados a Diputaciones u otras corporaciones representativas]
+
+   A --> E[Agrupaciones de Municipios]
+       E --> E1[Art. 141.3: Posibilidad de crear agrupaciones diferentes de la provincia]
+    
+  A --> F[Administración Insular]
+        F --> F1[Art. 141.4: Cabildos o Consejos en los archipiélagos]
+```
+**Artículo 142.**
+
+Las **Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece que las **Haciendas locales deben tener medios suficientes** para el ejercicio de sus funciones y que se financiarán mediante tributos propios y participación en los tributos del Estado y de las Comunidades Autónomas._
+🔑 ***Aspecto Clave:*** Las **Haciendas locales tienen medios suficientes para sus funciones y se financian con tributos propios y participación en tributos estatales y autonómicos.**
+```mermaid
+graph LR
+  A[Haciendas Locales] --> B[Medios Suficientes]
+    B --> B1[Art. 142: Deben disponer de medios suficientes]
+    B --> B2[Art. 142: Para el desempeño de las funciones que la ley les atribuye]
+    
+   A --> C[Financiación]
+      C --> C1[Art. 142: Se nutrirán fundamentalmente de tributos propios]
+    C --> C2[Art. 142: Participación en los del Estado y de las Comunidades Autónomas]
+```
+
+#### CAPÍTULO TERCERO
+##### De las Comunidades Autónomas
+
+**Artículo 143.**
+
+23.  En el **ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas** con arreglo a lo previsto en este Título y en los respectivos Estatutos.
+24.  La **iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla.** Estos requisitos deberán ser cumplidos en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.
+25.  La **iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años.**
+
+💡 ***Tip/Consejo:*** _Este artículo regula el **acceso a la autonomía y la formación de las Comunidades Autónomas**, especificando qué provincias o territorios pueden iniciar el proceso, así como los requisitos que debe cumplir la iniciativa y la limitación temporal para reiterarla en caso de fracaso._
+🔑 ***Aspecto Clave:*** Las **provincias con características comunes, territorios insulares y provincias con entidad regional pueden constituir CCAA por iniciativa de diputaciones o equivalentes y 2/3 de municipios que representen la mayoría del censo electoral, y la iniciativa no puede reiterarse hasta pasados 5 años si fracasa.**
+```mermaid
+graph LR
+    A[Autogobierno de las CCAA] --> B[Posibilidad de Acceso]
+     B --> B1[Art. 143.1: Provincias limítrofes con características históricas, culturales y económicas comunes]
+    B --> B2[Art. 143.1: Territorios insulares]
+    B --> B3[Art. 143.1: Provincias con entidad regional histórica]
+   
+    A --> C[Iniciativa del Proceso]
+     C --> C1[Art. 143.2: Diputaciones interesadas o el órgano interinsular correspondiente]
+    C --> C2[Art. 143.2: 2/3 de los municipios con mayoría del censo electoral]
+     C --> C3[Art. 143.2: Requisitos en 6 meses desde el primer acuerdo]
+   
+     A --> D[Reiteración de la Iniciativa]
+      D --> D1[Art. 143.3: Solo pasados 5 años si no prospera la iniciativa]
+```
+
+**Artículo 144.**
+
+Las **Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional**:
+*   a) **Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.**
+*   b) **Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial.**
+*   c) **Sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo 143.**
+
+💡 ***Tip/Consejo:*** _Este artículo otorga a las **Cortes Generales la facultad de autorizar, mediante ley orgánica y por motivos de interés nacional, la constitución de CCAA en casos especiales**, como cuando su territorio no supera una provincia o si no está integrado en la organización provincial, y de sustituir la iniciativa de las corporaciones locales._
+🔑 ***Aspecto Clave:*** Las **Cortes Generales, por ley orgánica y por interés nacional, pueden autorizar la constitución de CCAA en casos especiales o sustituir la iniciativa de las corporaciones locales.**
+```mermaid
+graph LR
+ A[Facultades de las Cortes Generales] --> B[Interés Nacional y Ley Orgánica]
+    B --> B1[Art. 144: Actuación por motivos de interés nacional mediante ley orgánica]
+
+    A --> C[Constitución de CCAA]
+    C --> C1[Art. 144.a: Autorizar CCAA cuyo ámbito no supere una provincia y no cumpla Art. 143.1]
+     C --> C2[Art. 144.b: Autorizar Estatutos para territorios no integrados en la organización provincial]
+ 
+    A --> D[Sustitución de Iniciativa]
+     D --> D1[Art. 144.c: Sustituir iniciativa de corporaciones locales (Art. 143.2)]
+```
+
+**Artículo 145.**
+
+1.  **En ningún caso se admitirá la federación de Comunidades Autónomas.**
+2.  Los **Estatutos podrán prever los supuestos, requisitos y términos en que las Comunidades Autónomas podrán celebrar convenios entre sí para la gestión y prestación de servicios propios de las mismas, así como el carácter y efectos de la correspondiente comunicación a las Cortes Generales**. En los demás supuestos, los **acuerdos de cooperación entre las Comunidades Autónomas necesitarán la autorización de las Cortes Generales.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece la **prohibición de la federación de Comunidades Autónomas** y la posibilidad de que los Estatutos prevean convenios para la gestión de servicios, con la necesidad de comunicación a las Cortes, que también deberán autorizar otros acuerdos de cooperación._
+🔑 ***Aspecto Clave:*** La **federación de CCAA está prohibida, se permite convenios entre CCAA para servicios propios previa comunicación a las Cortes, y otros acuerdos de cooperación requieren autorización de las Cortes.**
+```mermaid
+graph LR
+    A[Prohibición de Federación] --> B[Prohibición]
+     B --> B1[Art. 145.1: No se admite la federación de CCAA]
+    
+    A --> C[Convenios entre CCAA]
+     C --> C1[Art. 145.2: Estatutos pueden prever convenios para la gestión de servicios propios]
+     C --> C2[Art. 145.2: Comunicación a las Cortes Generales]
+    
+   A --> D[Acuerdos de Cooperación]
+      D --> D1[Art. 145.2: Autorización de las Cortes Generales]
+```
+**Artículo 146.**
+
+El **proyecto de Estatuto será elaborado por una asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las Cortes Generales para su tramitación como ley.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece que el **proyecto de Estatuto de Autonomía** será elaborado por una asamblea de miembros de diputaciones, órganos interinsulares, diputados y senadores de las provincias afectadas y elevado a las Cortes Generales para su tramitación como ley._
+🔑 ***Aspecto Clave:*** El **proyecto de Estatuto lo elabora una asamblea de miembros de diputaciones y parlamentarios, y se eleva a las Cortes para su tramitación como ley.**
+```mermaid
+graph LR
+    A[Elaboración del Estatuto] --> B[Asamblea]
+     B --> B1[Art. 146: Miembros de la Diputación u órgano interinsular]
+     B --> B2[Art. 146: Diputados y Senadores elegidos en ellas]
+   
+  A --> C[Tramitación]
+      C --> C1[Art. 146: Se eleva a las Cortes Generales para su tramitación como ley]
+```
+**Artículo 147.**
+
+1.  Dentro de los términos de la presente Constitución, los **Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico.**
+2.  Los **Estatutos de autonomía deberán contener**:
+    *   a) La denominación de la Comunidad que mejor corresponda a su identidad histórica.
+    *   b) La delimitación de su territorio.
+    *   c) La denominación, organización y sede de las instituciones autónomas propias.
+    *   d) Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.
+3.  La **reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.**
+
+💡 ***Tip/Consejo:*** _Este artículo define los **Estatutos de Autonomía** como la norma institucional básica de cada CCAA, que el Estado reconoce y ampara, estableciendo también su contenido obligatorio y que su reforma requiere el procedimiento establecido en el mismo Estatuto y la aprobación de las Cortes por ley orgánica._
+🔑 ***Aspecto Clave:*** Los **Estatutos son la norma básica de las CCAA, con contenido obligatorio, y su reforma requiere el procedimiento propio y aprobación de las Cortes por ley orgánica.**
+```mermaid
+graph LR
+   A[Estatutos de Autonomía] --> B[Definición]
+     B --> B1[Art. 147.1: Norma institucional básica de la CCAA]
+     B --> B2[Art. 147.1: Estado reconoce y ampara como parte de su ordenamiento jurídico]
+
+  A --> C[Contenido Obligatorio]
+    C --> C1[Art. 147.2.a: Denominación de la Comunidad]
+    C --> C2[Art. 147.2.b: Delimitación de su territorio]
+    C --> C3[Art. 147.2.c: Instituciones autónomas propias]
+   C --> C4[Art. 147.2.d: Competencias asumidas y bases para el traspaso]
+ 
+ A --> D[Reforma de los Estatutos]
+     D --> D1[Art. 147.3: Ajustada al procedimiento del mismo Estatuto]
+     D --> D2[Art. 147.3: Aprobación por las Cortes Generales mediante ley orgánica]
+```
+
+**Artículo 148.**
+
+4.  Las **Comunidades Autónomas podrán asumir competencias en las siguientes materias**:
+    *   1.º Organización de sus instituciones de autogobierno.
+    *   2.º Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.
+    *   3.º Ordenación del territorio, urbanismo y vivienda.
+    *   4.º Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.
+    *  5.º Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
+    *   6.º Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
+    *   7.º La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
+    *   8.º Los montes y aprovechamientos forestales.
+    *   9.º La gestión en materia de protección del medio ambiente.
+    *   10.º Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.
+    *   11.º La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.
+    *   12.º Ferias interiores.
+    *   13.º El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
+    *   14.º La artesanía.
+    *   15.º Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.
+    *   16.º Patrimonio monumental de interés de la Comunidad Autónoma.
+    *   17.º El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.
+    *   18.º Promoción y ordenación del turismo en su ámbito territorial.
+    *   19.º Promoción del deporte y de la adecuada utilización del ocio.
+    *   20.º Asistencia social.
+    *   21.º Sanidad e higiene.
+    *   22.º La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
+5.  **Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece las **competencias que pueden asumir las CCAA** inicialmente, enumerando un listado de materias, y la posibilidad de ampliarlas tras cinco años mediante la reforma de sus Estatutos, respetando los límites del artículo 149._
+🔑 ***Aspecto Clave:*** Las **CCAA pueden asumir competencias en un listado de materias inicial, y ampliarlo tras cinco años mediante la reforma de sus estatutos dentro del marco del artículo 149.**
+```mermaid
+graph LR
+   A[Competencias de las CCAA] --> B[Listado Inicial]
+     B --> B1[Art. 148.1: Organización de sus instituciones]
+    B --> B2[Art. 148.1: Alteración términos municipales y funciones sobre corporaciones locales]
+    B --> B3[Art. 148.1: Ordenación del territorio, urbanismo y vivienda]
+    B --> B4[Art. 148.1: Obras públicas de interés autonómico]
+     B --> B5[Art. 148.1: Ferrocarriles, carreteras y transporte dentro de la CCAA]
+     B --> B6[Art. 148.1: Puertos de refugio y deportivos, aeropuertos deportivos]
+    B --> B7[Art. 148.1: Agricultura y ganadería]
+    B --> B8[Art. 148.1: Montes y aprovechamientos forestales]
+    B --> B9[Art. 148.1: Protección del medio ambiente]
+     B --> B10[Art. 148.1: Aprovechamientos hidráulicos, canales y regadíos]
+     B --> B11[Art. 148.1: Pesca en aguas interiores, marisqueo y acuicultura]
+     B --> B12[Art. 148.1: Ferias interiores]
+     B --> B13[Art. 148.1: Fomento del desarrollo económico]
+    B --> B14[Art. 148.1: Artesanía]
+      B --> B15[Art. 148.1: Museos, bibliotecas y conservatorios de música autonómicos]
+    B --> B16[Art. 148.1: Patrimonio monumental de interés de la CCAA]
+      B --> B17[Art. 148.1: Fomento de la cultura, investigación y lengua autonómica]
+   B --> B18[Art. 148.1: Promoción y ordenación del turismo]
+      B --> B19[Art. 148.1: Promoción del deporte y uso del ocio]
+   B --> B20[Art. 148.1: Asistencia social]
+    B --> B21[Art. 148.1: Sanidad e higiene]
+  B --> B22[Art. 148.1: Vigilancia y protección de edificios e instalaciones y coordinación de policías locales]
+   
+    A --> C[Ampliación de Competencias]
+        C --> C1[Art. 148.2: Transcurridos 5 años mediante reforma de sus Estatutos]
+        C --> C2[Art. 148.2: Dentro del marco del Art. 149]
+```
+**Artículo 149.**
+
+6.  El **Estado tiene competencia exclusiva sobre las siguientes materias**:
+    *   1.º La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+    *   2.º Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.
+    *   3.º Relaciones internacionales.
+    *   4.º Defensa y Fuerzas Armadas.
+    *   5.º Administración de Justicia.
+    *   6.º Legislación mercantil, penal y penitenciaria; legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
+    *   7.º Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.
+    *   8.º Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
+    *   9.º Legislación sobre propiedad intelectual e industrial.
+    *   10.º Régimen aduanero y arancelario; comercio exterior.
+    *   11.º Sistema monetario: divisas, cambio y convertibilidad; bases de la ordenación del crédito, banca y seguros.
+    *   12.º Legislación sobre pesas y medidas, determinación de la hora oficial.
+    *   13.º Bases y coordinación de la planificación general de la actividad económica.
+    *   14.º Hacienda general y Deuda del Estado.
+    *   15.º Fomento y coordinación general de la investigación científica y técnica.
+    *   16.º Sanidad exterior. Bases y coordinación general de la sanidad. Legislación sobre productos farmacéuticos.
+    *   17.º Legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.
+    *   18.º Las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; legislación sobre expropiación forzosa; legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones públicas.
+    *   19.º Pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas.
+    *  20.º Marina mercante y abanderamiento de buques; iluminación de costas y señales marítimas; puertos de interés general; aeropuertos de interés general; control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves.
+    *   21.º Ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma; régimen general de comunicaciones; tráfico y circulación de vehículos a motor; correos y telecomunicaciones; cables aéreos, submarinos y radiocomunicación.
+    *   22.º La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma, y la autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial.
+    *   23.º Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
+    *   24.º Obras públicas de interés general o cuya realización afecte a más de una Comunidad Autónoma.
+    *   25.º Bases del régimen minero y energético.
+    *   26.º Régimen de producción, comercio, tenencia y uso de armas y explosivos.
+    *   27.º Normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las Comunidades Autónomas.
+    *   28.º Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.
+    *   29.º Seguridad pública, sin perjuicio de la posibilidad de creación de policías por las Comunidades Autónomas en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica.
+    *   30.º Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+    *   31.º Estadística para fines estatales.
+    *   32.º Autorización para la convocatoria de consultas populares por vía de referéndum.
+7.  **Sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.**
+8.  Las **materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos**. La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas. El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas.
+
+💡 ***Tip/Consejo:*** _Este artículo enumera las **competencias exclusivas del Estado**, incluyendo materias clave como las condiciones básicas para la igualdad, nacionalidad, defensa, justicia, legislación penal y mercantil, hacienda y seguridad social, entre otras, mientras que el Estado considera el servicio de la cultura un deber esencial y se permite a las CCAA asumir las materias no atribuidas expresamente al Estado en sus estatutos._
+🔑 ***Aspecto Clave:*** El **Estado tiene competencia exclusiva sobre una amplia lista de materias y, además, tiene como deber el servicio de la cultura, mientras que las CCAA pueden asumir las materias no atribuidas al Estado.**
+```mermaid
+graph LR
+   A[Competencias Exclusivas del Estado] --> B[Listado de Competencias Exclusivas]
+    B --> B1[Art. 149.1: Igualdad de todos los españoles]
+    B --> B2[Art. 149.1: Nacionalidad, inmigración, emigración, extranjería y derecho de asilo]
+    B --> B3[Art. 149.1: Relaciones internacionales]
+     B --> B4[Art. 149.1: Defensa y Fuerzas Armadas]
+    B --> B5[Art. 149.1: Administración de Justicia]
+    B --> B6[Art. 149.1: Legislación mercantil, penal y penitenciaria]
+    B --> B7[Art. 149.1: Legislación laboral]
+     B --> B8[Art. 149.1: Legislación civil]
+    B --> B9[Art. 149.1: Propiedad intelectual e industrial]
+    B --> B10[Art. 149.1: Régimen aduanero y arancelario y comercio exterior]
+      B --> B11[Art. 149.1: Sistema monetario]
+      B --> B12[Art. 149.1: Pesas y medidas y hora oficial]
+     B --> B13[Art. 149.1: Bases y coordinación de la planificación económica]
+     B --> B14[Art. 149.1: Hacienda general y Deuda del Estado]
+     B --> B15[Art. 149.1: Fomento y coordinación de la investigación científica y técnica]
+      B --> B16[Art. 149.1: Sanidad exterior, coordinación de la sanidad y productos farmacéuticos]
+      B --> B17[Art. 149.1: Legislación básica y régimen de la seguridad social]
+      B --> B18[Art. 149.1: Régimen jurídico de las administraciones públicas]
+       B --> B19[Art. 149.1: Pesca marítima]
+       B --> B20[Art. 149.1: Marina mercante, puertos y aeropuertos de interés general]
+       B --> B21[Art. 149.1: Ferrocarriles y transportes terrestres que transcurran por más de una CCAA, comunicaciones y tráfico]
+        B --> B22[Art. 149.1: Recursos hidráulicos que afecten a más de una CCAA]
+        B --> B23[Art. 149.1: Protección del medio ambiente]
+       B --> B24[Art. 149.1: Obras públicas de interés general]
+       B --> B25[Art. 149.1: Bases del régimen minero y energético]
+     B --> B26[Art. 149.1: Armas y explosivos]
+     B --> B27[Art. 149.1: Normas básicas de los medios de comunicación]
+     B --> B28[Art. 149.1: Defensa del patrimonio cultural]
+    B --> B29[Art. 149.1: Seguridad pública]
+    B --> B30[Art. 149.1: Regulación de títulos académicos y profesionales]
+    B --> B31[Art. 149.1: Estadística para fines estatales]
+    B --> B32[Art. 149.1: Autorización para la convocatoria de consultas populares]
+
+  A --> C[Servicio de la Cultura]
+  C --> C1[Art. 149.2: El Estado considera el servicio de la cultura como deber esencial]
+   C --> C2[Art. 149.2: Facilita la comunicación cultural entre las CCAA]
+ 
+ A --> D[Competencias de las CCAA]
+ D --> D1[Art. 149.3: Las materias no atribuidas al Estado pueden corresponder a las CCAA en virtud de sus Estatutos]
+ D --> D2[Art. 149.3: El Estado tiene competencia sobre las materias no asumidas por los Estatutos]
+ D --> D3[Art. 149.3: Derecho estatal es supletorio del derecho de las CCAA]
+```
+
+**Artículo 150.**
+
+9.  Las **Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal**. Sin perjuicio de la competencia de los Tribunales, en cada ley marco se establecerá la modalidad del control de las Cortes Generales sobre estas normas legislativas de las Comunidades Autónomas.
+10.  El **Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación.** La ley preverá en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.
+11.  El **Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas**, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general. Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad.
+
+💡 ***Tip/Consejo:*** _Este artículo regula los mecanismos de **transferencia y delegación de competencias del Estado a las CCAA**, permitiendo que las Cortes atribuyan facultades legislativas en materias estatales dentro de un marco fijado por ley estatal, y delegar o transferir competencias por ley orgánica, y dictar leyes para armonizar disposiciones autonómicas cuando lo exija el interés general, con la mayoría absoluta de cada cámara para apreciar esta necesidad._
+🔑 ***Aspecto Clave:*** Las **Cortes pueden atribuir a las CCAA facultades legislativas en materias estatales, el Estado puede transferir o delegar competencias por ley orgánica, y dictar leyes de armonización con mayoría absoluta de cada Cámara.**
+```mermaid
+graph LR
+    A[Transferencia y Delegación de Competencias] --> B[Leyes Marco]
+      B --> B1[Art. 150.1: Cortes Generales pueden atribuir a las CCAA la facultad de dictar normas legislativas en el marco fijado por ley estatal]
+     B --> B2[Art. 150.1: Ley establece la modalidad del control de las Cortes]
+    
+  A --> C[Transferencia o Delegación]
+    C --> C1[Art. 150.2: Estado puede transferir o delegar en CCAA mediante ley orgánica]
+    C --> C2[Art. 150.2: Materias de titularidad estatal susceptibles de transferencia o delegación]
+       C --> C3[Art. 150.2: Transferencia de medios financieros]
+        C --> C4[Art. 150.2: Formas de control que se reserve el Estado]
+
+  A --> D[Leyes de Armonización]
+       D --> D1[Art. 150.3: Estado puede dictar leyes para armonizar disposiciones de las CCAA]
+       D --> D2[Art. 150.3: En materias de competencia autonómica si lo exige el interés general]
+       D --> D3[Art. 150.3: Apreciación de esta necesidad por mayoría absoluta de cada Cámara]
+```
+**Artículo 151.**
+
+12.  **No será preciso dejar transcurrir el plazo de cinco años a que se refiere el apartado 2 del artículo 148 cuando la iniciativa del proceso autonómico sea acordada dentro del plazo del artículo 143, 2, además de por las Diputaciones o los órganos interinsulares correspondientes, por las tres cuartas partes de los Municipios de cada una de las provincias afectadas que representen, al menos, la mayoría del censo electoral de cada una de ellas y dicha iniciativa sea ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia en los términos que establezca una ley orgánica.**
+13.  En el supuesto previsto en el apartado anterior, el **procedimiento para la elaboración del Estatuto será el siguiente**:
+    *   1.º El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
+    *   2.º Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
+    *   3.º Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
+    *   4.º Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos validamente emitidos, será elevado a las Cortes Generales. Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación. Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
+    *   5.º De no alcanzarse el acuerdo a que se refiere el apartado 2.º de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales. El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto. En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
+14.  **En los casos de los párrafos 4.º y 5.º del apartado anterior, la no aprobación del proyecto de Estatuto por una o varias provincias no impedirá la constitución entre las restantes de la Comunidad Autónoma proyectada, en la forma que establezca la ley orgánica prevista en el apartado 1 de este artículo.**
+
+💡 ***Tip/Consejo:*** _Este artículo regula la **vía rápida para el acceso a la autonomía**, permitiendo que se salte el plazo de cinco años del artículo 148 si la iniciativa es aprobada por tres cuartas partes de los municipios y ratificada en referéndum, y establece el procedimiento de elaboración del Estatuto, que incluye la convocatoria de parlamentarios, su negociación en el Congreso y el referéndum provincial. Permite también la creación de CCAA aunque alguna provincia no apruebe el estatuto._
+🔑 ***Aspecto Clave:*** Se **permite saltar el plazo de 5 años si hay iniciativa cualificada y referéndum, se establece un procedimiento de elaboración de estatutos con negociación en el Congreso y el referéndum provincial, permitiendo la creación de CCAA si alguna provincia no lo aprueba.**
+```mermaid
+graph LR
+    A[Vía Rápida a la Autonomía] --> B[Requisitos]
+      B --> B1[Art. 151.1: No se requiere transcurrir 5 años del Art. 148.2]
+      B --> B2[Art. 151.1: Iniciativa por 3/4 partes de los municipios de cada provincia]
+      B --> B3[Art. 151.1: Ratificación por referéndum por mayoría absoluta de los electores de cada provincia]
+    
+  A --> C[Procedimiento de Elaboración del Estatuto]
+    C --> C1[Art. 151.2.1º: Convocatoria de parlamentarios para formar una Asamblea para la elaboración del proyecto]
+    C --> C2[Art. 151.2.2º: Remisión a la Comisión Constitucional del Congreso con una delegación de la Asamblea para determinar su formulación definitiva]
+    C --> C3[Art. 151.2.3º: Si se alcanza un acuerdo, el texto resultante se somete a referéndum]
+     C --> C4[Art. 151.2.4º: Si se aprueba, se eleva a las Cortes para la ratificación, con la posterior sanción y promulgación]
+      C --> C5[Art. 151.2.5º: Si no se alcanza el acuerdo, el proyecto se tramita como ley y se somete a referéndum provincial. Tras su aprobación se promulga]
+
+   A --> D[No Aprobación en una Provincia]
+    D --> D1[Art. 151.3: No impide la constitución entre las restantes provincias en la forma que establezca la ley orgánica]
+```
+
+**Artículo 152.**
+
+15.  En los **Estatutos aprobados por el procedimiento a que se refiere el artículo anterior, la organización institucional autonómica se basará en una Asamblea Legislativa**, elegida por sufragio universal, con arreglo a un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio; un **Consejo de Gobierno** con funciones ejecutivas y administrativas y un **Presidente**, elegido por la Asamblea, de entre sus miembros, y nombrado por el Rey, al que corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y la ordinaria del Estado en aquélla. El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea. Un **Tribunal Superior de Justicia**, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma. En los Estatutos de las Comunidades Autónomas podrán establecerse los supuestos y las formas de participación de aquéllas en la organización de las demarcaciones judiciales del territorio. Todo ello de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste. Sin perjuicio de lo dispuesto en el artículo 123, las sucesivas instancias procesales, en su caso, se agotarán ante órganos judiciales radicados en el mismo territorio de la Comunidad Autónoma en que esté el órgano competente en primera instancia.
+16.  Una vez **sancionados y promulgados los respectivos Estatutos, solamente podrán ser modificados mediante los procedimientos en ellos establecidos y con referéndum entre los electores inscritos en los censos correspondientes.**
+17.  Mediante la **agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias que gozarán de plena personalidad jurídica.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece las **bases de la organización institucional de las CCAA** que acceden a la autonomía por la vía rápida, que deben incluir una Asamblea Legislativa, un Consejo de Gobierno con su Presidente y un Tribunal Superior de Justicia, con responsabilidad política ante la asamblea, y que la reforma de los estatutos requiere referéndum entre los electores y la posibilidad de establecer circunscripciones territoriales propias._
+🔑 ***Aspecto Clave:*** La **organización autonómica incluye Asamblea Legislativa, Consejo de Gobierno y Presidente, Tribunal Superior de Justicia, responsabilidad política ante la asamblea y la modificación requiere referéndum. Permite también la creación de circunscripciones territoriales propias.**
+```mermaid
+graph LR
+ A[Organización Institucional de las CCAA] --> B[Asamblea Legislativa]
+    B --> B1[Art. 152.1: Elegida por sufragio universal con representación proporcional]
+
+    A --> C[Consejo de Gobierno]
+    C --> C1[Art. 152.1: Funciones ejecutivas y administrativas]
+    
+  A --> D[Presidente]
+     D --> D1[Art. 152.1: Elegido por la Asamblea y nombrado por el Rey]
+    D --> D2[Art. 152.1: Dirección del Consejo de Gobierno, representación de la CCAA y del Estado en ella]
+    D --> D3[Art. 152.1: Responsabilidad política ante la Asamblea]
+
+   A --> E[Tribunal Superior de Justicia]
+     E --> E1[Art. 152.1: Culmina la organización judicial]
+     E --> E2[Art. 152.1: Supuestos de participación en demarcaciones judiciales]
+    E --> E3[Art. 152.1: Las sucesivas instancias se agotan en el territorio autonómico]
+
+    A --> F[Reforma de los Estatutos]
+      F --> F1[Art. 152.2: Por procedimientos establecidos en ellos y con referéndum]
+  
+    A --> G[Circunscripciones Territoriales]
+     G --> G1[Art. 152.3: Establecer circunscripciones mediante la agrupación de municipios limítrofes]
+     G --> G2[Art. 152.3: Plena personalidad jurídica]
+```
+
+**Artículo 153.**
+
+El **control de la actividad de los órganos de las Comunidades Autónomas se ejercerá**:
+*   a) Por el **Tribunal Constitucional**, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
+*   b) Por el **Gobierno**, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150.
+*   c) Por la **jurisdicción contencioso-administrativa**, el de la administración autónoma y sus normas reglamentarias.
+*   d) Por el **Tribunal de Cuentas**, el económico y presupuestario.
+
+💡 ***Tip/Consejo:*** _Este artículo establece los mecanismos de **control de la actividad de las CCAA**, especificando que el Tribunal Constitucional controla la constitucionalidad de sus normas, el Gobierno el ejercicio de funciones delegadas, la jurisdicción contencioso-administrativa la administración autonómica y el Tribunal de Cuentas el control económico y presupuestario._
+🔑 ***Aspecto Clave:*** El **Tribunal Constitucional controla la constitucionalidad, el Gobierno las funciones delegadas, la jurisdicción contencioso-administrativa la administración autonómica y el Tribunal de Cuentas el control económico y presupuestario de las CCAA.**
+```mermaid
+graph LR
+    A[Control de las CCAA] --> B[Control de Constitucionalidad]
+      B --> B1[Art. 153.a: Por el Tribunal Constitucional]
+      B --> B2[Art. 153.a: Constitucionalidad de sus disposiciones normativas con fuerza de ley]
+
+    A --> C[Control del Gobierno]
+        C --> C1[Art. 153.b: Por el Gobierno previo dictamen del Consejo de Estado]
+        C --> C2[Art. 153.b: Ejercicio de funciones delegadas (Art. 150.2)]
+
+  A --> D[Control Jurisdiccional]
+      D --> D1[Art. 153.c: Por la jurisdicción contencioso-administrativa]
+      D --> D2[Art. 153.c: Actuación de la Administración autonómica y sus normas reglamentarias]
+
+   A --> E[Control Económico]
+       E --> E1[Art. 153.d: Por el Tribunal de Cuentas]
+     E --> E2[Art. 153.d: Control económico y presupuestario]
+```
+
+**Artículo 154.**
+
+Un **delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece la figura del **Delegado del Gobierno**, que es nombrado por el Gobierno para dirigir la Administración del Estado en el territorio de la CCAA y coordinarla con la administración autonómica._
+🔑 ***Aspecto Clave:*** El **Delegado del Gobierno dirige la Administración del Estado en el territorio de la CCAA y la coordina con la autonómica.**
+```mermaid
+graph LR
+  A[Delegado del Gobierno] --> B[Nombramiento y Función]
+    B --> B1[Art. 154: Nombrado por el Gobierno]
+     B --> B2[Art. 154: Dirige la Administración del Estado en el territorio de la CCAA]
+    B --> B3[Art. 154: Coordina con la administración propia de la CCAA]
+```
+
+**Artículo 155.**
+
+1.  Si una **Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general.**
+2.  Para la **ejecución de las medidas previstas en el apartado anterior, el Gobierno podrá dar instrucciones a todas las autoridades de las Comunidades Autónomas.**
+
+💡 ***Tip/Consejo:*** _Este artículo regula el **mecanismo para obligar a una CCAA al cumplimiento de sus obligaciones** o proteger el interés general de España, permitiendo al Gobierno, previa aprobación del Senado, adoptar las medidas necesarias tras un requerimiento desatendido, pudiendo dar instrucciones a las autoridades autonómicas para la ejecución de estas medidas._
+🔑 ***Aspecto Clave:*** El **Gobierno puede obligar a las CCAA al cumplimiento de sus obligaciones o proteger el interés general con aprobación del Senado, dando instrucciones a las autoridades autonómicas tras un requerimiento desatendido.**
+```mermaid
+graph LR
+  A[Medidas Coercitivas contra CCAA] --> B[Incumplimiento de Obligaciones]
+     B --> B1[Art. 155.1: Si CCAA no cumple obligaciones]
+    B --> B2[Art. 155.1: Si atenta al interés general]
+
+    A --> C[Requisitos]
+     C --> C1[Art. 155.1: Requerimiento previo al Presidente de la CCAA]
+      C --> C2[Art. 155.1: Aprobación por mayoría absoluta del Senado si no es atendido el requerimiento]
+   
+  A --> D[Medidas]
+    D --> D1[Art. 155.1: Medidas necesarias para obligar al cumplimiento o proteger el interés general]
+   
+  A --> E[Ejecución]
+     E --> E1[Art. 155.2: El Gobierno podrá dar instrucciones a todas las autoridades de las CCAA]
+```
+
+**Artículo 156.**
+
+1.  Las **Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.**
+2.  Las **Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para la recaudación, la gestión y la liquidación de los recursos tributarios de aquél, de acuerdo con las leyes y los Estatutos.**
+
+💡 ***Tip/Consejo:*** _Este artículo establece la **autonomía financiera de las CCAA**, basada en la coordinación con la Hacienda estatal y la solidaridad, y su capacidad para actuar como delegados o colaboradores del Estado en la gestión de los recursos tributarios._
+🔑 ***Aspecto Clave:*** Las **CCAA tienen autonomía financiera con coordinación y solidaridad, y pueden colaborar con el Estado en la gestión de tributos.**
+```mermaid
+graph LR
+    A[Autonomía Financiera] --> B[Principio General]
+     B --> B1[Art. 156.1: Autonomía financiera para el desarrollo y ejecución de sus competencias]
+      B --> B2[Art. 156.1: Con arreglo a la coordinación con la Hacienda estatal y solidaridad]
+
+   A --> C[Colaboración con el Estado]
+      C --> C1[Art. 156.2: CCAA pueden actuar como delegados o colaboradores en la gestión de recursos tributarios del Estado]
+```
+**Artículo 157.**
+
+1.  Los **recursos de las Comunidades Autónomas estarán constituidos por**:
+    *   a) Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.
+    *   b) Sus propios impuestos, tasas y contribuciones especiales.
+    *   c) Transferencias de un fondo de compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.
+    *   d) Rendimientos procedentes de su patrimonio e ingresos de derecho privado.
+    *   e) El producto de las operaciones de crédito.
+2.  Las **Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios.**
+3.  Mediante **ley orgánica podrá regularse el ejercicio de las competencias financieras enumeradas en el precedente apartado 1, las normas para resolver los conflictos que pudieran surgir y las posibles formas de colaboración financiera entre las Comunidades Autónomas y el Estado.**
+
+💡 ***Tip/Consejo:*** _Este artículo detalla las **fuentes de financiación de las CCAA**, que incluyen impuestos cedidos, propios, transferencias de fondos de compensación, rendimientos de su patrimonio y operaciones de crédito, y establece la prohibición de medidas tributarias que obstaculicen la libre circulación, siendo reservada a la ley orgánica la regulación y solución de conflictos._
+🔑 ***Aspecto Clave:*** Los **recursos de las CCAA provienen de impuestos cedidos, propios, transferencias, patrimonio y operaciones de crédito; no pueden obstaculizar la libre circulación y su regulación es por ley orgánica.**
+```mermaid
+graph LR
+   A[Recursos de las CCAA] --> B[Fuentes de Financiación]
+    B --> B1[Art. 157.1.a: Impuestos cedidos por el Estado, recargos e ingresos]
+    B --> B2[Art. 157.1.b: Impuestos, tasas y contribuciones especiales propias]
+    B --> B3[Art. 157.1.c: Transferencias del fondo de compensación interterritorial]
+     B --> B4[Art. 157.1.d: Rendimientos procedentes de su patrimonio e ingresos de derecho privado]
+    B --> B5[Art. 157.1.e: El producto de las operaciones de crédito]
+
+   A --> C[Límites]
+     C --> C1[Art. 157.2: No pueden adoptar medidas tributarias fuera de su territorio]
+    C --> C2[Art. 157.2: No pueden obstaculizar la libre circulación de mercancías o servicios]
+    
+   A --> D[Regulación por Ley Orgánica]
+     D --> D1[Art. 157.3: Regulación del ejercicio de competencias financieras]
+       D --> D2[Art. 157.3: Normas para resolver conflictos]
+        D --> D3[Art. 157.3: Formas de colaboración financiera]
+```
+
+**Artículo 158.**
+
+1.  En los **Presupuestos Generales del Estado podrá establecerse una asignación a las Comunidades Autónomas en función del volumen de los servicios y actividades estatales que hayan asumido y de la garantía de un nivel mínimo en la prestación de los servicios públicos fundamentales en todo el territorio español.
+2.  Con el fin de **corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad se constituirá un Fondo de Compensación con destino a gastos de inversión**, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.
+
+💡 ***Tip/Consejo:*** _Este artículo establece la posibilidad de una **asignación a las CCAA en los Presupuestos Generales del Estado**, en función de los servicios asumidos y para garantizar un nivel mínimo en la prestación de servicios públicos, y la creación de un **Fondo de Compensación Interterritorial** para corregir desequilibrios económicos y financiar gastos de inversión._
+🔑 ***Aspecto Clave:*** Los **Presupuestos pueden asignar recursos a las CCAA según servicios asumidos y nivel mínimo de servicios, y se crea un Fondo de Compensación para corregir desequilibrios económicos y financiar inversiones.**
+```mermaid
+graph LR
+    A[Financiación y Compensación Interterritorial] --> B[Asignación en los Presupuestos]
+        B --> B1[Art. 158.1: Asignación a las CCAA en función del volumen de servicios]
+        B --> B2[Art. 158.1: Garantía de un nivel mínimo en la prestación de servicios públicos]
+    
+    A --> C[Fondo de Compensación Interterritorial]
+         C --> C1[Art. 158.2: Para corregir desequilibrios económicos]
+          C --> C2[Art. 158.2: Para hacer efectivo el principio de solidaridad]
+        C --> C3[Art. 158.2: Destinado a gastos de inversión]
+       C --> C4[Art. 158.2: Distribuido por las Cortes Generales entre CCAA y provincias]
+```
+---
+### Tabla Resumen Título III: De las Cortes Generales
+
+| Tema Principal                | Aspectos Clave                                                                                                            | Implicaciones Prácticas/Conclusiones                                                                                                                                                         |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cortes Generales**          | 📝 **Representan al pueblo**, ejercen potestad legislativa, aprueban presupuestos, controlan al gobierno, son inviolables. | 🎯 El poder legislativo reside en estas instituciones, que son clave para la democracia.                                                                                           |
+| **Miembros de las Cortes**    | 📝 No pueden ser de ambas cámaras ni tener mandato imperativo, reuniones no reglamentarias no vinculan.                  | 🎯 Se busca independencia y representación real, asegurando que las decisiones sean producto del debate individual.                                                                      |
+| **Congreso de los Diputados** | 📝 300-400 diputados, sufragio universal, circunscripción provincial, representación proporcional, mandato de 4 años.   | 🎯 La cámara baja representa directamente a la ciudadanía, la representación proporcional asegura que haya pluralidad de ideas                                                                      |
+| **Senado**                    | 📝 Cámara territorial, senadores elegidos por provincias, islas y CCAA, mandato de 4 años.                                  | 🎯 La cámara alta representa a las diferentes regiones de España,  balanceando el poder del Congreso.                                                                                           |
+| **Incompatibilidades**         | 📝 Determinadas por ley electoral, afectan a cargos públicos, control judicial de las actas.                                | 🎯 Garantiza la independencia y transparencia en el sistema electoral, evitando conflictos de intereses.                                                                                  |
+| **Prerrogativas Parlamentarias**| 📝 Inviolabilidad por opiniones, inmunidad, asignación fijada por las cámaras.                                             | 🎯 Protege a los parlamentarios para que puedan expresar libremente sus opiniones, realizando su trabajo sin presiones.                                                               |
+| **Autonomía de las Cámaras**  | 📝 Establecen reglamentos, presupuestos, eligen presidentes, regulan el estatuto del personal.                            | 🎯 Cada cámara tiene libertad para organizarse internamente, con la capacidad de tomar sus propias decisiones.                                                                       |
+| **Sesiones de las Cámaras**    | 📝 Dos periodos ordinarios anuales, sesiones extraordinarias a petición.                                                   | 🎯 Los periodos de sesión regulan la actividad parlamentaria.                                                                                                                     |
+| **Sesiones Conjuntas**         | 📝 Competencias no legislativas, mayoría de cada cámara, procedimiento para desacuerdos.                                   | 🎯 Determina los casos donde deben reunirse ambas cámaras para tomar decisiones que no son legislativas, regulando su funcionamiento                                                                              |
+| **Funcionamiento Interno**   | 📝 Pleno y comisiones, delegación en comisiones, excepciones a la delegación.                                             | 🎯 Permite la organización de la labor legislativa, delegando el estudio de las leyes en comisiones, pero manteniendo la potestad de la decisión final en el Pleno.                                 |
+| **Comisiones de Investigación** | 📝 Investigación sobre asuntos de interés público, obligatoria comparecencia, conclusiones no vinculantes.                 | 🎯 Mecanismo de control y transparencia sobre asuntos de interés público, aunque sus conclusiones no tienen carácter judicial.                                                               |
+| **Peticiones a las Cámaras**   | 📝 Peticiones escritas, remisión al Gobierno, obligación de explicarse si se requiere.                                      | 🎯 Los ciudadanos pueden dirigirse a las cámaras para plantear asuntos que les preocupan y que sean investigados.                                                                   |
+| **Diputaciones Permanentes**   | 📝 Actúan en periodos no ordinarios, asumen funciones de cámaras disueltas, vigilan sus poderes.                         | 🎯 Asegura la continuidad del trabajo parlamentario y la vigilancia de las cámaras cuando estas no se encuentran en periodo de sesiones o han sido disueltas.                                   |
+| **Adopción de Acuerdos**       | 📝 Reunión reglamentaria, mayoría de los presentes, voto personal e indelegable.                                          | 🎯 Establece un protocolo formal para que las decisiones de las Cámaras tengan validez y representen la voluntad de sus miembros.                                                  |
+| **Publicidad de Sesiones**    | 📝 Sesiones plenarias públicas, salvo acuerdo en contrario.                                                               | 🎯 Transparencia del trabajo de las Cámaras, permitiendo el escrutinio público de las decisiones.                                                                           |
+| **Leyes Orgánicas**           | 📝 Derechos fundamentales, Estatutos, régimen electoral, mayoría absoluta en el Congreso.                                  | 🎯 Se busca la protección de temas fundamentales para la democracia y el estado de derecho, con un proceso de aprobación reforzado.                                                            |
+| **Delegación Legislativa**      | 📝 Cortes delegan en el Gobierno mediante ley, de forma expresa, por materia concreta y con plazo.                   | 🎯 Permite la acción del gobierno en circunstancias específicas, con el control del Parlamento, que puede derogar la delegación.                                                           |
+| **Límites a leyes de bases**   | 📝 No pueden autorizar su propia modificación ni facultar normas retroactivas.                                             | 🎯  Protege el principio de seguridad jurídica y evita la instrumentalización de la delegación legislativa.                                                               |
+| **Oposición a Tramitación**   | 📝 Gobierno puede oponerse a leyes que contravengan delegación legislativa.                                                | 🎯  Protege la labor del Gobierno en la ejecución de las competencias delegadas, pero sin impedir el ejercicio de la iniciativa legislativa para derogar la delegación.                   |
+| **Decretos Legislativos**    | 📝 Disposiciones del Gobierno con legislación delegada.                                                                 | 🎯  Se concreta el resultado de la delegación legislativa y su aplicación.                                                                                             |
+| **Decretos-Leyes**            | 📝 Urgencia, disposiciones provisionales, convalidación por el Congreso en 30 días.                                         | 🎯 Permite la actuación del Gobierno ante situaciones urgentes, con control posterior del Parlamento.                                                                                  |
+| **Iniciativa Legislativa**     | 📝 Gobierno, Congreso, Senado, Asambleas CCAA, iniciativa popular (con límites).                                         | 🎯 Diversas vías para iniciar el proceso legislativo, con la posibilidad de los ciudadanos y las regiones tengan voz en la elaboración de las leyes.                                           |
+| **Tramitación de Leyes**     | 📝 Reglamentos de las Cámaras, proceso bicameral, sanción y promulgación por el Rey.                                     | 🎯  Establece el procedimiento que debe seguir un proyecto de ley para su aprobación.                                                                                                 |
+| **Referéndum**               | 📝 Decisiones trascendentales, convocatoria del Rey con propuesta del Presidente y autorización del Congreso.          | 🎯 Permite consultar al pueblo para asegurar que decisiones políticas relevantes cuenten con su aprobación.                                                                     |
+| **Tratados Internacionales**   | 📝 Cesión de competencias por ley orgánica, aprobación por Cortes en ciertos casos, supremacía constitucional.          | 🎯 Regula la relación del ordenamiento jurídico interno con el derecho internacional, estableciendo límites y mecanismos de control.                                                           |
+
+---
+### Tabla Resumen Título IV: Del Gobierno y de la Administración
+
+| Tema Principal                  | Aspectos Clave                                                                                                                  | Implicaciones Prácticas/Conclusiones                                                                                                                                              |
+| :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Funciones del Gobierno**     | 📝 Dirige la política, administración, defensa, función ejecutiva y potestad reglamentaria según la ley.                            | 🎯 El Gobierno es el motor del estado, quien establece la dirección política y administra los recursos del estado                                                               |
+| **Composición del Gobierno**    | 📝 Presidente, Vicepresidentes, Ministros y otros,  el Presidente dirige, existen incompatibilidades.                                | 🎯 Estructura del gobierno, con un liderazgo central (el Presidente) que coordina la actuación conjunta y con miembros con dedicación exclusiva a sus cargos.                                |
+| **Nombramiento del Presidente** | 📝 Propuesta del Rey tras consultas, votación de investidura en el Congreso, disolución de las cámaras si no es nombrado en plazo. | 🎯 Regula la formación del Gobierno y la rendición de cuentas ante el Parlamento.                                                                                          |
+| **Nombramiento de Ministros**  | 📝 Nombrados y separados por el Rey a propuesta del Presidente.                                                                 | 🎯   El Presidente del Gobierno es quien designa a sus ministros.                                                                                                      |
+| **Cese del Gobierno**          | 📝 Elecciones, pérdida de confianza, dimisión o fallecimiento del Presidente. Continua en funciones hasta nuevo nombramiento. | 🎯  Establece la continuidad del Gobierno y su responsabilidad ante el Congreso.                                                                                                   |
+| **Responsabilidad del Gobierno**| 📝  Responsabilidad ante el Tribunal Supremo, requisitos para acusaciones por traición y sin prerrogativa real de gracia.       | 🎯 Los miembros del Gobierno son responsables por los delitos cometidos en el ejercicio de sus funciones, siendo la justicia la encargada de resolver las controversias.                |
+| **Administración Pública**    | 📝 Interés general, objetividad, sujeción a la ley, eficacia, jerarquía, descentralización, desconcentración y coordinación, y estatuto de los funcionarios por ley. | 🎯 Busca garantizar un servicio público eficiente, transparente y que atienda a los intereses generales.                                                                     |
+| **Fuerzas y Cuerpos de Seguridad**| 📝 Protegen derechos, libertades y la seguridad ciudadana, bajo la dependencia del Gobierno, su regulación por ley orgánica. | 🎯  Las fuerzas de seguridad son la herramienta del gobierno para garantizar la convivencia pacífica, el orden público y los derechos de los ciudadanos.                   |
+| **Participación Ciudadana**  | 📝 Audiencia en disposiciones administrativas, acceso a archivos y registros y procedimiento de actos administrativos.          | 🎯   Se garantiza la participación de los ciudadanos en la toma de decisiones de la administración pública y la transparencia en su funcionamiento.                                              |
+| **Control Judicial**           | 📝 Tribunales controlan la legalidad, indemnización por daños del funcionamiento de servicios públicos.                            | 🎯 Los ciudadanos tienen un mecanismo para que se garantice el correcto actuar de la administración pública y sean compensados por sus posibles daños.                                      |
+| **Consejo de Estado**          | 📝 Órgano consultivo del Gobierno, regulación por ley orgánica.                                                                  | 🎯  Asegura que el Gobierno cuente con una visión técnica y especializada en sus decisiones, con un organismo consultivo.                                                                  |
+
+---
+### Tabla Resumen Título V: De las relaciones entre el Gobierno y las Cortes Generales
+
+| Tema Principal                       | Aspectos Clave                                                                                                | Implicaciones Prácticas/Conclusiones                                                                                                                                                 |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Responsabilidad del Gobierno**        | 📝 Responde solidariamente ante el Congreso.                                                                  | 🎯 Refuerza el control parlamentario sobre el ejecutivo, obligando al Gobierno a rendir cuentas.                                                                                               |
+| **Derecho de Información**           | 📝 Cámaras recaban información y ayuda del Gobierno, CCAA y otras autoridades.                                  | 🎯 Garantiza el control del Parlamento sobre las actuaciones del ejecutivo, obteniendo la información necesaria para realizar su labor.                                                                |
+| **El Gobierno en las Cámaras**        | 📝 Las Cámaras pueden reclamar presencia del Gobierno, y éste tiene acceso a las sesiones.                                 | 🎯 Se establecen los mecanismos para que el Gobierno se comunique y se someta al escrutinio del Parlamento.                                                                            |
+| **Interpelaciones y Preguntas**       | 📝 Gobierno y miembros sometidos a interpelaciones y preguntas, con tiempo mínimo y posibilidad de moción.   | 🎯  Garantiza el control parlamentario y obliga al Gobierno a dar explicaciones sobre su gestión.                                                                                        |
+| **Cuestión de Confianza**           | 📝 Presidente la plantea sobre su programa, con mayoría simple del Congreso.                                       | 🎯 Instrumento del Presidente para medir el apoyo parlamentario a su programa, y como estrategia para disolver las Cámaras en caso de no superar la cuestión de confianza.                      |
+| **Moción de Censura**              | 📝 Congreso exige responsabilidad con mayoría absoluta, propuesta por 1/10 de Diputados, con candidato alternativo. | 🎯 Mecanismo para remover al Gobierno cuando pierde la confianza del Congreso, dando al Parlamento la capacidad de removerlo cuando ya no lo apoya.                                                   |
+| **Dimisión del Gobierno**          | 📝 Si pierde la confianza o por moción de censura, se designa Presidente según el Art. 99.                      | 🎯 Garantiza el respeto de la voluntad del Congreso y la designación del nuevo gobierno según el procedimiento establecido.                                                            |
+| **Disolución de las Cámaras**       | 📝 Presidente propone la disolución al Rey con excepciones (moción de censura, 1 año).                             | 🎯 El presidente tiene la potestad de disolver las Cámaras para buscar una nueva correlación de fuerzas políticas.                                                                    |
+| **Estados de Alarma, Excepción y Sitio**| 📝 Regulados por ley orgánica, el de alarma lo declara el Gobierno con control del Congreso, el de excepción requiere autorización del Congreso, el de sitio lo declara el Congreso, y no se puede disolver las Cámaras.     | 🎯 Mecanismos para que el Gobierno pueda hacer frente a situaciones extremas, como crisis sanitarias, desastres naturales o graves alteraciones del orden público.                                       |
+
+---
+### Tabla Resumen Título VI: Del Poder Judicial
+
+| Tema Principal                            | Aspectos Clave                                                                                                                                             | Implicaciones Prácticas/Conclusiones                                                                                                                                                  |
+| :---------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Poder Judicial**                        | 📝 Justicia emana del pueblo, jueces independientes, inamovibles, responsables, sujetos a la ley y prohibición de tribunales de excepción.                 | 🎯 Establece los pilares del poder judicial como garante de la justicia y el estado de derecho.                                                                                       |
+| **Cumplimiento de Resoluciones**          | 📝 Obligación de cumplir sentencias y resoluciones, así como la colaboración con la justicia.                                                              | 🎯 Fundamento de la seguridad jurídica, todos están obligados a cumplir las resoluciones judiciales para la convivencia.                                                              |
+| **Justicia Gratuita**                     | 📝 Se concede en los casos que determine la ley y siempre que se carezca de recursos económicos.                                                           | 🎯 Garantiza el derecho a la justicia para todas las personas, sin importar sus recursos económicos.                                                                                  |
+| **Actuaciones Judiciales**                | 📝 Públicas, predominio del procedimiento oral, sentencias motivadas en audiencia pública.                                                                 | 🎯 Establece mecanismos para garantizar la transparencia en los procesos judiciales.                                                                                                  |
+| **Indemnización por errores**             | 📝 El Estado indemniza por errores judiciales o mal funcionamiento de la justicia.                                                                         | 🎯 Establece la responsabilidad del Estado por la actuación de la administración de la justicia, garantizando la compensación por errores o mal funcionamiento.                       |
+| **Organización del Poder Judicial**       | 📝 Ley orgánica del poder judicial regula juzgados y tribunales, estatuto de jueces y magistrados y el CGPJ como órgano de gobierno.                       | 🎯 Establece la estructura y funcionamiento del poder judicial, así como las competencias del Consejo General del Poder Judicial.                                                     |
+| **Tribunal Supremo**                      | 📝 Órgano superior en todos los órdenes, jurisdicción nacional, salvo garantías constitucionales,  su Presidente nombrado por el Rey a propuesta del CGPJ. | 🎯 Es el último recurso en el sistema judicial, siendo el encargado de fijar criterios y unificar la jurisprudencia en el resto del territorio.                                       |
+| **Ministerio Fiscal**                     | 📝 Promueve la acción de la justicia, defensa de la legalidad y derechos, estatuto por ley orgánica.                                                       | 🎯   Es el garante de la legalidad y la defensa de los derechos, siendo un actor fundamental en el sistema judicial.                                                                  |
+| **Participación Ciudadana**               | 📝 Acción popular, Jurado y participación en tribunales consuetudinarios y tradicionales.                                                                  | 🎯   Refuerza la legitimidad de la administración de justicia y la conexión entre esta y la sociedad.                                                                                 |
+| **Policía Judicial**                      | 📝 Depende de Jueces, Tribunales y Ministerio Fiscal para la investigación del delito y detención de delincuentes según ley.                               | 🎯 Facilita la actuación de jueces y tribunales en los procesos de investigación y enjuiciamiento.                                                                                    |
+| **Incompatibilidades del Poder Judicial** | 📝 No cargos públicos, ni afiliación política o sindical, ley establece su régimen de incompatibilidades.                                                  | 🎯 Garantiza la independencia e imparcialidad de los jueces y demás miembros del poder judicial, impidiendo que sus intereses particulares interfieran en el ejercicio de su función. |
+
+---
+### Tabla Resumen Título VIII: De la Organización Territorial del Estado
+
+| Tema Principal                       | Aspectos Clave                                                                                             | Implicaciones Prácticas/Conclusiones                                                                                                                                       |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Organización Territorial**         | 📝 Municipios, provincias, CCAA, todos con autonomía.                                                           | 🎯 Estructura territorial compleja, que busca el equilibrio entre la autonomía regional y la unidad del Estado.                                                                   |
+| **Solidaridad Territorial**          | 📝  Estado garantiza equilibrio económico entre regiones y prohíbe privilegios económicos o sociales.    | 🎯 El objetivo es garantizar la igualdad de oportunidades en todo el territorio.                                                                                                    |
+| **Igualdad Territorial**         | 📝  Todos los españoles tienen los mismos derechos, se prohíben trabas a la libre circulación.                    | 🎯 La igualdad en todo el territorio nacional, así como la libertad de movimiento de personas y bienes es un pilar fundamental de la cohesión de España.                                                                   |
+| **Autonomía Municipal**             | 📝  Autonomía garantizada, con Ayuntamientos elegidos democráticamente. Alcaldes elegidos por Concejales o vecinos.    | 🎯 Busca que la toma de decisiones sea lo más cercana posible a los ciudadanos.                                                                                                |
+| **La Provincia**                    | 📝  Entidad local, agrupación de municipios con Diputaciones y permitiendo agrupaciones distintas.  Cabildos o Consejos en islas.    | 🎯 La provincia sirve de base para la organización territorial, garantizando la estructura a los territorios insulares                                                                     |
+| **Haciendas Locales**             | 📝 Medios suficientes para sus funciones, tributos propios y participación en otros tributos.                  | 🎯 Establece las bases para el funcionamiento de las entidades locales, asegurando su autonomía financiera.                                                                      |
+| **Autogobierno de las CCAA**       | 📝 Provincias con identidad y territorios insulares pueden constituir CCAA, con iniciativa de diputaciones o equivalentes, con iniciativa y requisitos.        | 🎯  Se establece el mecanismo para que determinadas regiones puedan acceder a la autonomía.                                                                                           |
+| **Facultades de las Cortes Generales**| 📝  Pueden autorizar CCAA en casos especiales, o suplir la iniciativa.   | 🎯  Instrumento para actuar si es necesario en la creación de autonomías.                                                                                           |
+| **Convenios entre CCAA**          | 📝  Se prohíbe la federación, se permiten convenios para servicios propios con comunicación a las Cortes y se necesita autorización para otros acuerdos.    | 🎯  Busca mantener la unidad del estado, permitiendo la cooperación regional, pero con los límites establecidos por la constitución.                                                                   |
+| **Elaboración del Estatuto**        | 📝  Asamblea compuesta por miembros de diputaciones y parlamentarios y se eleva a las Cortes para su tramitación.      | 🎯  Establece el procedimiento para la creación de la norma institucional básica de la CCAA.                                                                                               |
+| **Estatutos de Autonomía**        | 📝 Norma básica de las CCAA, contenido obligatorio y reforma con procedimiento propio y aprobación por ley orgánica.  | 🎯   Establece la norma básica de la CCAA y se fija su proceso de reforma.                                                                                          |
+| **Competencias de las CCAA**      | 📝 Listado inicial de competencias, que pueden ampliarse tras 5 años dentro del marco del Art. 149.    | 🎯 Determina el ámbito de la acción de las CCAA, sin sobrepasar las competencias exclusivas del Estado.                                                                            |
+| **Competencias Exclusivas del Estado**| 📝  Amplio listado de competencias exclusivas,  y deber de servicio a la cultura, CCAA pueden asumir materias no atribuidas al Estado en sus Estatutos. | 🎯 Establece el límite de competencias entre el gobierno central y las autonomías, garantizando la unidad del estado, al tiempo que permite a las regiones asumir competencias en otras materias.                                       |
+| **Transferencia y Delegación de Competencias**    | 📝 Cortes pueden atribuir facultades legislativas en materias estatales, el Estado puede delegar competencias por ley orgánica y dictar leyes para armonizar las disposiciones autonómicas.        | 🎯  Permite el ejercicio de la potestad legislativa de las CCAA, así como la cesión de potestades del gobierno central a las autonomías y la regulación de las posibles divergencias entre leyes autonómicas.                                                                 |
+| **Vía Rápida a la Autonomía**          | 📝 Iniciativa cualificada, referéndum, procedimiento de elaboración con negociación en el Congreso, permite la creación aunque no aprueben todas las provincias.             | 🎯 Mecanismo para que las regiones accedan de forma más rápida a su autogobierno.                                                                      |
+| **Órganos de las CCAA**            | 📝  Asamblea Legislativa, Consejo de Gobierno, Presidente y Tribunal Superior de Justicia, la modificación requiere referéndum.  Permite también la creación de circunscripciones territoriales propias.   | 🎯 Se establece los mecanismos de gobierno internos de la CCAA.                                                                                           |
+| **Control de las CCAA**            | 📝 Tribunal Constitucional, Gobierno, jurisdicción contencioso-administrativa y Tribunal de Cuentas.       | 🎯  Mecanismos de control para asegurar el cumplimiento de las leyes, la correcta gestión de los recursos y la protección de la Constitución.                                                                  |
+| **Delegado del Gobierno**            | 📝   Dirige la Administración del Estado en la CCAA y la coordina con la autonómica. | 🎯 Refuerza la presencia del Gobierno Central en las Comunidades Autónomas, y facilita la comunicación y el ejercicio de competencias.                                                                     |
+| **Medidas Coercitivas**     | 📝 Requerimiento previo, aprobación del Senado para medidas si se incumple la Constitución u obligaciones, puede dar instrucciones. | 🎯 Permite al Estado actuar cuando alguna autonomía no cumpla sus obligaciones, protegiendo el interés general de España.                                                           |
+| **Autonomía Financiera**          | 📝  Coordinación con la Hacienda estatal y solidaridad, colaboración con el Estado en la gestión de tributos.          | 🎯 Establece la autonomía de las CCAA en la gestión de sus recursos y su relación con la administración del Estado.                                                                    |
+| **Recursos de las CCAA**      | 📝  Impuestos cedidos, propios, transferencias, patrimonio, crédito, prohibición de trabas a la libre circulación y regulación por ley orgánica.             | 🎯 Establece las fuentes de financiación autonómica, así como las limitaciones en su ejercicio, buscando proteger el mercado único.                                                                |
+| **Financiación y Compensación**| 📝 Asignación en presupuestos según servicios asumidos, y Fondo de Compensación Interterritorial. | 🎯 Establece mecanismos para asegurar la suficiencia financiera de las autonomías y la solidaridad entre todas ellas.                                                                |
