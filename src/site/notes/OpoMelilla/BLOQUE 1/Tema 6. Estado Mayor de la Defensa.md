@@ -40,7 +40,7 @@ En su virtud, y conforme a la disposición final segunda del **Real Decreto 521/
 
 ## Artículo único. Aprobación de la organización del Estado Mayor de la Defensa.
 
-💡 ***Tip/Consejo:*** *Este artículo único es la **clave** de la orden. Establece el **propósito fundamental** del documento: aprobar la organización básica del [[EMAD\|EMAD]].  Recuerda que este artículo se basa directamente en el [[Real Decreto 521/2020\|Real Decreto 521/2020]].*
+💡 ***Tip/Consejo:*** *Este artículo único es la **clave** de la orden. Establece el **propósito fundamental** del documento: aprobar la organización básica del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Recuerda que este artículo se basa directamente en el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Real Decreto 521_2020, de 19 de mayo\|Real Decreto 521_2020, de 19 de mayo]].*
 
 🔑 ***Aspecto Clave:*** **_Se aprueba la organización básica del Estado Mayor de la Defensa (EMAD) según lo establecido en el Real Decreto 521/2020._**
 
@@ -120,7 +120,7 @@ Madrid, 27 de julio de 2020.–La Ministra de Defensa, Margarita Robles Fernánd
 
 ## Artículo 1. Organización del Estado Mayor de la Defensa.
 
-💡 ***Tip/Consejo:*** *Este artículo es **fundamental**. Describe la **estructura general** del [[EMAD\|EMAD]], el vértice de la organización militar conjunta.  Memoriza los cinco componentes principales listados en el apartado 1 y las dos categorías de entidades subordinadas directamente al [[JEMAD\|JEMAD]] en el apartado 2.  Este artículo proporciona la **visión panorámica** de la organización.*
+💡 ***Tip/Consejo:*** *Este artículo es **fundamental**. Describe la **estructura general** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]], el vértice de la organización militar conjunta.  Memoriza los cinco componentes principales listados en el apartado 1 y las dos categorías de entidades subordinadas directamente al [[JEMAD\|JEMAD]] en el apartado 2.  Este artículo proporciona la **visión panorámica** de la organización.*
 
 🔑 ***Aspecto Clave:*** **_El Estado Mayor de la Defensa (EMAD) se estructura en cinco componentes principales y tiene dos categorías de entidades directamente subordinadas al JEMAD._**
 
@@ -247,7 +247,7 @@ graph LR
 
 ## Artículo 4. La Jefatura de Recursos Humanos.
 
-💡 ***Tip/Consejo:*** *Este artículo describe la [[JRRHH\|JRRHH]], responsable de la **gestión del personal** del [[EMAD\|EMAD]].  Comprende las funciones de planeamiento, gestión, apoyo administrativo y logístico del personal militar y civil, así como el asesoramiento al [[JEMAD\|JEMAD]] en enseñanza y recursos humanos en el ámbito de las [[OISD\|OISD]].*
+💡 ***Tip/Consejo:*** *Este artículo describe la [[JRRHH\|JRRHH]], responsable de la **gestión del personal** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Comprende las funciones de planeamiento, gestión, apoyo administrativo y logístico del personal militar y civil, así como el asesoramiento al [[JEMAD\|JEMAD]] en enseñanza y recursos humanos en el ámbito de las [[OISD\|OISD]].*
 
 🔑 ***Aspecto Clave:*** **_La Jefatura de Recursos Humanos (JRRHH) es responsable del planeamiento y gestión del personal militar y civil del EMAD, así como de su apoyo y asesoramiento en materia de recursos humanos._**
 
@@ -305,7 +305,7 @@ flowchart TD
 
 ## Artículo 6. La Jefatura de Asuntos Económicos.
 
-💡 ***Tip/Consejo:*** *Este artículo describe la [[JAE\|JAE]], responsable de la **gestión económica y financiera** del [[EMAD\|EMAD]].  Comprende la dirección, gestión y administración de los recursos financieros, el asesoramiento económico al [[JEMAD\|JEMAD]], y la elaboración del anteproyecto de presupuesto.  Depende funcionalmente de la Dirección General de Asuntos Económicos.*
+💡 ***Tip/Consejo:*** *Este artículo describe la [[JAE\|JAE]], responsable de la **gestión económica y financiera** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Comprende la dirección, gestión y administración de los recursos financieros, el asesoramiento económico al [[JEMAD\|JEMAD]], y la elaboración del anteproyecto de presupuesto.  Depende funcionalmente de la Dirección General de Asuntos Económicos.*
 
 🔑 ***Aspecto Clave:*** **_La Jefatura de Asuntos Económicos (JAE) gestiona los recursos financieros del EMAD, asesora al JEMAD en materia económica y elabora el anteproyecto de presupuesto._**
 
@@ -505,7 +505,7 @@ graph LR
 
 ## Artículo 12. Los órganos nacionales militares relacionados con organizaciones internacionales o multinacionales.
 
-💡 ***Tip/Consejo:*** *Este artículo describe los [[órganos nacionales militares relacionados con organizaciones internacionales o multinacionales\|órganos nacionales militares relacionados con organizaciones internacionales o multinacionales]], que son las **representaciones e integraciones** del [[EMAD\|EMAD]] en el ámbito internacional.  Comprende las cuatro categorías principales: representaciones militares, elementos nacionales, elementos nacionales de apoyo y contingentes nacionales, y memoriza los ejemplos de representaciones militares y elementos nacionales citados.*
+💡 ***Tip/Consejo:*** *Este artículo describe los [[órganos nacionales militares relacionados con organizaciones internacionales o multinacionales\|órganos nacionales militares relacionados con organizaciones internacionales o multinacionales]], que son las **representaciones e integraciones** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]] en el ámbito internacional.  Comprende las cuatro categorías principales: representaciones militares, elementos nacionales, elementos nacionales de apoyo y contingentes nacionales, y memoriza los ejemplos de representaciones militares y elementos nacionales citados.*
 
 🔑 ***Aspecto Clave:*** **_Los órganos nacionales militares relacionados con organizaciones internacionales o multinacionales representan e integran al EMAD en el ámbito internacional, incluyendo representaciones militares, elementos nacionales, de apoyo y contingentes._**
 
