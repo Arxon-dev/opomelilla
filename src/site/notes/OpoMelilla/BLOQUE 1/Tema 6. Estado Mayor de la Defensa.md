@@ -329,7 +329,7 @@ La **Jefatura de Asuntos Económicos (JAE)** es el órgano responsable de la dir
     * g) Otras unidades que se determinen.
 
 ```mermaid
-flowchart TD
+graph LR
     A[Mando de Operaciones MOPS] --> B[Comandancia]
     A --> C[Segunda Comandancia]
     A --> D[Estado Mayor del MOPS EMMOPS]
@@ -386,7 +386,7 @@ El **Centro de Inteligencia de las Fuerzas Armadas (CIFAS)** es el órgano respo
     * j) Otras unidades que se determinen.
 
 ```mermaid
-flowchart TD
+graph LR
     A[Mando Conjunto del Ciberespacio MCCE] --> B(Comandancia)
     A --> C(Segunda Comandancia)
     A --> D(Estado Mayor del MCCE EMMCCE)
@@ -430,7 +430,7 @@ flowchart TD
     * h) Otras unidades que se determinen.
 
 ```mermaid
-flowchart TD
+graph LR
     A[Centro Superior de Estudios de la Defensa Nacional CESEDEN] --> B(Dirección)
     A --> C(Secretaría General del CESEDEN)
     A --> D(Escuela Superior de las FAS ESFAS)
@@ -516,7 +516,7 @@ graph LR
     * d) Los **contingentes nacionales integrados en organizaciones internacionales y multinacionales**.
 
 ```mermaid
-graph LR
+flowchart TD
     A[Órganos Nacionales Militares OOII/Multinacionales] --> B(Representaciones Militares)
     A --> C(Elementos Nacionales)
     A --> D(Elementos Nacionales de Apoyo)
@@ -532,7 +532,7 @@ graph LR
     * d) La **Representación Militar ante el Mando Supremo Aliado de Transformación**.
 
 ```mermaid
-graph LR
+flowchart TD
     A[Representaciones Militares] --> B(Representación Militar ante Comité Militar OTAN)
     A --> C(Representación Militar ante Comité Militar UE)
     A --> D(Representación Militar ante Mando Supremo Aliado en Europa)
@@ -546,7 +546,7 @@ graph LR
     * b) El **Elemento Nacional del CoE C-IED**, que se rige por lo establecido en la **Orden DEF/960/2010, de 15 de abril**, por la que se constituye el Centro de Excelencia contra artefactos explosivos improvisados en el ámbito del Ministerio de Defensa y su ofrecimiento a la OTAN.
 
 ```mermaid
-graph LR
+flowchart TD
     A[Elementos Nacionales] --> B(Elemento Nacional del CAOCTJ)
     A --> C(Elemento Nacional del CoE C-IED)
     style A fill:#f9f,stroke:#333,stroke-width:2px
