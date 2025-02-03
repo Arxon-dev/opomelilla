@@ -11,7 +11,10 @@ body {
     //   color: black;
     //  }
 
-    .mermaid svg {
-      min-height: 400px; /* Aumenta la altura de los diagramas Mermaid - ajusta este valor si quieres */
-    }
+    .mermaid svg text {
+  font-size: 16px; /* Prueba a aumentar un poco el tamaño de la fuente */
+  line-height: 1.5; /* Prueba a aumentar el interlineado */
+  padding-top: 5px; /* Prueba a añadir espacio superior al texto */
+  padding-bottom: 5px; /* Prueba a añadir espacio inferior al texto */
+}
 }
