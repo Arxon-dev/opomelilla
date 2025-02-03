@@ -19,13 +19,23 @@ El **Estado Mayor de la Defensa (EMAD)** es el **órgano principal de apoyo al J
 
 El EMAD se estructura en los siguientes componentes principales:
 
-*   [[CGEMAD\|Cuartel General del Estado Mayor de la Defensa (CGEMAD)]]
-*   [[MOPS\|Mando de Operaciones (MOPS)]]
-*   [[CIFAS\|Centro de Inteligencia de las Fuerzas Armadas (CIFAS)]]
-*   [[MCCE\|Mando Conjunto del Ciberespacio (MCCE)]]
-*   [[CESEDEN\|Centro Superior de Estudios de la Defensa Nacional (CESEDEN)]]
+*   [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CGEMAD\|Cuartel General del Estado Mayor de la Defensa (CGEMAD)]]
+*   [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOPS\|Mando de Operaciones (MOPS)]]
+*   [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CIFAS\|Centro de Inteligencia de las Fuerzas Armadas (CIFAS)]]
+*   [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Mando Conjunto del Ciberespacio (MCCE)\|Mando Conjunto del Ciberespacio (MCCE)]]
+*   [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CESEDEN\|Centro Superior de Estudios de la Defensa Nacional (CESEDEN)]]
 
-Además, dependen directamente del JEMAD las [[Organizaciones Operativas#Mandos Operativos permanentes\|Organizaciones Operativas Permanentes]] y los [[Organizaciones Operativas#Órganos Nacionales Militares OOII/Multinacionales\|Órganos Nacionales Militares relacionados con OOII/Multinacionales]].
+Además, dependen directamente del JEMAD las [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Organizaciones Operativas#Mandos Operativos permanentes\|Organizaciones Operativas Permanentes]] y los [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Organizaciones Operativas#Órganos Nacionales Militares OOII/Multinacionales\|Órganos Nacionales Militares relacionados con OOII/Multinacionales]].
+
+```mermaid
+flowchart TD
+    A[Estado Mayor de la Defensa EMAD] --> B(Cuartel General del EMAD CGEMAD)
+    A --> C(Mando de Operaciones MOPS)
+    A --> D(Centro de Inteligencia CIFAS)
+    A --> E(Mando Conjunto Ciberespacio MCCE)
+    A --> F(Centro Superior Estudios CESEDEN)
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+```
 
 **Importancia:**
 

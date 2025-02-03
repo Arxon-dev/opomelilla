@@ -56,7 +56,7 @@ La aplicación de esta orden ministerial, incluida la modificación de las unida
 
 ## Disposición adicional segunda. Atribuciones del Comandante del Mando Conjunto del Ciberespacio.
 
-💡 ***Tip/Consejo:*** *Esta disposición se centra en la **transición y continuidad** de las capacidades en el ámbito ciberespacial. El nuevo [[Mando Conjunto del Ciberespacio (MCCE)\|Mando Conjunto del Ciberespacio (MCCE)]] hereda las responsabilidades del antiguo [[Mando Conjunto de Ciberdefensa\|Mando Conjunto de Ciberdefensa]].  Es una medida para asegurar una **transición fluida**.*
+💡 ***Tip/Consejo:*** *Esta disposición se centra en la **transición y continuidad** de las capacidades en el ámbito ciberespacial. El nuevo [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Mando Conjunto del Ciberespacio (MCCE)\|Mando Conjunto del Ciberespacio (MCCE)]] hereda las responsabilidades del antiguo [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Mando Conjunto de Ciberdefensa\|Mando Conjunto de Ciberdefensa]].  Es una medida para asegurar una **transición fluida**.*
 
 🔑 ***Aspecto Clave:*** **_El Comandante del Mando Conjunto del Ciberespacio asume las atribuciones del Comandante del Mando Conjunto de Ciberdefensa._**
 
@@ -98,7 +98,7 @@ Sin perjuicio de lo dispuesto en la disposición adicional primera, se faculta a
 
 1. Adoptar las medidas necesarias para el desarrollo y ejecución de esta orden ministerial.
 
-2. Desarrollar, mediante instrucción y previa conformidad de la persona titular del **Ministerio de Defensa**, los cometidos concretos y los procedimientos de generación y de relación de los [[Organizaciones Operativas#Mandos Componentes designados\|Mandos Componentes]]. Designados.
+2. Desarrollar, mediante instrucción y previa conformidad de la persona titular del **Ministerio de Defensa**, los cometidos concretos y los procedimientos de generación y de relación de los [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Organizaciones Operativas#Mandos Componentes designados\|Mandos Componentes]] esignados.
 
 3. Crear aquellas unidades en el ámbito conjunto que estime oportunos, en coordinación con los Ejércitos y la Armada en los términos establecidos en el **artículo 3 de la Orden Ministerial 26/2020, de 11 de junio**, por la que se establecen los principios básicos comunes de la organización de las Fuerzas Armadas.
 
@@ -120,16 +120,16 @@ Madrid, 27 de julio de 2020.–La Ministra de Defensa, Margarita Robles Fernánd
 
 ## Artículo 1. Organización del Estado Mayor de la Defensa.
 
-💡 ***Tip/Consejo:*** *Este artículo es **fundamental**. Describe la **estructura general** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]], el vértice de la organización militar conjunta.  Memoriza los cinco componentes principales listados en el apartado 1 y las dos categorías de entidades subordinadas directamente al [[JEMAD\|JEMAD]] en el apartado 2.  Este artículo proporciona la **visión panorámica** de la organización.*
+💡 ***Tip/Consejo:*** *Este artículo es **fundamental**. Describe la **estructura general** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]], el vértice de la organización militar conjunta.  Memoriza los cinco componentes principales listados en el apartado 1 y las dos categorías de entidades subordinadas directamente al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]] en el apartado 2.  Este artículo proporciona la **visión panorámica** de la organización.*
 
 🔑 ***Aspecto Clave:*** **_El Estado Mayor de la Defensa (EMAD) se estructura en cinco componentes principales y tiene dos categorías de entidades directamente subordinadas al JEMAD._**
 
 1. El **Estado Mayor de la Defensa (EMAD)** se estructura de la siguiente forma:
-    * a) El **Cuartel General del Estado Mayor de la Defensa** ([[CGEMAD\|CGEMAD]]).
-    * b) El **Mando de Operaciones** ([[MOPS\|MOPS]]).
-    * c) El **Centro de Inteligencia de las Fuerzas Armadas** ([[CIFAS\|CIFAS]]).
-    * d) El **Mando Conjunto del Ciberespacio** ([[MCCE\|MCCE]]).
-    * e) El **Centro Superior de Estudios de la Defensa Nacional** ([[CESEDEN\|CESEDEN]]).
+    * a) El **Cuartel General del Estado Mayor de la Defensa** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CGEMAD\|CGEMAD]]).
+    * b) El **Mando de Operaciones** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOPS\|MOPS]]).
+    * c) El **Centro de Inteligencia de las Fuerzas Armadas** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CIFAS\|CIFAS]]).
+    * d) El **Mando Conjunto del Ciberespacio** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Mando Conjunto del Ciberespacio (MCCE)\|Mando Conjunto del Ciberespacio (MCCE)]]).
+    * e) El **Centro Superior de Estudios de la Defensa Nacional** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CESEDEN\|CESEDEN]]).
 
 ```mermaid
 flowchart TD
@@ -143,11 +143,11 @@ flowchart TD
 
 2. Directamente subordinados al **Jefe de Estado Mayor de la Defensa (JEMAD)**, se encuentran:
     * a) Las **organizaciones operativas permanentes**:
-        * 1.º El **Mando Operativo Terrestre** ([[MOT\|MOT]]).
-        * 2.º El **Mando Operativo Marítimo** ([[MOM\|MOM]]).
-        * 3.º El **Mando Operativo Aéreo** ([[MOA\|MOA]]).
-        * 4.º El **Mando Operativo Espacial** ([[MOESPA\|MOESPA]]).
-        * 5.º El **Mando Operativo Ciberespacial** ([[MOC\|MOC]]).
+        * 1.º El **Mando Operativo Terrestre** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOT\|MOT]]).
+        * 2.º El **Mando Operativo Marítimo** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOM\|MOM]]).
+        * 3.º El **Mando Operativo Aéreo** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOA\|MOA]]).
+        * 4.º El **Mando Operativo Espacial** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOESPA\|MOESPA]]).
+        * 5.º El **Mando Operativo Ciberespacial** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOC\|MOC]]).
     * b) Los **órganos nacionales militares relacionados con organizaciones internacionales o multinacionales**.
 
 ```mermaid
@@ -165,17 +165,17 @@ flowchart TD
 
 ## Artículo 2. Organización del Cuartel General del Estado Mayor de la Defensa.
 
-💡 ***Tip/Consejo:*** *Este artículo detalla la composición del [[CGEMAD\|CGEMAD]], el **núcleo de apoyo y asesoramiento** al [[JEMAD\|JEMAD]].  Familiarízate con los cinco componentes principales del CGEMAD, recordando que el [[EMACON\|EMACON]] es el elemento central dentro de este Cuartel General.*
+💡 ***Tip/Consejo:*** *Este artículo detalla la composición del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CGEMAD\|CGEMAD]], el **núcleo de apoyo y asesoramiento** al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]].  Familiarízate con los cinco componentes principales del CGEMAD, recordando que el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMACON\|EMACON]] es el elemento central dentro de este Cuartel General.*
 
 🔑 ***Aspecto Clave:*** **_El Cuartel General del Estado Mayor de la Defensa (CGEMAD) apoya y asesora al JEMAD y se compone de cinco elementos principales, incluyendo el EMACON._**
 
 1. El **Cuartel General del Estado Mayor de la Defensa (CGEMAD)**, es responsable de prestar el apoyo y asesoramiento al **JEMAD** en el ejercicio de sus competencias.
 
 2. El **CGEMAD** está integrado por:
-    * a) El **Estado Mayor Conjunto de la Defensa** ([[EMACON\|EMACON]]).
-    * b) La **Jefatura de Recursos Humanos** ([[JRRHH\|JRRHH]]).
+    * a) El **Estado Mayor Conjunto de la Defensa** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMACON\|EMACON]]).
+    * b) La **Jefatura de Recursos Humanos** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JRRHH\|JRRHH]]).
     * c) Los **Órganos de Asistencia y Asesoramiento**.
-    * d) La **Jefatura de Asuntos Económicos** ([[JAE\|JAE]]).
+    * d) La **Jefatura de Asuntos Económicos** ([[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JAE\|JAE]]).
     * e) Otros órganos que se determinen.
 
 ```mermaid
@@ -192,7 +192,7 @@ flowchart TD
 
 ## Artículo 3. El Estado Mayor Conjunto de la Defensa.
 
-💡 ***Tip/Consejo:*** *Este artículo profundiza en el [[EMACON\|EMACON]], el **órgano auxiliar clave** del [[JEMAD\|JEMAD]].  Estudia las diez divisiones, jefaturas y secciones que componen el EMACON, entendiendo sus funciones principales como apoyo en estrategia, planeamiento, operaciones y eficacia operativa de las [[FAS\|FAS]].  El EMACON es el **cerebro operativo** del EMAD.*
+💡 ***Tip/Consejo:*** *Este artículo profundiza en el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMACON\|EMACON]], el **órgano auxiliar clave** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]].  Estudia las diez divisiones, jefaturas y secciones que componen el EMACON, entendiendo sus funciones principales como apoyo en estrategia, planeamiento, operaciones y eficacia operativa de las [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/FAS\|FAS]].  El EMACON es el **cerebro operativo** del EMAD.*
 
 🔑 ***Aspecto Clave:*** **_El Estado Mayor Conjunto de la Defensa (EMACON) es el principal órgano auxiliar del JEMAD, responsable de apoyarle en la estrategia militar, planeamiento, operaciones y eficacia operativa de las FAS._**
 
@@ -247,7 +247,7 @@ graph LR
 
 ## Artículo 4. La Jefatura de Recursos Humanos.
 
-💡 ***Tip/Consejo:*** *Este artículo describe la [[JRRHH\|JRRHH]], responsable de la **gestión del personal** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Comprende las funciones de planeamiento, gestión, apoyo administrativo y logístico del personal militar y civil, así como el asesoramiento al [[JEMAD\|JEMAD]] en enseñanza y recursos humanos en el ámbito de las [[OISD\|OISD]].*
+💡 ***Tip/Consejo:*** *Este artículo describe la [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JRRHH\|JRRHH]], responsable de la **gestión del personal** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Comprende las funciones de planeamiento, gestión, apoyo administrativo y logístico del personal militar y civil, así como el asesoramiento al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]] en enseñanza y recursos humanos en el ámbito de las [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/OISD\|OISD]].*
 
 🔑 ***Aspecto Clave:*** **_La Jefatura de Recursos Humanos (JRRHH) es responsable del planeamiento y gestión del personal militar y civil del EMAD, así como de su apoyo y asesoramiento en materia de recursos humanos._**
 
@@ -275,7 +275,7 @@ flowchart TD
 
 ## Artículo 5. Los Órganos de Asistencia y Asesoramiento.
 
-💡 ***Tip/Consejo:*** *Este artículo enumera los [[Órganos de Asistencia y Asesoramiento\|Órganos de Asistencia y Asesoramiento]], que son **estructuras de apoyo directo** al [[JEMAD\|JEMAD]].  Identifica los cuatro órganos principales: Gabinete del JEMAD, GABTECJEMAD, SEPERCJEM y Asesoría Jurídica, y comprende brevemente sus funciones: apoyo directo, información pública y protocolo, secretaría de consejos y asesoramiento legal, respectivamente.*
+💡 ***Tip/Consejo:*** *Este artículo enumera los [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Órganos de Asistencia y Asesoramiento\|Órganos de Asistencia y Asesoramiento]], que son **estructuras de apoyo directo** al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]].  Identifica los cuatro órganos principales: Gabinete del JEMAD, GABTECJEMAD, SEPERCJEM y Asesoría Jurídica, y comprende brevemente sus funciones: apoyo directo, información pública y protocolo, secretaría de consejos y asesoramiento legal, respectivamente.*
 
 🔑 ***Aspecto Clave:*** **_Los Órganos de Asistencia y Asesoramiento son estructuras de apoyo directo al JEMAD en diversas áreas como gabinete, técnico, secretaría de consejos y asesoría jurídica._**
 
@@ -305,7 +305,7 @@ flowchart TD
 
 ## Artículo 6. La Jefatura de Asuntos Económicos.
 
-💡 ***Tip/Consejo:*** *Este artículo describe la [[JAE\|JAE]], responsable de la **gestión económica y financiera** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Comprende la dirección, gestión y administración de los recursos financieros, el asesoramiento económico al [[JEMAD\|JEMAD]], y la elaboración del anteproyecto de presupuesto.  Depende funcionalmente de la Dirección General de Asuntos Económicos.*
+💡 ***Tip/Consejo:*** *Este artículo describe la [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JAE\|JAE]], responsable de la **gestión económica y financiera** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]].  Comprende la dirección, gestión y administración de los recursos financieros, el asesoramiento económico al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]], y la elaboración del anteproyecto de presupuesto.  Depende funcionalmente de la Dirección General de Asuntos Económicos.*
 
 🔑 ***Aspecto Clave:*** **_La Jefatura de Asuntos Económicos (JAE) gestiona los recursos financieros del EMAD, asesora al JEMAD en materia económica y elabora el anteproyecto de presupuesto._**
 
@@ -313,7 +313,7 @@ La **Jefatura de Asuntos Económicos (JAE)** es el órgano responsable de la dir
 
 ## Artículo 7. El Mando de Operaciones.
 
-💡 ***Tip/Consejo:*** *Este artículo detalla el [[MOPS\|MOPS]], el **órgano central para la conducción de las operaciones militares**.  Comprende sus funciones de planeamiento operativo, conducción, seguimiento y sostenimiento de operaciones, así como el asesoramiento operacional al [[JEMAD\|JEMAD]].  Estudia los siete componentes del MOPS, destacando el [[EMMOPS\|EMMOPS]] como su principal órgano auxiliar y el [[MCOE\|MCOE]] para Operaciones Especiales.*
+💡 ***Tip/Consejo:*** *Este artículo detalla el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MOPS\|MOPS]], el **órgano central para la conducción de las operaciones militares**.  Comprende sus funciones de planeamiento operativo, conducción, seguimiento y sostenimiento de operaciones, así como el asesoramiento operacional al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]].  Estudia los siete componentes del MOPS, destacando el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMMOPS\|EMMOPS]] como su principal órgano auxiliar y el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/MCOE\|MCOE]] para Operaciones Especiales.*
 
 🔑 ***Aspecto Clave:*** **_El Mando de Operaciones (MOPS) es el órgano responsable del planeamiento, conducción, seguimiento y sostenimiento de las operaciones militares, asesorando al JEMAD en el nivel operacional._**
 
@@ -353,7 +353,7 @@ graph LR
 
 ## Artículo 8. El Centro de Inteligencia de las Fuerzas Armadas.
 
-💡 ***Tip/Consejo:*** *Este artículo describe el [[CIFAS\|CIFAS]], el **servicio de inteligencia militar** de las [[FAS\|FAS]].  Comprende su misión de proporcionar inteligencia militar al Ministerio de Defensa y al [[JEMAD\|JEMAD]] para la alerta temprana de crisis y el apoyo a las operaciones.  También asesora en contrainteligencia y seguridad militar.*
+💡 ***Tip/Consejo:*** *Este artículo describe el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CIFAS\|CIFAS]], el **servicio de inteligencia militar** de las [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/FAS\|FAS]].  Comprende su misión de proporcionar inteligencia militar al Ministerio de Defensa y al [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]] para la alerta temprana de crisis y el apoyo a las operaciones.  También asesora en contrainteligencia y seguridad militar.*
 
 🔑 ***Aspecto Clave:*** **_El Centro de Inteligencia de las Fuerzas Armadas (CIFAS) proporciona inteligencia militar para la alerta temprana de crisis, apoya las operaciones y asesora en contrainteligencia y seguridad militar._**
 
@@ -361,7 +361,7 @@ El **Centro de Inteligencia de las Fuerzas Armadas (CIFAS)** es el órgano respo
 
 ## Artículo 9. El Mando Conjunto del Ciberespacio.
 
-💡 ***Tip/Consejo:*** *Este artículo detalla el [[MCCE\|MCCE]], el **mando responsable de las operaciones en el ciberespacio**.  Comprende su misión de asegurar la libertad de acción de las [[FAS\|FAS]] en este ámbito, incluyendo la planificación, dirección, coordinación, control y ejecución de acciones ciber.  Estudia los diez componentes del MCCE, resaltando la [[FOCE\|FOCE]] para la ejecución de operaciones y la [[EMCO\|EMCO]] para la formación en ciberoperaciones.*
+💡 ***Tip/Consejo:*** *Este artículo detalla el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Mando Conjunto del Ciberespacio (MCCE)\|Mando Conjunto del Ciberespacio (MCCE)]], el **mando responsable de las operaciones en el ciberespacio**.  Comprende su misión de asegurar la libertad de acción de las [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/FAS\|FAS]] en este ámbito, incluyendo la planificación, dirección, coordinación, control y ejecución de acciones ciber.  Estudia los diez componentes del MCCE, resaltando la [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/FOCE\|FOCE]] para la ejecución de operaciones y la [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMCO\|EMCO]] para la formación en ciberoperaciones.*
 
 🔑 ***Aspecto Clave:*** **_El Mando Conjunto del Ciberespacio (MCCE) es responsable de asegurar la libertad de acción de las FAS en el ciberespacio mediante la planificación y ejecución de operaciones ciberdefensa._**
 
@@ -409,7 +409,7 @@ graph LR
 
 ## Artículo 10. El Centro Superior de Estudios de la Defensa Nacional.
 
-💡 ***Tip/Consejo:*** *Este artículo describe el [[CESEDEN\|CESEDEN]], el **principal centro de enseñanza militar conjunta**.  Comprende su misión de impartir cursos de Altos Estudios de la Defensa Nacional, investigación en seguridad y defensa, y fomento de la cultura de seguridad y defensa.  Estudia los diez componentes del CESEDEN, destacando la [[ESFAS\|ESFAS]] para la formación de oficiales de Estado Mayor y el [[IEEE\|IEEE]] para la investigación estratégica.*
+💡 ***Tip/Consejo:*** *Este artículo describe el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/CESEDEN\|CESEDEN]], el **principal centro de enseñanza militar conjunta**.  Comprende su misión de impartir cursos de Altos Estudios de la Defensa Nacional, investigación en seguridad y defensa, y fomento de la cultura de seguridad y defensa.  Estudia los diez componentes del CESEDEN, destacando la [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/ESFAS\|ESFAS]] para la formación de oficiales de Estado Mayor y el [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/IEEE\|IEEE]] para la investigación estratégica.*
 
 🔑 ***Aspecto Clave:*** **_El Centro Superior de Estudios de la Defensa Nacional (CESEDEN) es el principal centro docente militar conjunto, dedicado a la formación de altos mandos, la investigación en seguridad y defensa, y la difusión de la cultura de defensa._**
 
@@ -456,7 +456,7 @@ graph LR
 
 ## Artículo 11. Las Organizaciones Operativas.
 
-💡 ***Tip/Consejo:*** *Este artículo describe la **estructura operativa de las [[FAS\|FAS]]** bajo el mando del [[JEMAD\|JEMAD]].  Distingue entre [[Organizaciones Operativas#Mandos Componentes designados\|Mandos Componentes designados]] (activados según necesidad) y [[Organizaciones Operativas#Mandos Operativos permanentes\|Mandos Operativos permanentes]] (activos continuamente).  Memoriza los cinco Mandos Componentes designados y los cinco Mandos Operativos permanentes, y comprende su relación con los ámbitos terrestre, marítimo, aéreo, espacial y ciberespacial.*
+💡 ***Tip/Consejo:*** *Este artículo describe la **estructura operativa de las [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/FAS\|FAS]]** bajo el mando del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/JEMAD\|JEMAD]].  Distingue entre [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Organizaciones Operativas#Mandos Componentes designados\|Mandos Componentes designados]] (activados según necesidad) y [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/Organizaciones Operativas#Mandos Operativos permanentes\|Mandos Operativos permanentes]] (activos continuamente).  Memoriza los cinco Mandos Componentes designados y los cinco Mandos Operativos permanentes, y comprende su relación con los ámbitos terrestre, marítimo, aéreo, espacial y ciberespacial.*
 
 🔑 ***Aspecto Clave:*** **_La estructura operativa de las FAS, bajo el mando del JEMAD, se compone de Mandos Componentes designados y Mandos Operativos permanentes, abarcando los ámbitos físico y ciberespacial._**
 
@@ -505,7 +505,7 @@ graph LR
 
 ## Artículo 12. Los órganos nacionales militares relacionados con organizaciones internacionales o multinacionales.
 
-💡 ***Tip/Consejo:*** *Este artículo describe los [[órganos nacionales militares relacionados con organizaciones internacionales o multinacionales\|órganos nacionales militares relacionados con organizaciones internacionales o multinacionales]], que son las **representaciones e integraciones** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]] en el ámbito internacional.  Comprende las cuatro categorías principales: representaciones militares, elementos nacionales, elementos nacionales de apoyo y contingentes nacionales, y memoriza los ejemplos de representaciones militares y elementos nacionales citados.*
+💡 ***Tip/Consejo:*** *Este artículo describe los [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/órganos nacionales militares relacionados con organizaciones internacionales o multinacionales\|órganos nacionales militares relacionados con organizaciones internacionales o multinacionales]], que son las **representaciones e integraciones** del [[OpoMelilla/BLOQUE 1/Notas Tema 6. EMAD/EMAD\|EMAD]] en el ámbito internacional.  Comprende las cuatro categorías principales: representaciones militares, elementos nacionales, elementos nacionales de apoyo y contingentes nacionales, y memoriza los ejemplos de representaciones militares y elementos nacionales citados.*
 
 🔑 ***Aspecto Clave:*** **_Los órganos nacionales militares relacionados con organizaciones internacionales o multinacionales representan e integran al EMAD en el ámbito internacional, incluyendo representaciones militares, elementos nacionales, de apoyo y contingentes._**
 
