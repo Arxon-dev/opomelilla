@@ -461,32 +461,15 @@ graph LR
 
 
 ```mermaid
-graph LR
-    A[Delegación Legislativa] --> B[Habilitación]
-    B --> B1[Art. 82.1: Cortes Generales delegan en el Gobierno]
-    B --> B2[Art. 82.1: Normas con rango de ley en materias no orgánicas]
-  
-    A --> C[Forma de Delegación]
-    C --> C1[Art. 82.2: Ley ordinaria]
-     C --> C2[Art. 82.2: Ley de bases textos articulados]
+graph TB
+    A((Delegación<br>Legislativa))
+    A --> B{Bases}
+    A --> C{Requisitos}
+    A --> D{Control}
     
-    A --> D[Requisitos]
-    D --> D1[Art. 82.3: Expresa y para materia concreta]
-     D --> D2[Art. 82.3: Fijación de plazo para ejercicio]
-     D --> D3[Art. 82.3: Agotamiento por uso del Gobierno]
-     D --> D4[Art. 82.3: Prohibida delegación implícita o por tiempo indeterminado]
-     D --> D5[Art. 82.3: Prohibida subdelegación]
-    
-    A --> E[Leyes de Bases]
-    E --> E1[Art. 82.4: Delimitan objeto y alcance de la delegación]
-     E --> E2[Art. 82.4: Principios y criterios a seguir]
-    
-    A --> F[Refundición de Textos]
-    F --> F1[Art. 82.5: Determinación del ámbito normativo]
-     F --> F2[Art. 82.5: Especificación sobre formulación o regulación]
-    
-    A --> G[Control Adicional]
-    G --> G1[Art. 82.6: Fórmulas adicionales de control en la ley de delegación]
+    B --> B1[Art 82.1-2<br>Delegación<br>Ley base/ordinaria]
+    C --> C1[Art 82.3<br>Concreta/Plazo<br>No subdelegación]
+    D --> D1[Art 82.4-6<br>Principios<br>Fórmulas control]
 ```
 **Artículo 83.**
 
