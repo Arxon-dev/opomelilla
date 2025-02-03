@@ -11,10 +11,8 @@ body {
     //   color: black;
     //  }
 
-    .mermaid svg text {
-  font-size: 16px; /* Prueba a aumentar un poco el tamaño de la fuente */
-  line-height: 1.5; /* Prueba a aumentar el interlineado */
-  padding-top: 15px; /* Prueba a añadir espacio superior al texto */
-  padding-bottom: 25px; /* Prueba a añadir espacio inferior al texto */
+    .mermaid svg g.node {
+  padding-top: 10px; /* Prueba a ajustar este valor */
+  padding-bottom: 10px; /* Prueba a ajustar este valor */
 }
 }
