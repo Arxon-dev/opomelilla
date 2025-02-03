@@ -14,5 +14,10 @@ body {
     .mermaid svg g.node {
   padding-top: 10px; /* Prueba a ajustar este valor */
   padding-bottom: 10px; /* Prueba a ajustar este valor */
+    min-height: 400px; /* Aumenta la altura de los diagramas Mermaid - ajusta este valor si quieres */
 }
+   
+
+   
+
 }
