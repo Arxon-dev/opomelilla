@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/opo-melilla/bloque-1/tema-1-constitucion-organizacion-politica-y-territorial-del-estado/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/opo-melilla/bloque-1/tema-1-constitucion-organizacion-politica-y-territorial-del-estado/","tags":["gardenEntry"]}
 ---
 
 # Constitución Española de 1978 - Títulos III, IV, V, VI y VIII

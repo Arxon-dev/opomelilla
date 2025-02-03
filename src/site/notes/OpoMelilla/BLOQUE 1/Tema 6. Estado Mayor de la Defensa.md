@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/opo-melilla/bloque-1/tema-6-estado-mayor-de-la-defensa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/opo-melilla/bloque-1/tema-6-estado-mayor-de-la-defensa/"}
 ---
 
 
@@ -212,7 +212,7 @@ flowchart TD
     * k) Otras unidades que se determinen.
 
 ```mermaid
-flowchart TD
+graph LR
     A[Estado Mayor Conjunto de la Defensa EMACON] --> B(Jefatura)
     A --> C(Secretaría General SEGEMACON)
     A --> D(División de Planes DIVPLA)
