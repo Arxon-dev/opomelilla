@@ -4,7 +4,7 @@
 
 # Jefe de Estado Mayor de la Defensa (JEMAD)
 
-El **Jefe de Estado Mayor de la Defensa (JEMAD)** es el **máximo responsable militar de las Fuerzas Armadas (FAS) en el ámbito operativo**.  Es la **autoridad militar de mayor rango** en la estructura de mando conjunta y depende directamente de la persona titular del [[Ministerio de Defensa\|Ministerio de Defensa]].
+El **Jefe de Estado Mayor de la Defensa (JEMAD)** es el **máximo responsable militar de las Fuerzas Armadas (FAS) en el ámbito operativo**.  Es la **autoridad militar de mayor rango** en la estructura de mando conjunta y depende directamente de la persona titular del [[OpoMelilla/BLOQUE 1/Tema 4/Ministerio de Defensa\|Ministerio de Defensa]].
 
 **Rol y Funciones Principales del JEMAD:**
 

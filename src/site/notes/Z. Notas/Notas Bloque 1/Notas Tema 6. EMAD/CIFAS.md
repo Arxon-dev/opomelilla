@@ -9,7 +9,7 @@ El **Centro de Inteligencia de las Fuerzas Armadas (CIFAS)** es uno de los **com
 
 **Rol y Función Principal del CIFAS:**
 
-El CIFAS es el **órgano central de inteligencia militar** de las Fuerzas Armadas (FAS) de España. Su función principal es **proporcionar *inteligencia militar* a la persona titular del [[Ministerio de Defensa\|Ministerio de Defensa]], a través del [[Z. Notas/Notas Bloque 1/Notas Tema 6. EMAD/JEMAD\|Jefe de Estado Mayor de la Defensa]]**, y a otras autoridades del Departamento.  Esta inteligencia es **esencial para la toma de decisiones estratégicas y operativas** en materia de defensa nacional.
+El CIFAS es el **órgano central de inteligencia militar** de las Fuerzas Armadas (FAS) de España. Su función principal es **proporcionar *inteligencia militar* a la persona titular del [[OpoMelilla/BLOQUE 1/Tema 4/Ministerio de Defensa\|Ministerio de Defensa]], a través del [[Z. Notas/Notas Bloque 1/Notas Tema 6. EMAD/JEMAD\|Jefe de Estado Mayor de la Defensa]]**, y a otras autoridades del Departamento.  Esta inteligencia es **esencial para la toma de decisiones estratégicas y operativas** en materia de defensa nacional.
 
 En esencia, el CIFAS actúa como el **servicio de inteligencia *conjunto* de las FAS**,  recopilando, analizando y difundiendo información relevante para **alertar sobre posibles crisis y amenazas** a la seguridad y defensa de España, y para **apoyar las operaciones militares**.
 

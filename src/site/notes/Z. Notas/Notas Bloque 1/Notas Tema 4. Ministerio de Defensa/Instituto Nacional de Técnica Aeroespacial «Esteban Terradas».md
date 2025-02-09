@@ -3,7 +3,7 @@
 ---
 
 ## Dependencia:
-Está **adscrito a la [[Secretaría de Estado de Defensa\|Secretaría de Estado de Defensa]]** del [[Ministerio de Defensa\|Ministerio de Defensa]].
+Está **adscrito a la [[Secretaría de Estado de Defensa\|Secretaría de Estado de Defensa]]** del [[OpoMelilla/BLOQUE 1/Tema 4/Ministerio de Defensa\|Ministerio de Defensa]].
 
 # Organismos Adscritos a la Secretaría de Estado de Defensa: 
 * [[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Instituto Nacional de Técnica Aeroespacial «Esteban Terradas»\|Instituto Nacional de Técnica Aeroespacial «Esteban Terradas»]] 
