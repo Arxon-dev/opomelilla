@@ -210,11 +210,11 @@ graph LR
     * a) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Estrategia e Innovación de la Industria de Defensa\|Dirección General de Estrategia e Innovación de la Industria de Defensa]].**
     * b) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Armamento y Material\|Dirección General de Armamento y Material]].**
     * c) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]].**
-    * d) La **[[Dirección General de Infraestructura\|Dirección General de Infraestructura]].**
-    * e) El **[[Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]].**
+    * d) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Infraestructura\|Dirección General de Infraestructura]].**
+    * e) El **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]].**
 
 10.  La persona titular de la Secretaría de Estado cuenta, como **órganos de apoyo, asesoramiento y asistencia inmediata**, con:
-    * un **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Gabinetes JEMAD\|Gabinetes JEMAD]]**, con **nivel orgánico de subdirección general** y con la estructura que establece el artículo 23.3 del **[[Real Decreto 1009/2023, de 5 de diciembre\|Real Decreto 1009/2023, de 5 de diciembre]]**, y
+    * un **[[Gabinete\|Gabinete]]**, con **nivel orgánico de subdirección general** y con la estructura que establece el artículo 23.3 del **Real Decreto 1009/2023, de 5 de diciembre**, y
     * un **[[Gabinete Técnico\|Gabinete Técnico]]**, cuya persona titular será un **oficial general u oficial**, también con **rango de subdirector general.**
 
 11.  La persona titular de la Secretaría de Estado de Defensa ostentará, en materias propias de su competencia, por **delegación de la persona titular del Ministerio de Defensa**, la **representación del Departamento** en los casos en que ésta se la encomiende.
@@ -242,7 +242,7 @@ graph LR
     D --> D2[[Dirección General de Armamento y Material]]
     D --> D3[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]]
     D --> D4[[Dirección General de Infraestructura]]
-    D --> D5[[Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]]
+    D --> D5[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]]
     A --> E[Gabinete «Subdirección General»]
     A --> F[Gabinete Técnico «Subdirección General»]
     A --> G[Representación del Departamento «Delegada»]
@@ -1251,7 +1251,7 @@ Todos los Departamentos ministeriales, en el ámbito de sus respectivas competen
 
 ### Disposición adicional tercera. Redes y sistemas de información y telecomunicaciones. 🌐
 
-💡 ***Tip/Consejo:*** *Esta disposición regula el uso de las **redes y sistemas de información y telecomunicaciones** del Ministerio de Defensa.  Destaca el rol del **[[Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]] (CESTIC)** en la dirección y gestión de estas redes, la posibilidad de uso por otros organismos de la AGE y por la Dirección General de Protección Civil y Emergencias en situaciones de emergencia, y la excepción para las redes del CNI.*
+💡 ***Tip/Consejo:*** *Esta disposición regula el uso de las **redes y sistemas de información y telecomunicaciones** del Ministerio de Defensa.  Destaca el rol del **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]] (CESTIC)** en la dirección y gestión de estas redes, la posibilidad de uso por otros organismos de la AGE y por la Dirección General de Protección Civil y Emergencias en situaciones de emergencia, y la excepción para las redes del CNI.*
 
 🔑 ***Aspecto Clave: El CESTIC dirige y gestiona las redes y sistemas de información y telecomunicaciones del Ministerio de Defensa, con posibilidad de uso por otros organismos y excepciones para las redes del CNI.***
 

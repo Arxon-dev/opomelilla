@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/z-notas/notas-bloque-1/notas-tema-4-ministerio-de-defensa/direccion-general-de-armamento-y-material/","title":"Dirección General de Armamento y Material"}
 ---
 
-## Dirección General de Armamento y Material ⚔️
-
 💡 ***Tip/Consejo:*** *Este artículo se centra en la **Dirección General de Armamento y Material**, el órgano directivo encargado de la **política de armamento y material del Ministerio de Defensa**.  Distingue sus funciones de planificación, gestión de programas, inspección y regulación en este ámbito.  Observa su dependencia funcional y las Subdirecciones Generales que la integran.*
 
 🔑 ***Aspecto Clave: La Dirección General de Armamento y Material planifica, desarrolla y supervisa la política de armamento y material del Ministerio de Defensa, gestionando la adquisición, modernización y sostenimiento de sistemas de armas y equipos.***

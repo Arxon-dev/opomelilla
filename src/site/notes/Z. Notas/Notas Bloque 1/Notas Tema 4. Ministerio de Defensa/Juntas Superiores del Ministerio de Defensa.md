@@ -5,8 +5,6 @@
 
 [[Real Decreto 205/2024, de 27 de febrero#Artículo 18. Juntas Superiores. 🥈\|Volver al Artículo 18 del Real Decreto 205/2024]]
 
-## Juntas Superiores del Ministerio de Defensa 🥈
-
 ### Naturaleza Jurídica 🏛️
 
 Al igual que los Consejos Superiores, las Juntas Superiores del Ministerio de Defensa son **órganos colegiados asesores y consultivos**.  Comparten la misma naturaleza no vinculante y de apoyo a la toma de decisiones, pero se diferencian en su ámbito de actuación y en las autoridades a las que asesoran:

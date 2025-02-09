@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/z-notas/notas-bloque-1/notas-tema-4-ministerio-de-defensa/direccion-general-de-estrategia-e-innovacion-de-la-industria-de-defensa/"}
 ---
 
-## Dirección General de Estrategia e Innovación de la Industria de Defensa 🏭
-
 💡 ***Tip/Consejo:*** *Este artículo describe la **Dirección General de Estrategia e Innovación de la Industria de Defensa**, un órgano directivo **fundamental para la política industrial y tecnológica del Ministerio**.  Es clave entender su rol en la planificación, la innovación, la cooperación internacional y el control del comercio exterior en el ámbito de la defensa. Observa las Subdirecciones Generales que la componen y sus funciones.*
 
 🔑 ***Aspecto Clave: La Dirección General de Estrategia e Innovación de la Industria de Defensa es el órgano responsable de la política industrial de defensa, la innovación tecnológica, la cooperación internacional en la industria de defensa y el control del comercio exterior de material de defensa.***

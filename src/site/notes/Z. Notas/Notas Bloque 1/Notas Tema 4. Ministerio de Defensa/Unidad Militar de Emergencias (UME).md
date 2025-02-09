@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-notas/notas-bloque-1/notas-tema-4-ministerio-de-defensa/unidad-militar-de-emergencias-ume/"}
 ---
 
-## Unidad Militar de Emergencias (UME) 🚒
+## UME 🚒
 
 ### Naturaleza Jurídica y Dependencia 🏛️
 

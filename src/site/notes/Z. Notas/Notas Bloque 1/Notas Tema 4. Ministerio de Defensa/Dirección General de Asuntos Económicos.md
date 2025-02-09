@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/z-notas/notas-bloque-1/notas-tema-4-ministerio-de-defensa/direccion-general-de-asuntos-economicos/","title":"Dirección General de Asuntos Económicos"}
 ---
 
-
-## Dirección General de Asuntos Económicos 💰
-
 💡 ***Tip/Consejo:*** *Este artículo describe la **Dirección General de Asuntos Económicos**, el órgano directivo clave para la **gestión económica y financiera del Ministerio de Defensa**.  Presta especial atención a sus funciones presupuestarias, contables, de contratación y su rol en la representación económica internacional del Departamento.  Analiza las Subdirecciones Generales y la Oficina Presupuestaria, y sus responsabilidades específicas.*
 
 🔑 ***Aspecto Clave: La Dirección General de Asuntos Económicos es el órgano directivo responsable de la política económica y financiera del Ministerio de Defensa, abarcando la contabilidad, el presupuesto, la gestión económica, la contratación y la representación internacional en asuntos económicos.***
