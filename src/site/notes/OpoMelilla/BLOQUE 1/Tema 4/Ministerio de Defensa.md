@@ -100,11 +100,11 @@ DISPONGO:
 
 4.  Está **adscrito** al Ministerio de Defensa, con **dependencia directa de la persona titular del Departamento**, el **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Centro Nacional de Inteligencia\|Centro Nacional de Inteligencia]].**
 
-5.  La **[[Guardia Civil\|Guardia Civil]]** depende de la **persona titular del Ministerio de Defensa** en los términos previstos en:
-    * **[[Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad\|Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad]]**;
+5.  La **Guardia Civil** depende de la **persona titular del Ministerio de Defensa** en los términos previstos en:
+    * **Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad**;
     * **[[Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional\|Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional]]**;
-    * **[[Ley Orgánica 12/2007, de 22 de octubre, del régimen disciplinario de la Guardia Civil\|Ley Orgánica 12/2007, de 22 de octubre, del régimen disciplinario de la Guardia Civil]]**, y
-    * **[[Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil\|Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil]].**
+    * **Ley Orgánica 12/2007, de 22 de octubre, del régimen disciplinario de la Guardia Civil**, y
+    * **Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil.**
 
 6.  Son **órganos asesores y consultivos** de la persona titular del Departamento:
     * a) El **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Consejos Superiores del Ministerio de Defensa\|Consejo Superior del Ejército de Tierra]].**
@@ -208,8 +208,8 @@ graph LR
 
 9.  De la Secretaría de Estado de Defensa dependen los siguientes **órganos directivos, con rango de Dirección General**:
     * a) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Estrategia e Innovación de la Industria de Defensa\|Dirección General de Estrategia e Innovación de la Industria de Defensa]].**
-    * b) La **[[Dirección General de Armamento y Material\|Dirección General de Armamento y Material]].**
-    * c) La **[[Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]].**
+    * b) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Armamento y Material\|Dirección General de Armamento y Material]].**
+    * c) La **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]].**
     * d) La **[[Dirección General de Infraestructura\|Dirección General de Infraestructura]].**
     * e) El **[[Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]].**
 
@@ -240,7 +240,7 @@ graph LR
     A --> D{Órganos Directivos Dependientes «Dirección General»}
     D --> D1[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Estrategia e Innovación de la Industria de Defensa\|Dirección General de Estrategia e Innovación de la Industria de Defensa]]
     D --> D2[[Dirección General de Armamento y Material]]
-    D --> D3[[Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]]
+    D --> D3[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]]
     D --> D4[[Dirección General de Infraestructura]]
     D --> D5[[Centro de Sistemas y Tecnologías de la Información y las Comunicaciones\|Centro de Sistemas y Tecnologías de la Información y las Comunicaciones]]
     A --> E[Gabinete «Subdirección General»]
@@ -440,7 +440,7 @@ graph LR
 25.  Corresponden a esta dirección general, en el ámbito de sus competencias, las siguientes **funciones**:
     * a) **Dirigir la ordenación territorial de la infraestructura del Departamento.**
     * b) **Proponer, definir e implementar las políticas de infraestructura mediante planes y programas**, **efectuando el seguimiento de su ejecución.**
-    * c) **Realizar el seguimiento de los programas y proyectos internacionales en materia de infraestructura**, en coordinación con la **[[Dirección General de Política de Defensa\|Dirección General de Política de Defensa]]**, la **[[Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]]** y el **[[Estado Mayor Conjunto\|Estado Mayor Conjunto]]** en lo que afecta a la participación nacional en los Programas de Inversiones en Seguridad de la OTAN (NSIP).
+    * c) **Realizar el seguimiento de los programas y proyectos internacionales en materia de infraestructura**, en coordinación con la **[[Dirección General de Política de Defensa\|Dirección General de Política de Defensa]]**, la **[[Z. Notas/Notas Bloque 1/Notas Tema 4. Ministerio de Defensa/Dirección General de Asuntos Económicos\|Dirección General de Asuntos Económicos]]** y el **[[Estado Mayor Conjunto\|Estado Mayor Conjunto]]** en lo que afecta a la participación nacional en los Programas de Inversiones en Seguridad de la OTAN (NSIP).
     * d) **Proponer, definir y desarrollar la política medioambiental del Departamento** y **dirigir y supervisar su ejecución.**
     * e) **Proponer, definir y desarrollar la política energética del Departamento** y **dirigir y supervisar su ejecución.**
     * f) **Participar y realizar el seguimiento de programas y proyectos nacionales e internacionales en materia de medio ambiente y eficiencia energética**, en coordinación, cuando corresponda, con la **[[Dirección General de Política de Defensa\|Dirección General de Política de Defensa]].**
